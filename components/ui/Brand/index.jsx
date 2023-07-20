@@ -1,20 +1,5 @@
-// import Image from "next/image"
-// import logoo from "../../../../split/components/logoo.svg"
-
-// const Brand = ({ ...props }) => (
-//     <Image
-//         src={logoo}
-//         alt="Split logo"
-//         {...props}
-//         width={86}
-//         height={48}
-//         priority
-//     />
-// )
-// export default Brand
-
 import Image from "next/image";
-import logoo from "../Brand/logoo";
+import logoo from "../Brand/Logoo.svg";
 
 const Brand = ({ ...props }) => (
   <div className="flex items-center">
