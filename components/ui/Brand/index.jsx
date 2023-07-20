@@ -14,7 +14,7 @@
 // export default Brand
 
 import Image from "next/image";
-import logoo from "../../../../split/components/logoo.svg";
+import logoo from "../Brand/logoo";
 
 const Brand = ({ ...props }) => (
   <div className="flex items-center">
