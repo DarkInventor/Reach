@@ -1,6 +1,10 @@
 import { useRouter } from 'next/router';
 import GradientWrapper from '../../GradientWrapper';
 import NavLink from '../NavLink';
+import Image from 'next/image';
+
+// import twt8 from '../../../public/twt8.png';
+
 
 const Hero = () => {
   const router = useRouter();
@@ -52,6 +56,7 @@ const Hero = () => {
           </div>
         </div>
       </GradientWrapper>
+
     </section>
   );
 };
