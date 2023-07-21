@@ -17,7 +17,7 @@ const CTA = () => {
   const handleGetStartedClick = () => {
     // Redirect the user to the provided URL
     window.location.href =
-      'https://checkout.stripe.com/c/pay/cs_live_a1oYas6WOoVDpX6vejGAuoeoYYYbempqkg6jCLv43vL2ZQERjS1ia1IdJ7#fidkdWxOYHwnPyd1blppbHNgWjA0S1NoVGpANX1vdWtXNkNDUDBgbzRjZmZBdmtBRE03VDc1SXdod0JtPV09QkZRVnBANWJEND1QV3JXYmNsNEdANG1CbzJwUFBBREhhNlR0UGZocnZsdHd%2FNTViRjZrNHBIaCcpJ3VpbGtuQH11anZgYUxhJz8nPXJIPEBBPExDYEpPZk9CNDExJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKnErZmoqJ3gl';
+      'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
   };
 
     return (
