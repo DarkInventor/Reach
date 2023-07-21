@@ -16,10 +16,10 @@ const FooterCTA = () => {
             <div className="custom-screen  gap-x-12 justify-between md:flex">
                 <div className="max-w-xl">
                     <h2 className="text-white text-3xl font-semibold sm:text-4xl">
-                        Grow up your online business with few steps
+                    Let's Supercharge Your Business Now!
                     </h2>
                     <p className="mt-3 text-gray-300">
-                        we can help you grow your online business quickly using the best tools in the market.
+                    Join us on the path to success and witness your AI tool shine in the global AI landscape!
                     </p>
                 </div>
                 <div className="flex-none mt-4 md:mt-0">
