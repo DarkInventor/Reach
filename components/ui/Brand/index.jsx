@@ -6,12 +6,13 @@ const Brand = ({ ...props }) => (
     <Image src={logoo} alt="Split logo" {...props} width={86} height={48} priority />
     <div style={{
       background: "linear-gradient(90deg, #9867F0, #ED4E50)",
+      // backgroundColor: "black",
       WebkitBackgroundClip: "text",
       backgroundClip: "text",
       WebkitTextFillColor: "transparent",
       fontSize: "24px",
       fontWeight: "bold",
-      fontFamily: "'Your Calligraphy Font', cursive",
+      fontFamily: "'ui-sans-serif'",
       marginLeft: "10px"
     }}>
       REACH
