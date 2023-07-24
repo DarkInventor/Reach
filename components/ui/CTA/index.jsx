@@ -25,10 +25,10 @@ const CTA = () => {
             <div className="custom-screen flex flex-col-reverse gap-x-12 justify-between md:flex-row md:items-center">
                 <div className="flex-none max-w-xl mt-12 space-y-3 md:mt-0">
                     <h2 className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                        Maximize Your AI Product's Reach - Simply Submit Your URL!
+                        Maximize Your AI Product's Reach - Simply Submit Your URL
                     </h2>
                     <p className="text-gray-600">
-                    Guaranteed continuous traffic to your AI product! Submit your AI product's URL, and we'll handle the rest. Get featured on 100+ top AI directories, skyrocketing your visibility. Watch your AI product thrive in the global AI landscape!
+                    Guaranteed continuous traffic to your AI product. Submit your AI product's URL, and we'll handle the rest. Get featured on 100+ top AI directories, skyrocketing your visibility. Watch your AI product thrive in the global AI landscape.
                     </p>
                     <div className="pt-1">
                         <NavLink
@@ -48,7 +48,7 @@ const CTA = () => {
                 </div>
             </div>
             <h5 class="text-2xl text-gray-800 font-extrabold mx-auto sm:text-3xl text-center mt-20">
-    Buzzing  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> Feedback from Users!</span>
+    Buzzing  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> Feedback from Users</span>
 </h5>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mt-20">
   <div class="grid gap-4 ml-4">

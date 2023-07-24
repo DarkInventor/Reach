@@ -5,7 +5,19 @@ export default function App({ Component, pageProps }) {
   return (
     <main>
       <Head>
-        <title>Split</title>
+     
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KNSYHD9XC0"></script>
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-KNSYHD9XC0');
+        `,
+      }}
+    />
+        <title>Reach</title>
         <meta
           name='description'
           content='The ultimate way to get more website traffic and grow your online business.'

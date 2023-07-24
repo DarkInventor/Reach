@@ -20,9 +20,9 @@ const Hero = () => {
       <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-600">
         <div className="space-y-5 max-w-4xl mx-auto text-center">
           <h1 className="text-4xl text-gray-800 font-extrabold mx-auto sm:text-6xl">
-            Skyrocket Your AI Tool's Exposure - 100+{' '}
+            Get your product featured on the top 100+{' '}
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
-            AI Directories Submission Service!
+            AI Directories Submission Service
             </span>
           </h1>
           <p className="max-w-xl mx-auto">
