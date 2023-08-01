@@ -15,7 +15,7 @@ const faqsList = [
     // },
     {
         q: "How do you generate traffic to a website?",
-        a: "AI Directories are a great place for AI businesses because it has the potential to reach millions of people, so we can help to you do that.",
+        a: "AI Directories are a great place for AI businesses because it has the potential to reachactory millions of people, so we can help to you do that.",
     },
     {
         q: "How can Website traffic service help me?",
@@ -23,7 +23,7 @@ const faqsList = [
     },
     {
         q: "Which are the best Website traffic service providers in the market?",
-        a: "There are a lot of Website traffic service providers in the market, but Reacher is one of the best, and trusted websites in the market",
+        a: "There are a lot of Website traffic service providers in the market, but Reachactory is one of the best, and trusted websites in the market",
     },
     // {
     //     q: "How do you generate traffic to a website?",

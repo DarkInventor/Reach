@@ -1,18 +1,23 @@
-import { useRouter } from 'next/router';
+// import { useRouter } from 'next/router';
 import GradientWrapper from '../../GradientWrapper';
 import NavLink from '../NavLink';
 import Image from 'next/image';
-
+import Link from 'next/link';
+// import getstarted from '../GetStarted/getstarted';
 // import twt8 from '../../../public/twt8.png';
+import { useRouter } from 'next/navigation'; 
 
 
 const Hero = () => {
+
   const router = useRouter();
 
   const handleGetStartedClick = () => {
     // Redirect the user to the provided URL
-    window.location.href =
-      'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+    // window.location.href =
+    //   'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+    router.push('/getstarted');
+    // window.open('/getstarted', '_blank');
   };
 
   return (
@@ -30,9 +35,9 @@ const Hero = () => {
           </p>
           <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
             <NavLink
-              href="/"
+              href="/getstarted"
               className="flex items-center gap-x-2 text-white bg-blue-600 hover:bg-blue-500 active:bg-blue-700 "
-              onClick={handleGetStartedClick}
+              // onClick={handleGetStartedClick}
             >
               Get Started
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">

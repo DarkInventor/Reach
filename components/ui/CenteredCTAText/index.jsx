@@ -9,7 +9,7 @@ const CenteredCTAText = () => {
                         We help you get more website traffic to your site.
                     </h2>
                     <p className="mt-3 text-gray-600">
-                        Reacher brings you the freshest, up-to-date website traffic trends. An easy way to find out the most popular and engaging content to help you grow.
+                        Reachactory brings you the freshest, up-to-date website traffic trends. An easy way to find out the most popular and engaging content to help you grow.
                     </p>
                 </div>
             </div>

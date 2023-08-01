@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 import SectionWrapper from "../../SectionWrapper"
 import NavLink from "../NavLink"
 import cta_image from '../../../public/cta-img.svg'
@@ -48,7 +48,7 @@ const CTA = () => {
                 </div>
             </div>
             <h5 class="text-2xl text-gray-800 font-extrabold mx-auto sm:text-3xl text-center mt-20">
-    Buzzing  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> Feedback from Users</span>
+    Buzzing  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> Feedback from Users of AI Directories </span>
 </h5>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mt-20">
   <div class="grid gap-4 ml-4">

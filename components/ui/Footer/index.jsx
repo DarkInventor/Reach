@@ -46,7 +46,7 @@ const Footer = () => (
                         {/* )) */}
                     {/* } */}
                 {/* </ul> */} 
-                <p className="mt-6 sm:mt-0">© 2023 Reacher Inc. All rights reserved.</p>
+                <p className="mt-6 sm:mt-0">© 2023 Reachactory Inc. All rights reserved.</p>
             </div>
         </div>
     </footer>

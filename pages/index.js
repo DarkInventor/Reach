@@ -9,6 +9,9 @@ import LogoGrid from "../components/ui/LogoGrid";
 import Stats from "../components/ui/Stats";
 import Navbar from "../components/ui/Navbar";
 import Footer from "../components/ui/Footer";
+import { useRouter } from 'next/router'; 
+
+// import GetStarted from "../components/ui/GetStarted/getstarted";
 
 export default function Home() {
   return (
@@ -19,7 +22,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       {/* <LogoGrid /> */}
-      
+      {/* <GetStarted /> */}
       <CTA />
       <CenteredCTAText />
       <Features />

@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
 import NavHeader from '../NavHeader'
 import NavLink from '../NavLink'
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 
 const Navbar = () => {
     const router = useRouter();

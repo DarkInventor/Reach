@@ -1,6 +1,6 @@
 import DarkWrapper from "../../DarkWrapper"
 import NavLink from "../NavLink"
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 
 const FooterCTA = () => {
 
