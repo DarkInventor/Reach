@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { useRouter } from 'next/navigation';
+import { useRouter } from 'next/router';
 import SectionWrapper from "../../SectionWrapper"
 import NavLink from "../NavLink"
 import cta_image from '../../../public/cta-img.svg'
@@ -17,7 +17,7 @@ const CTA = () => {
   const handleGetStartedClick = () => {
     // Redirect the user to the provided URL
     window.location.href =
-      'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+      '/getstarted';
   };
 
     return (

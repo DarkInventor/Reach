@@ -2,14 +2,15 @@ import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
 import NavHeader from '../NavHeader'
 import NavLink from '../NavLink'
-import { useRouter } from 'next/navigation';
+// import { useRouter } from 'next/navigation';
+import { useRouter } from "next/router";
 
 const Navbar = () => {
     const router = useRouter();
 
     const handleGetStartedClick = () => {
       // Redirect the user to the provided URL
-      window.location.href = 'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+      window.location.href = '/getstarted';
     };
   
     const [state, setState] = useState(false)

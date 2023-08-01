@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@formspark/use-formspark": "^0.1.39",
     "@heroicons/react": "^2.0.18",
     "@next/font": "13.1.1",
     "eslint": "8.30.0",

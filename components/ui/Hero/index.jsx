@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 // import getstarted from '../GetStarted/getstarted';
 // import twt8 from '../../../public/twt8.png';
-import { useRouter } from 'next/navigation'; 
+import { useRouter } from 'next/router'; 
 
 
 const Hero = () => {

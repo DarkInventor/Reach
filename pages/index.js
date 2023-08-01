@@ -10,16 +10,27 @@ import Stats from "../components/ui/Stats";
 import Navbar from "../components/ui/Navbar";
 import Footer from "../components/ui/Footer";
 import { useRouter } from 'next/router'; 
+import { motion } from "framer-motion";
 
 // import GetStarted from "../components/ui/GetStarted/getstarted";
 
 export default function Home() {
   return (
     <>
+     <motion.div
+    initial={{ opacity: 0, scale: 1 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 2 }}
+    >
       <Head>
         <meta name='robots' content='index' />
       </Head>
       <Navbar />
+      <motion.div
+  initial={{ opacity: 0 }}
+  whileInView={{ opacity: 1 }}
+  viewport={{ once: true }}
+>
       <Hero />
       {/* <LogoGrid /> */}
       {/* <GetStarted /> */}
@@ -28,8 +39,10 @@ export default function Home() {
       <Features />
       <Stats />
       <FAQs />
+      </motion.div>
       <FooterCTA />
       <Footer />
+      </motion.div>
     </>
   );
 }
