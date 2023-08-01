@@ -14,7 +14,7 @@ const Brand = ({ ...props }) => (
       fontWeight: "bold",
       fontFamily: "'ui-sans-serif'",
       marginLeft: "20px", 
-      marginRight: "160px"
+      marginRight: "120px"
     }}>
       REACHACTORY
     </div>
