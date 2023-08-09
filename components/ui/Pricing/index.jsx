@@ -2,49 +2,48 @@ import GradientWrapper from "../../GradientWrapper";
 import Button from "../Button"
 
 const Pricing = () => {
-
+    const handleclick= () => {
+        const twitterUrl = '/getstarted';
+        window.location.href = twitterUrl;
+      };
     const plans = [
-        {
-            name: "Basic plan",
-            desc: "SEO, social, and PPC tools",
-            price: 12,
-            isMostPop: false,
-            features: [
-                "3 projects",
-                "200 keywords to track",
-                "5,000 results per report",
-                "Keyword, domain and backlink ",
-                "Google Data Studio Integration",
-                "Content Marketing Platform",
+        // {
+        //     name: "Basic plan",
+        //     desc: "SEO, social, and PPC tools",
+        //     price: 12,
+        //     isMostPop: false,
+        //     features: [
+        //         "3 projects",
+        //         "200 keywords to track",
+        //         "5,000 results per report",
+        //         "Keyword, domain and backlink ",
+        //         "Google Data Studio Integration",
+        //         "Content Marketing Platform",
 
-            ],
-        },
+        //     ],
+        // },
         {
-            name: "Business plan",
+            name: "One Time Plan",
             desc: "All Basic plan features and more",
-            price: 39,
+            price: 100,
             isMostPop: true,
             features: [
-                "5 projects",
-                "400 keywords to track",
-                "12,000 results per report",
-                "Keyword, domain and backlink ",
-                "Google Data Studio Integration",
-                "Content Marketing Platform",
+                "100+ cherry-picked directories to post your tool",
+                "Increasing reach by 50+ users / day",
             ],
         },
         {
-            name: "Enterprise plan",
-            desc: "All Business plan features and more",
-            price: 92,
+            name: "Recurring plan",
+            desc: "Coming soon ..",
+            // price: 92,
             isMostPop: false,
             features: [
-                "10 projects",
-                "1000 keywords to track",
-                "35,000 results per report",
-                "Keyword, domain and backlink ",
-                "Google Data Studio Integration",
-                "Content Marketing Platform",
+                "Coming soon ..",
+                // "1000 keywords to track",
+                // "35,000 results per report",
+                // "Keyword, domain and backlink ",
+                // "Google Data Studio Integration",
+                // "Content Marketing Platform",
             ],
         },
     ];
@@ -56,11 +55,11 @@ const Pricing = () => {
                     <h1 className='text-gray-800 text-3xl font-semibold sm:text-4xl'>
                         Pricing plans
                     </h1>
-                    <div className='mt-3 max-w-xl'>
+                    {/* <div className='mt-3 max-w-xl'>
                         <p>
                             Always know what you'll pay with monthly caps and flat pricing.
                         </p>
-                    </div>
+                    </div> */}
                 </div>
                 <div className='mt-16 justify-center gap-6 sm:grid sm:grid-cols-2 sm:space-y-0 lg:grid-cols-3'>
                     {
@@ -98,7 +97,7 @@ const Pricing = () => {
                                         }
                                     </ul>
                                     <div className="pt-8">
-                                        <Button className={`w-full rounded-full text-white ring-offset-2 focus:ring ${item.isMostPop ? "bg-blue-600 hover:bg-blue-500 focus:bg-blue-700 ring-blue-600" : "bg-gray-800 hover:bg-gray-700 ring-gray-800"}`}>
+                                        <Button onClick={handleclick} className={`w-full rounded-full text-white ring-offset-2 focus:ring ${item.isMostPop ? "bg-blue-600 hover:bg-blue-500 focus:bg-blue-700 ring-blue-600" : "bg-gray-800 hover:bg-gray-700 ring-gray-800"}`}>
                                             Get Started
                                         </Button>
                                     </div>

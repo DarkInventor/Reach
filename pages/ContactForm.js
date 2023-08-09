@@ -70,7 +70,7 @@ function ContactForm() {
     // alert("Form submitted");
     // router.push('/getstarted');
     window.location.href =
-    'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+    'https://buy.stripe.com/5kAaIH2gdgWR5he8wx';
   };
 
   return (

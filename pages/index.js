@@ -11,7 +11,7 @@ import Navbar from "../components/ui/Navbar";
 import Footer from "../components/ui/Footer";
 import { useRouter } from 'next/router'; 
 import { motion } from "framer-motion";
-
+import Pricing from "../components/ui/Pricing";
 // import GetStarted from "../components/ui/GetStarted/getstarted";
 
 export default function Home() {
@@ -38,6 +38,7 @@ export default function Home() {
       <CenteredCTAText />
       <Features />
       <Stats />
+      <Pricing />
       <FAQs />
       </motion.div>
       <FooterCTA />

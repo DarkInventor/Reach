@@ -8,7 +8,7 @@ const FooterCTA = () => {
 
     const handleGetStartedClick = () => {
       // Redirect the user to the provided URL
-      window.location.href = 'https://buy.stripe.com/8wM9ED9IFeOJcJG144';
+      window.location.href = '/getstarted';
     };
 
     return (
