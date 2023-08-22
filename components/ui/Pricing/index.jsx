@@ -70,7 +70,7 @@ const Pricing = () => {
                                         {item.name}
                                     </span>
                                     <div className='text-gray-800 text-3xl font-semibold'>
-                                        ${item.price} <span className="text-xl text-gray-600 font-normal">/mo</span>
+                                        ${item.price} <span className="text-xl text-gray-600 font-normal"></span>
                                     </div>
                                     <p>
                                         {item.desc}
