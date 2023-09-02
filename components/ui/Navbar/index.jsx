@@ -18,7 +18,7 @@ const Navbar = () => {
 
     const navigation = [
         { name: "Features", href: "#features" },
-        // { name: "Pricing", href: "/pricing" },
+        { name: "News Letter", href: "https://thataitoolsguy.substack.com/about" },
         { name: "FAQs", href: "#faqs" },
     ]
 
