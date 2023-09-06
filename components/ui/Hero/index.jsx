@@ -25,8 +25,8 @@ const Hero = () => {
       <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-600">
         <div className="space-y-5 max-w-4xl mx-auto text-center">
           <h1 className="text-4xl text-gray-800 font-extrabold mx-auto sm:text-6xl">
-            Launch your  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">Product</span> on over <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
-            100+ </span>Directories - Increase the reach by <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">50+ daily users</span> 
+            Launch your Product on the <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
+            Top 100+ Directories</span>
             
           </h1>
           <p className="max-w-xl mx-auto">
