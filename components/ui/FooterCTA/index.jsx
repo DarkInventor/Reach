@@ -13,16 +13,16 @@ const FooterCTA = () => {
 
     return (
         <DarkWrapper>
-            <div className="custom-screen  gap-x-12 justify-between md:flex">
+            <div className="custom-screen  gap-x-12 justify-center md:flex">
                 <div className="max-w-xl">
-                    <h2 className="text-white text-3xl font-semibold sm:text-4xl">
-                    Let's Supercharge Your Business Now!
+                    <h2 className="text-white text-6xl font-semibold sm:text-6xl">
+                    Let's Supercharge Your Business Now
                     </h2>
-                    <p className="mt-3 text-gray-300">
-                    Join us on the path to success and witness your AI tool shine in the global AI landscape!
+                    <p className="ml-6 mt-5 text-gray-300">
+                    Join us and witness your Product shine in the global landscape
                     </p>
                 </div>
-                <div className="flex-none mt-4 md:mt-0">
+                {/* <div className="flex-none mt-4 md:mt-0">
                     <NavLink
                         href="/"
                         className="inline-flex items-center gap-x-2 font-medium text-sm text-white bg-blue-600 hover:bg-blue-500 active:bg-blue-700 "
@@ -33,7 +33,7 @@ const FooterCTA = () => {
                             <path fillRule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clipRule="evenodd" />
                         </svg>
                     </NavLink>
-                </div>
+                </div> */}
             </div>
         </DarkWrapper>
     )

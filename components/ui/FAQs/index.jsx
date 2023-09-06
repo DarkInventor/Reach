@@ -15,7 +15,7 @@ const faqsList = [
     // },
     {
         q: "How do you generate traffic to a website?",
-        a: "AI Directories are a great place for AI businesses because it has the potential to reachactory millions of people, so we can help to you do that.",
+        a: "Directories are a great place for businesses because it has the potential to reach millions of people, so we can help to you do that.",
     },
     {
         q: "How can Website traffic service help me?",

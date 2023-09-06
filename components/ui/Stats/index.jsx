@@ -3,19 +3,19 @@ import SectionWrapper from "../../SectionWrapper"
 const stats = [
     {
         data: "10K+",
-        desc: "AI websites already registered in our premium AI directories"
+        desc: "Products already registered in premium directories"
     },
     {
         data: "75%",
-        desc: "increase in daily traffic reported by AI websites listed with us"
+        desc: "increase in daily traffic reported by websites listed with us"
     },
     {
         data: "5k+",
-        desc: "monthly visitors actively searching for AI solutions on our directories"
+        desc: "monthly visitors actively searching for solutions on directories"
     },
     {
         data: "90%",
-        desc: "of AI website owners experienced improved SEO rankings after registration"
+        desc: "of Website owners experienced improved SEO rankings after registration"
     },
 ]
 

@@ -2,10 +2,22 @@ import GradientWrapper from "../../GradientWrapper";
 import Button from "../Button"
 
 const Pricing = () => {
-    const handleclick= () => {
-        const twitterUrl = '/getstarted';
-        window.location.href = twitterUrl;
+    // const handleclick= () => {
+    //     const twitterUrl = '/getstarted';
+    //     window.location.href = twitterUrl;
+    //   };
+
+    const handleClick = (planName) => {
+        // Use the planName parameter to determine which plan was clicked
+        if (planName === "Basic plan") {
+          const basicPlanUrl = 'https://checkout.stripe.com/c/pay/cs_live_a1PQjnW3uoaFGbYSEVPuyx7BwLW5oXMnNSpWVE2tcnduaSY6k6cnwoVNAE#fidkdWxOYHwnPyd1blppbHNgWjA0S1NoVGpANX1vdWtXNkNDUDBgbzRjZmZBdmtBRE03VDc1SXdod0JtPV09QkZRVnBANWJEND1QV3JXYmNsNEdANG1CbzJwUFBBREhhNlR0UGZocnZsdHd%2FNTViRjZrNHBIaCcpJ3VpbGtuQH11anZgYUxhJz8nYVczM3Z3ZlBXPHB1Y1NWPERGJ3gl';
+          window.location.href = basicPlanUrl;
+        } else if (planName === "Advanced Plan") {
+          const advancedPlanUrl = 'https://buy.stripe.com/5kAaIH2gdgWR5he8wx';
+          window.location.href = advancedPlanUrl;
+        }
       };
+
     const plans = [
         // {
         //     name: "Basic plan",
@@ -23,15 +35,34 @@ const Pricing = () => {
         //     ],
         // },
         {
-            name: "One Time Plan",
+            name: "Basic plan",
+            desc: "Basic Plan Features",
+            price: 49,
+            isMostPop: false,
+            features: [
+                "50+ cherry-picked directories to launch",
+                "Increasing reach by 50+ users / day",
+                "Off-page SEO Boost",
+                // "Backlink "
+                // "1000 keywords to track",
+                // "35,000 results per report",
+                // "Keyword, domain and backlink ",
+                // "Google Data Studio Integration",
+                // "Content Marketing Platform",
+            ],
+        },
+        {
+            name: "Advanced Plan",
             desc: "All Basic plan features and more",
             price: 100,
             isMostPop: true,
             features: [
                 "100+ cherry-picked directories to post your tool",
-                "Increasing reach by 50+ users / day",
+                "Increasing reach by 100+ users / day",
+                "Off-page SEO Boost",
             ],
         },
+        
         {
             name: "Recurring plan",
             desc: "Coming soon ..",
@@ -55,11 +86,11 @@ const Pricing = () => {
                     <h1 className='text-gray-800 text-3xl font-semibold sm:text-4xl'>
                         Pricing plans
                     </h1>
-                    {/* <div className='mt-3 max-w-xl'>
+                    <div className='mt-3 max-w-xl'>
                         <p>
-                            Always know what you'll pay with monthly caps and flat pricing.
+                            Always know what you'll pay for
                         </p>
-                    </div> */}
+                    </div>
                 </div>
                 <div className='mt-16 justify-center gap-6 sm:grid sm:grid-cols-2 sm:space-y-0 lg:grid-cols-3'>
                     {
@@ -97,10 +128,11 @@ const Pricing = () => {
                                         }
                                     </ul>
                                     <div className="pt-8">
-                                        <Button onClick={handleclick} className={`w-full rounded-full text-white ring-offset-2 focus:ring ${item.isMostPop ? "bg-blue-600 hover:bg-blue-500 focus:bg-blue-700 ring-blue-600" : "bg-gray-800 hover:bg-gray-700 ring-gray-800"}`}>
+                                        <Button onClick={() => handleClick(item.name)} className={`w-full rounded-full text-white ring-offset-2 focus:ring ${item.isMostPop ? "bg-blue-600 hover:bg-blue-500 focus:bg-blue-700 ring-blue-600" : "bg-gray-800 hover:bg-gray-700 ring-gray-800"}`}>
                                             Get Started
                                         </Button>
                                     </div>
+                                    
                                 </div>
                             </div>
                         ))

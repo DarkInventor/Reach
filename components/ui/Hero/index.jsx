@@ -25,13 +25,12 @@ const Hero = () => {
       <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-600">
         <div className="space-y-5 max-w-4xl mx-auto text-center">
           <h1 className="text-4xl text-gray-800 font-extrabold mx-auto sm:text-6xl">
-            Get your product featured on the top 100+{' '}
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
-            AI Directories Submission Service
-            </span>
+            Launch your  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">Product</span> on over <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
+            100+ </span>Directories - Increase the reach by <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">50+ daily users</span> 
+            
           </h1>
           <p className="max-w-xl mx-auto">
-            Gain Perpetual Traffic for Your AI Tool by Joining Our Premier Directory Listing 
+            Gain Perpetual Traffic & SEO Boost for Your Product by Joining 
           </p>
           <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
             <NavLink
