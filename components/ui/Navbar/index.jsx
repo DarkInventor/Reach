@@ -10,16 +10,18 @@ const Navbar = () => {
 
     const handleGetStartedClick = () => {
       // Redirect the user to the provided URL
-      window.location.href = '/getstarted';
+      window.location.href = '#pricing';
     };
   
     const [state, setState] = useState(false)
     const menuBtnEl = useRef()
 
     const navigation = [
-        { name: "Features", href: "#features" },
+        { name: "Why us?", href: "#features" },
+        { name: "Pricing", href: "#pricing" },
         { name: "News Letter", href: "https://thataitoolsguy.substack.com/about" },
-        { name: "FAQs", href: "#faqs" },
+  
+        // { name: "FAQs", href: "#faqs" },
     ]
 
     useEffect(() => {
@@ -56,9 +58,9 @@ const Navbar = () => {
                                 Sign in
                             </Link> */}
                             <NavLink
-      href="/"
+      href="#pricing"
       className="block hover:text-gray-900 font-medium text-sm text-white bg-gray-800 hover:bg-gray-600 focus:bg-gray-900 ring-offset-2 ring-gray-800 focus:ring-2"
-      onClick={handleGetStartedClick}
+    //   onClick={handleGetStartedClick}
     >
       Let's Order :)
     </NavLink>

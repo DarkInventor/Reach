@@ -10,7 +10,7 @@ const Pricing = () => {
     const handleClick = (planName) => {
         // Use the planName parameter to determine which plan was clicked
         if (planName === "Basic plan") {
-          const basicPlanUrl = 'https://checkout.stripe.com/c/pay/cs_live_a1PQjnW3uoaFGbYSEVPuyx7BwLW5oXMnNSpWVE2tcnduaSY6k6cnwoVNAE#fidkdWxOYHwnPyd1blppbHNgWjA0S1NoVGpANX1vdWtXNkNDUDBgbzRjZmZBdmtBRE03VDc1SXdod0JtPV09QkZRVnBANWJEND1QV3JXYmNsNEdANG1CbzJwUFBBREhhNlR0UGZocnZsdHd%2FNTViRjZrNHBIaCcpJ3VpbGtuQH11anZgYUxhJz8nYVczM3Z3ZlBXPHB1Y1NWPERGJ3gl';
+          const basicPlanUrl = 'https://buy.stripe.com/dR66srcUR9upfVS9AC';
           window.location.href = basicPlanUrl;
         } else if (planName === "Advanced Plan") {
           const advancedPlanUrl = 'https://buy.stripe.com/5kAaIH2gdgWR5he8wx';
@@ -81,7 +81,7 @@ const Pricing = () => {
 
     return (
         <GradientWrapper wrapperClassName="top-40 inset-x-0">
-            <section className='custom-screen text-gray-600'>
+            <section id="pricing" className='custom-screen text-gray-600'>
                 <div className='relative max-w-xl mx-auto sm:text-center'>
                     <h1 className='text-gray-800 text-3xl font-semibold sm:text-4xl'>
                         Pricing plans

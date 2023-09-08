@@ -22,19 +22,31 @@ const Hero = () => {
 
   return (
     <section>
-      <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-600">
-        <div className="space-y-5 max-w-4xl mx-auto text-center">
-          <h1 className="text-4xl text-gray-800 font-extrabold mx-auto sm:text-6xl">
-            Launch your Product on the <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
+      <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-800 ">
+  <div className="space-y-5 max-w-4xl mx-auto text-center">
+    <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-[#444] leading-tight">
+      Get Featured On <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">Top 100+ Directories</span>
+    </h1>
+    <p className="max-w-4xl mx-auto text-lg sm:text-xl md:text-3xl text-gray-600">
+      Boost continuous traffic and optimize SEO for better ranking
+    </p> 
+    {/* <a href="#" className="text-[#9867F0] hover:underline font-medium text-lg">
+      Learn More
+    </a> */}
+  {/* {/* </div> */}
+      {/* <GradientWrapper wrapperClassName="inset-0" className="custom-screen text-gray-600">
+        <div className="space-y-5 max-w-6xl mx-auto text-center">
+          <h1 className="text-6xl text-gray-800 font-extrabold mx-auto sm:text-7xl">
+            Get Featured on  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]">
             Top 100+ Directories</span>
             
           </h1>
-          <p className="max-w-xl mx-auto">
-            Gain Perpetual Traffic & SEO Boost for Your Product by Joining 
-          </p>
+          <p className="max-w-2xl mx-auto text-lg sm:text-xl md:text-3xl text-gray-600">
+            Amplify continuous traffic and optimize seo for better ranking
+          </p> */}
           <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
             <NavLink
-              href="/getstarted"
+              href="#pricing"
               className="flex items-center gap-x-2 text-white bg-blue-600 hover:bg-blue-500 active:bg-blue-700 "
               // onClick={handleGetStartedClick}
             >
@@ -47,7 +59,7 @@ const Hero = () => {
                 />
               </svg>
             </NavLink>
-            <NavLink href="#cta" className="flex items-center gap-x-2 text-gray-700 hover:text-gray-900" scroll={false}>
+            {/* <NavLink href="#cta" className="flex items-center gap-x-2 text-gray-700 hover:text-gray-900" scroll={false}>
               Learn more
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                 <path
@@ -56,7 +68,7 @@ const Hero = () => {
                   clipRule="evenodd"
                 />
               </svg>
-            </NavLink>
+            </NavLink> */}
           </div>
         </div>
       </GradientWrapper>
