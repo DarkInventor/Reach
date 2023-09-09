@@ -34,10 +34,10 @@ const CTA = () => {
                     </p> */}
                     <div className="pt-1">
                         <NavLink
-                            href="#pricing"
+                            href="https://drive.google.com/file/d/1tA-JoKsT9kXdqc6uoBKa6njyajmZ-JAb/view?usp=drive_link"
                             className="inline-flex items-center gap-x-2 font-medium text-sm text-white bg-blue-600 hover:bg-blue-500 active:bg-blue-700 "
                             // onClick={handleGetStartedClick}
-                        > ↓
+                        > click here to see the list of 250+ directories we use -
 
                             {/* Try it out */}
                             {/* <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
