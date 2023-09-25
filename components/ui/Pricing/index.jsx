@@ -10,10 +10,10 @@ const Pricing = () => {
     const handleClick = (planName) => {
         // Use the planName parameter to determine which plan was clicked
         if (planName === "Basic plan") {
-          const basicPlanUrl = 'https://buy.stripe.com/dR66srcUR9upfVS9AC';
+          const basicPlanUrl = 'https://checkout.stripe.com/c/pay/cs_live_a1vaGDOSa8sGoZKoRJ5t476HdCvbR0tJtiGxiex7gm83jsCLGcy0bok4Kc#fidkdWxOYHwnPyd1blppbHNgWjA0S3A9bUZEVXV%2FUz08RGB2TVc9cFxAY3Y8bjNwbmJOPTJGNDVoMmpDQDZJd1VhQUxfY3N%2FS2s3VWBRUjN%2FSDNJYl9rR2BnNWZRcWJXbW48PDREYWM0TDd3NTV0XTBVcm5iMycpJ3VpbGtuQH11anZgYUxhJz8nMnZMMnNHNmtWYnR1ZkhyNTU1J3gl';
           window.location.href = basicPlanUrl;
         } else if (planName === "Advanced Plan") {
-          const advancedPlanUrl = 'https://buy.stripe.com/5kAaIH2gdgWR5he8wx';
+          const advancedPlanUrl = 'https://checkout.stripe.com/c/pay/cs_live_a1EgMHbpqn255HpflZI6FV0jonJ41jbGjlyIWkXyNWki1XkvtmJPtH4XUS#fidkdWxOYHwnPyd1blppbHNgWjA0S3A9bUZEVXV%2FUz08RGB2TVc9cFxAY3Y8bjNwbmJOPTJGNDVoMmpDQDZJd1VhQUxfY3N%2FS2s3VWBRUjN%2FSDNJYl9rR2BnNWZRcWJXbW48PDREYWM0TDd3NTV0XTBVcm5iMycpJ3VpbGtuQH11anZgYUxhJz8nM2pAZlVTZ1BqZmQ8MG4xZkhLJ3gl';
           window.location.href = advancedPlanUrl;
         }
       };
