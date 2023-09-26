@@ -13,7 +13,7 @@ const Pricing = () => {
           const basicPlanUrl = 'https://buy.stripe.com/7sI7vB3nSgqpcMw000';
           window.location.href = basicPlanUrl;
         } else if (planName === "Advanced Plan") {
-          const advancedPlanUrl = 'https://checkout.stripe.com/c/pay/cs_live_a1EgMHbpqn255HpflZI6FV0jonJ41jbGjlyIWkXyNWki1XkvtmJPtH4XUS#fidkdWxOYHwnPyd1blppbHNgWjA0S3A9bUZEVXV%2FUz08RGB2TVc9cFxAY3Y8bjNwbmJOPTJGNDVoMmpDQDZJd1VhQUxfY3N%2FS2s3VWBRUjN%2FSDNJYl9rR2BnNWZRcWJXbW48PDREYWM0TDd3NTV0XTBVcm5iMycpJ3VpbGtuQH11anZgYUxhJz8nM2pAZlVTZ1BqZmQ8MG4xZkhLJ3gl';
+          const advancedPlanUrl = 'https://buy.stripe.com/6oEcPVbUoca95k4cMN';
           window.location.href = advancedPlanUrl;
         }
       };
