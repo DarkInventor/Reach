@@ -3,7 +3,7 @@ import Newsletter from '../Newsletter';
 import Brand from '../Brand';
 
 const navigation = [
-    { name: "", href: "#features" },
+    { name: "", href: "/" },
     { name: "Pricing", href: "/pricing" },
     { name: "FAQs", href: "#faqs" },
 ];
