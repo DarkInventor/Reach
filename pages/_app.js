@@ -18,10 +18,10 @@ export default function App({ Component, pageProps }) {
       }}
     />
         <title>Reachactory</title>
-        <meta
+        {/* <meta
           name='description'
-          content='The ultimate way to get more website traffic and grow your online business.'
-        />
+          content='Helping Businesses Grow'
+        /> */}
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta property="og:image" content="/reach.png" />
         <link rel='icon' href='/favicon.ico' />
