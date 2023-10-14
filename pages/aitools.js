@@ -146,9 +146,9 @@
         <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
 
         <img
-          src="/submittool.png"
+          src="/submitprice.png"
           alt="Submit my Tool"
-          className="w-40"
+          className="w-50"
         //   style={{ height: '40px' }}
         />
       </Link>

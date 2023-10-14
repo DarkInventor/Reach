@@ -82,6 +82,10 @@ function ContactForm() {
     window.location.href =
     'https://www.reachactory.online/';
   };
+  
+  const NLclick = () => {
+    window.location.href = 'https://thataitoolsguy.substack.com/'; // Redirect to google.com
+  };
 
   return (
     <motion.div
@@ -101,9 +105,17 @@ function ContactForm() {
       />
       <div className="container px-6 mx-auto">
         <div className="p-6 rounded-xl">
-          <h4 className="text-4xl font-bold tracking-wide mb-4 text-gray-600 underline">SUBMIT YOUR AI TOOL INFO</h4>
+          <h4 className="text-4xl font-bold tracking-wide mb-4 text-gray-600 underline">SUBMIT YOUR AI TOOL HERE</h4>
           <p className="text-md text-gray-500 font-bold">Please fill all the details*</p>
-          <hr />
+          {/* <hr /> */}
+          <div class="mt-5 bg-gray-900 text-center py-4 lg:px-4 lg:w-[580px] rounded-lg">
+        
+  <div class="cursor-default p-2 bg-gray-700 items-center text-gray-900 leading-none lg:rounded-full flex lg:inline-flex hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]" role="alert" onClick={NLclick}>
+    <span class="flex rounded-full bg-blue-500 text-white uppercase px-2 py-1 text-xs font-bold mr-3">Free</span>
+    <span class="font-semibold mr-2 text-left flex-auto text-white">Subscribe to the newsletter : That AI Tools Guy!</span>
+    <svg class="fill-current opacity-75 h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"/></svg>
+  </div>
+</div>
           <form onSubmit={onSubmit} className="mt-8">
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
@@ -249,7 +261,7 @@ function ContactForm() {
             <div className="grid md:grid-cols-4 place-items-center">
               <ShimmerButton
                 className="flex items-center justify-center shadow-2xl transition-all hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
-                background="radial-gradient(ellipse 80% 30% at 50% 110%, #cfcfcf, #000000)"
+                background="radial-gradient(ellipse 80% 20% at 50% 110%, #cfcfcf, #000000)"
               >
                 <span className="whitespace-pre bg-gradient-to-b from-black from-30% to-gray-300/80 bg-clip-text text-center text-sm lg:text-2xl font-semibold leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 dark:text-transparent z-10">
                  Submit
