@@ -1,5 +1,6 @@
 "use client";
-    import Navbar from "../components/ui/Navbar";
+    // import Navbar from "../components/ui/Navbar";
+    import NavbarAI from "../components/ui/NavbarAI";
     import ShimmerButton from "../components/magicui/shimmer-button";
     import { ChevronRight } from "lucide-react";
     import { m } from "framer-motion";
@@ -35,10 +36,10 @@
     export default function AITools() {
     return (
         <>
-        {/* <Navbar /> */}
+        <NavbarAI />
 
-        <section className="py-2">
-            <h1 className="mt-10 mb-5 text-center font-mono text-2xl font-bold underline text-4xl underline-offset-9 decoration-dotted decoration-blue-800">
+        <section className="py">
+            <h1 className="mb-5 text-center font-mono text-2xl font-bold underline text-4xl underline-offset-9 decoration-dotted decoration-blue-800">
             ai tools by
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> indie hackers</span>
             </h1>
