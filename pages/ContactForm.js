@@ -101,8 +101,9 @@ function ContactForm() {
       />
       <div className="container px-6 mx-auto">
         <div className="p-6 rounded-xl">
-          <h4 className="text-4xl font-bold tracking-wide mb-4">SUBMIT YOUR AI TOOL INFO</h4>
-          <p className="text-md">Please fill the below details*</p>
+          <h4 className="text-4xl font-bold tracking-wide mb-4 text-gray-600 underline">SUBMIT YOUR AI TOOL INFO</h4>
+          <p className="text-md text-gray-500 font-bold">Please fill all the details*</p>
+          <hr />
           <form onSubmit={onSubmit} className="mt-8">
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
@@ -248,12 +249,12 @@ function ContactForm() {
             <div className="grid md:grid-cols-4 place-items-center">
               <ShimmerButton
                 className="flex items-center justify-center shadow-2xl transition-all hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
-                background="radial-gradient(ellipse 80% 30% at 50% 120%, #cfcfcf, #000000)"
+                background="radial-gradient(ellipse 80% 30% at 50% 110%, #cfcfcf, #000000)"
               >
                 <span className="whitespace-pre bg-gradient-to-b from-black from-30% to-gray-300/80 bg-clip-text text-center text-sm lg:text-2xl font-semibold leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 dark:text-transparent z-10">
                  Submit
                 </span>
-                <ChevronRight className="h-6 w-6 duration-150 ease-in-out transform group-hover:translate-x-1 m-auto" />
+                <ChevronRight className="h-5 w-2 duration-150 ease-in-out transform group-hover:translate-x-1 m-auto" />
               </ShimmerButton> 
 
               
