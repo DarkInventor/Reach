@@ -51,6 +51,7 @@ import { ChevronRight } from "lucide-react";
 import { m } from "framer-motion";
 import { Link } from "lucide-react";
 import { cn } from "../lib/utils";
+import GridPattern from "../components/magicui/grid-pattern";
 
 const FORMSPARK_FORM_ID = "y2Vy8UTF";
 
@@ -89,9 +90,18 @@ function ContactForm() {
     transition={{ duration: 2 }}
     >
     <section className="py-2">
+    <GridPattern
+        width={40}
+        height={40}
+        x={-1}
+        y={-1}
+        className={cn(
+          "-z-10 stroke-gray-300/50 [mask-image:linear-gradient(to_bottom_right,white,transparent,transparent)] "
+        )}
+      />
       <div className="container px-6 mx-auto">
         <div className="p-6 rounded-xl">
-          <h4 className="text-2xl font-bold tracking-wide mb-4">SUBMIT YOUR AI TOOL INFO</h4>
+          <h4 className="text-4xl font-bold tracking-wide mb-4">SUBMIT YOUR AI TOOL INFO</h4>
           <p className="text-md">Please fill the below details*</p>
           <form onSubmit={onSubmit} className="mt-8">
             <div className="flex flex-wrap items-center mb-6">
