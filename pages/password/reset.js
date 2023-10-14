@@ -8,8 +8,14 @@ export default function index() {
   return (
     <>
       <Head>
-        <meta name='robots' content='index' />
-        <title>Forgot Password - Split</title>
+      <title>Reachactory</title>
+        {/* <meta
+          name='description'
+          content='Helping Businesses Grow'
+        /> */}
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
+        <meta property="og:image" content="/reach.png" />
+        <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <div className='w-full h-screen flex flex-col items-center justify-center px-4'>
