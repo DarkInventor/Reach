@@ -19,7 +19,7 @@ const Navbar = () => {
 
     const navigation = [
         { name: "Why us?", href: "#features" },
-        { name: "AI Tools", href: "/aitools" },
+        { name: "AI Tools", href: "/aitools", notifications: "new" },
         { name: "Pricing", href: "#pricing" },
         { name: "Newsletter", href: "https://thataitoolsguy.substack.com/about" },
   
@@ -46,9 +46,14 @@ const Navbar = () => {
                             {
                                 navigation.map((item, idx) => {
                                     return (
-                                        <li key={idx} className="hover:text-gray-900">
+                                        <li key={idx} className="hover:text-gray-900 relative">
                                             <Link href={item.href} className="block" scroll={false}>
                                                 {item.name}
+                                                {item.notifications && (
+                                    <div className="absolute inline-flex items-center justify-center w-9 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-6 -right-4 dark:border-gray-100">
+                                        {item.notifications}
+                                    </div>
+                                )}     
                                             </Link>
                                         </li>
                                     )
