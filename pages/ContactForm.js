@@ -80,7 +80,7 @@ function ContactForm() {
   
     // router.push('/getstarted');
     window.location.href =
-    'https://www.reachactory.online/';
+    'https://buy.stripe.com/6oEg270bGa2113O004';
   };
   
   const NLclick = () => {
