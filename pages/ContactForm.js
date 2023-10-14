@@ -46,7 +46,11 @@ import React, { useState } from "react";
 import { useFormspark } from "@formspark/use-formspark";
 // import { useRouter } from "next/router";
 import { motion } from "framer-motion";
-
+import ShimmerButton from "../components/magicui/shimmer-button";
+import { ChevronRight } from "lucide-react";
+import { m } from "framer-motion";
+import { Link } from "lucide-react";
+import { cn } from "../lib/utils";
 
 const FORMSPARK_FORM_ID = "y2Vy8UTF";
 
@@ -68,9 +72,14 @@ function ContactForm() {
     e.preventDefault();
     await submit({ message, name, email, site, category });
     // alert("Form submitted");
+    alert("We will review the submission and get back to you within 24 hours, Thank You :)");
+    setTimeout(() => {
+      resolve();
+    }, 3000); // 3000 milliseconds (3 seconds)
+  
     // router.push('/getstarted');
     window.location.href =
-    'https://buy.stripe.com/5kAaIH2gdgWR5he8wx';
+    'https://www.reachactory.online/';
   };
 
   return (
@@ -81,13 +90,13 @@ function ContactForm() {
     >
     <section className="py-2">
       <div className="container px-6 mx-auto">
-        <div className="p-6 bg-gray-900 rounded-xl">
-          <h4 className="text-2xl font-bold tracking-wide text-white mb-4">SUBMIT YOUR AI TOOL INFO</h4>
-          <p className="text-sm text-gray-300">Please fill the below details</p>
+        <div className="p-6 rounded-xl">
+          <h4 className="text-2xl font-bold tracking-wide mb-4">SUBMIT YOUR AI TOOL INFO</h4>
+          <p className="text-md">Please fill the below details*</p>
           <form onSubmit={onSubmit} className="mt-8">
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
-                <label htmlFor="name" className="text-sm font-medium text-gray-100">Name</label>
+                <label htmlFor="name" className="text-lg font-medium text-gray-600">Name</label>
               </div>
               <div className="w-full sm:w-2/3">
                 <div className="max-w-md">
@@ -101,7 +110,7 @@ function ContactForm() {
                         required
                         value={name}
                         onChange={(e) => setName(e.target.value)}
-                        className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
+                        className="block py-4 px-3 w-full text-sm text-gray-900 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 hover:border-orange-900 focus:border-red-500 rounded-lg hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
                       />
                     </div>
                   </div>
@@ -112,7 +121,7 @@ function ContactForm() {
 
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
-                <label htmlFor="name" className="text-sm font-medium text-gray-100">Email</label>
+                <label htmlFor="name" className="text-lg font-medium text-gray-600">Email</label>
               </div>
               <div className="w-full sm:w-2/3">
                 <div className="max-w-md">
@@ -126,7 +135,8 @@ function ContactForm() {
                         required
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
-                        className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
+                        className="block py-4 px-3 w-full text-sm text-gray-900 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 hover:border-orange-900 focus:border-red-500 rounded-lg hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
+                        // className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 focus:border-green-500 rounded-lg"
                       />
                     </div>
                   </div>
@@ -137,7 +147,7 @@ function ContactForm() {
 
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
-                <label htmlFor="name" className="text-sm font-medium text-gray-100">Website URL</label>
+                <label htmlFor="name" className="text-lg font-medium text-gray-600">Website URL</label>
               </div>
               <div className="w-full sm:w-2/3">
                 <div className="max-w-md">
@@ -151,7 +161,8 @@ function ContactForm() {
                         required
                         value={site}
                         onChange={(e) => setSite(e.target.value)}
-                        className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
+                        className="block py-4 px-3 w-full text-sm text-gray-900 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 hover:border-orange-900 focus:border-red-500 rounded-lg hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
+                        // className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
                       />
                     </div>
                   </div>
@@ -162,7 +173,7 @@ function ContactForm() {
 
             <div className="flex flex-wrap items-center mb-6">
               <div className="w-full sm:w-1/3">
-                <label htmlFor="name" className="text-sm font-medium text-gray-100">Category</label>
+                <label htmlFor="name" className="text-lg font-medium text-gray-600">Category</label>
               </div>
               <div className="w-full sm:w-2/3">
                 <div className="max-w-md">
@@ -176,7 +187,8 @@ function ContactForm() {
                         required
                         value={category}
                         onChange={(e) => setCategory(e.target.value)}
-                        className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
+                        className="block py-4 px-3 w-full text-sm text-gray-900 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 hover:border-orange-900 focus:border-red-500 rounded-lg hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
+                        // className="block py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg"
                       />
                     </div>
                   </div>
@@ -189,7 +201,7 @@ function ContactForm() {
 
             <div className="flex flex-wrap items-start mb-6">
               <div className="w-full sm:w-1/3">
-                <label htmlFor="message" className="block mt-2 text-sm font-medium text-gray-100">Description</label>
+                <label htmlFor="message" className="block mt-2 text-lg font-medium text-gray-600">Description</label>
               </div>
               <div className="w-full sm:w-2/3">
                 <div className="max-w-md">
@@ -200,19 +212,46 @@ function ContactForm() {
                     required
                     value={message}
                     onChange={(e) => setMessage(e.target.value)}
-                    className="block h-48 py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg resize-none"
+                    className="block h-40 py-4 px-3 w-full text-sm text-gray-900 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-900 hover:border-orange-900 focus:border-red-500 rounded-lg hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
+                    // className="block h-48 py-4 px-3 w-full text-sm text-gray-50 placeholder-gray-50 font-medium outline-none bg-transparent border border-gray-400 hover:border-white focus:border-green-500 rounded-lg resize-none"
                   />
                 </div>
               </div>
             </div>
 
-            <button
+            {/* <button
               type="submit"
               disabled={submitting}
               className="inline-block py-2 px-10 text-sm font-semibold leading-normal text-blue-50 bg-blue-500 hover:bg-blue-600 rounded-lg transition duration-200"
             >
               Send
-            </button>
+            </button> */}
+            <hr />
+
+<m.div
+            className="flex md:flex-col items-center justify-center md:w-[500px] lg:w-[1200px] lg:mt-9"
+            variants={{
+              hidden: { opacity: 0, y: -10 },
+              show: { opacity: 1, y: 0, transition: { type: "spring" } },
+            }}
+          >
+            <div className="grid md:grid-cols-4 place-items-center">
+              <ShimmerButton
+                className="flex items-center justify-center shadow-2xl transition-all hover:shadow-[0_0_40px_8px_rgba(185,28,28,0.5)]"
+                background="radial-gradient(ellipse 80% 30% at 50% 120%, #cfcfcf, #000000)"
+              >
+                <span className="whitespace-pre bg-gradient-to-b from-black from-30% to-gray-300/80 bg-clip-text text-center text-sm lg:text-2xl font-semibold leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 dark:text-transparent z-10">
+                 Submit
+                </span>
+                <ChevronRight className="h-6 w-6 duration-150 ease-in-out transform group-hover:translate-x-1 m-auto" />
+              </ShimmerButton> 
+
+              
+              
+            </div>
+
+
+          </m.div>
           </form>
         </div>
       </div>

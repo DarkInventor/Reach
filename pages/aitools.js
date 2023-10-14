@@ -139,7 +139,7 @@
       </Link> */}
 
       <Link
-        href="https://buildspace.so/sf1"
+        href="/ContactForm"
         target="_blank"
         className="group relative justify-center gap-2 w-full transition-all duration-300 ease-out hover:ring-2 hover:ring-primary hover:ring-offset-2 rounded-md"
       >
