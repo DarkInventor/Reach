@@ -12,6 +12,7 @@ import Footer from "../components/ui/Footer";
 import { useRouter } from 'next/router'; 
 import { motion } from "framer-motion";
 import Pricing from "../components/ui/Pricing";
+import AITools from "./aitools";
 // import GetStarted from "../components/ui/GetStarted/getstarted";
 
 export default function Home() {

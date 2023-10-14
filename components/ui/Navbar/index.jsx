@@ -4,6 +4,7 @@ import NavHeader from '../NavHeader'
 import NavLink from '../NavLink'
 // import { useRouter } from 'next/navigation';
 import { useRouter } from "next/router";
+import aitools from '../../../pages/aitools';
 
 const Navbar = () => {
     const router = useRouter();
@@ -18,8 +19,9 @@ const Navbar = () => {
 
     const navigation = [
         { name: "Why us?", href: "#features" },
+        { name: "AI Tools", href: "/aitools" },
         { name: "Pricing", href: "#pricing" },
-        { name: "News Letter", href: "https://thataitoolsguy.substack.com/about" },
+        { name: "Newsletter", href: "https://thataitoolsguy.substack.com/about" },
   
         // { name: "FAQs", href: "#faqs" },
     ]
