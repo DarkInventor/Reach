@@ -228,8 +228,9 @@
         <>
         <NavbarAI />
         <section className="py">
+       
             <h1 className="mb-5 text-center font-mono text-2xl font-bold underline text-4xl underline-offset-9 decoration-dotted decoration-blue-800">
-            ai tools by
+            <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> 3000+ </span> ai tools by
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> indie hackers</span>
             </h1>
             <div className="flex justify-end max-w-screen-lg mx-auto px-9 mb-2">
