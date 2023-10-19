@@ -20,13 +20,15 @@
     "@notionhq/client": "^2.2.13",
     "eslint": "8.30.0",
     "eslint-config-next": "13.1.1",
+    "flowbite-react": "^0.6.4",
     "framer-motion": "^10.15.0",
     "lucide-react": "^0.287.0",
     "next": "13.1.1",
     "notion-client": "^6.16.0",
     "pnpm": "^8.9.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "@types/react": "18.2.29",

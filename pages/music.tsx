@@ -8,6 +8,7 @@ import { m } from "framer-motion";
 import Link from "next/link";
 // import { promises as fs } from 'fs';
 import chatbotData from "./music.json";
+import AIdirectory from "./aidirectory";
 
 export default function music() {
 const articles = chatbotData;
@@ -43,7 +44,7 @@ return (
     
     
     </div>
-
+    <AIdirectory />
         <div className="mx-auto grid max-w-screen-lg justify-center px-4 sm:grid-cols-2 sm:gap-4 sm:px-8 md:grid-cols-3">
         {articles.map((article, index) => (
             <article
