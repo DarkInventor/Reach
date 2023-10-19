@@ -1,0 +1,2306 @@
+[
+ {
+   "name": "Recall Wiki",
+   "link": "https://www.recall.wiki/extension?ref=theresanaiforthat",
+   "oneliner": "Summarizes and connects web info for faster processing.",
+   "category": "Summaries",
+   "shortdescription": "Recall lets you summarize any online content and save it to your personal knowledge base. With Recal...",
+   "price": "Free + from $7/mo",
+   "imageurl": "https://media.theresanaiforthat.com/recall-wiki.png?height=207"
+ },
+ {
+   "name": "Frontdoor",
+   "link": "https://www.frontdoor.xyz/?ref=theresanaiforthat",
+   "oneliner": "Personal librarian for the internet",
+   "category": "Article summaries",
+   "shortdescription": "Frontdoor is a personal librarian for the internet built to help you go from idea (bookmarking) to l...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/frontdoor.png?height=207"
+ },
+ {
+   "name": "Spoke.ai",
+   "link": "https://www.spoke.ai/slack-summarization?utm_source=theresanaiforthat&utm_medium=partner&utm_campaign=free_beta&ref=theresanaiforthat&utm_source=taaft&utm_medium=cpc&utm_campaign=taaft",
+   "oneliner": "Summarized Slack discussions.",
+   "category": "Slack summaries",
+   "shortdescription": "Spoke.ai is an AI-powered tool that allows users to summarize long, noisy Slack discussions automati...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/spoke-ai.png?height=207"
+ },
+ {
+   "name": "Eightify",
+   "link": "https://www.eightify.app/?ref=theresanaiforthat",
+   "oneliner": "Key insights from Youtube videos.",
+   "category": "YouTube summaries",
+   "shortdescription": "Eightify AI ChatGPT is a Chrome extension that quickly and easily generates summaries of YouTube vid...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/eightify.png?height=207"
+ },
+ {
+   "name": "Snipd Podcast Summaries",
+   "link": "https://www.snipd.com/ai-podcast-summaries?ref=theresanaiforthat",
+   "oneliner": "Summarized podcasts for quick insights.",
+   "category": "Podcast editing",
+   "shortdescription": "Snipd is an AI-powered podcast summarization tool that allows users to quickly get key insights from...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/snipd-podcast-summaries.png?height=207"
+ },
+ {
+   "name": "Nutshell Summaries",
+   "link": "https://www.nutshellapp.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized videos in any language.",
+   "category": "YouTube summaries",
+   "shortdescription": "Nutshell Summaries is an AI-powered tool that summarizes YouTube videos in any language. Its primary...",
+   "price": "Free + from $5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/nutshell-summaries.png?height=207"
+ },
+ {
+   "name": "Kome Summaries",
+   "link": "https://kome.ai/summarizer?ref=theresanaiforthat",
+   "oneliner": "Summarizing articles, videos, and websites' content.",
+   "category": "Summaries",
+   "shortdescription": "Kome is an AI-powered tool that allows users to summarize articles, YouTube videos, and websites qui...",
+   "price": "Free + from $5.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/kome-summaries.png?height=207"
+ },
+ {
+   "name": "TL;DV",
+   "link": "https://tldv.io/?ref=theresanaiforthat",
+   "oneliner": "Assisting virtual teams in meeting productivity.",
+   "category": "Meeting summaries",
+   "shortdescription": "tl;dv is an AI-driven tool that helps teams increase their productivity and efficiency in virtual me...",
+   "price": "Free + from $20/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tl-dv.png?height=207"
+ },
+ {
+   "name": "InSummary",
+   "link": "https://www.insummary.com/?ref=theresanaiforthat",
+   "oneliner": "Automated summaries and reporting for professionals.",
+   "category": "Status reports",
+   "shortdescription": "InSummary is for anyone who wants to spend more time on what's rewarding – and less on what's not....",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/insummary.png?height=207"
+ },
+ {
+   "name": "Versational",
+   "link": "https://www.versational.ai/?ref=theresanaiforthat",
+   "oneliner": "Insight generation and meeting optimization.",
+   "category": "Meeting summaries",
+   "shortdescription": "Versational™ is an AI-Driven Conversation Enablement Platform that enables users to capture the mo...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/versational.png?height=207"
+ },
+ {
+   "name": "Upword",
+   "link": "https://www.upword.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarized content generator.",
+   "category": "Summaries",
+   "shortdescription": "Upword is an AI-powered tool that helps you quickly summarize content and gain knowledge from it. It...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/upword.png?height=207"
+ },
+ {
+   "name": "Traq.ai",
+   "link": "https://www.traq.ai/?ref=theresanaiforthat",
+   "oneliner": "Sales call analysis and optimization.",
+   "category": "Meeting summaries",
+   "shortdescription": "Traq.ai is an AI-driven conversation intelligence platform for sales teams. It records and transcrib...",
+   "price": "Free + From $30/mo",
+   "imageurl": "https://media.theresanaiforthat.com/traq-ai.png?height=207"
+ },
+ {
+   "name": "TLDR This",
+   "link": "https://tldrthis.com/?ref=theresanaiforthat",
+   "oneliner": "Online text summarizing for long articles.",
+   "category": "Summaries",
+   "shortdescription": "TLDR This is a free online text summarizing tool that uses state-of-the-art AI to automatically cond...",
+   "price": "Free + From $4/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tldr-this.png?height=207"
+ },
+ {
+   "name": "SummerEyes",
+   "link": "https://summereyes.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarized internet article output.",
+   "category": "Summaries",
+   "shortdescription": "SummerEyes is an AI-powered summarization tool that instantly summarizes any text found on the inter...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summereyes.png?height=207"
+ },
+ {
+   "name": "Summarize Tech",
+   "link": "https://www.summarize.tech/?ref=theresanaiforthat",
+   "oneliner": "Automatic video summarization.",
+   "category": "Video summaries",
+   "shortdescription": "summarize.tech is an AI-powered tool that automatically generates summaries of long videos from YouT...",
+   "price": "Free + $10/mo for Premium",
+   "imageurl": "https://media.theresanaiforthat.com/summarize-tech.png?height=207"
+ },
+ {
+   "name": "SummariseThis",
+   "link": "https://twitter.com/summarisethis/?ref=theresanaiforthat",
+   "oneliner": "Application that generates Twitter summaries.",
+   "category": "Tweet summaries",
+   "shortdescription": "SummariseThis App is a software application designed to make Twitter threads more digestible. The ap...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/summarisethis.png?height=207"
+ },
+ {
+   "name": "Squish",
+   "link": "https://chrome.google.com/webstore/detail/squish/iinmigjlcpeckfihbbfajpkiilfmakff?ref=theresanaiforthat",
+   "oneliner": "Automated text summarization.",
+   "category": "Summaries",
+   "shortdescription": "Squish is an AI-powered summary tool designed to save time and stay informed. It turns any body of t...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/squish.png?height=207"
+ },
+ {
+   "name": "Merlin",
+   "link": "https://merlin.foyer.work/?ref=theresanaiforthat",
+   "oneliner": "Summarizing, ideating, and writing assistant.",
+   "category": "Website summaries",
+   "shortdescription": "Merlin is a free Open AI extension powered by ChatGPT, a natural language processing and machine lea...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/merlin.png?height=207"
+ },
+ {
+   "name": "Jamie",
+   "link": "https://www.meetjamie.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizing meetings precisely and fast.",
+   "category": "Meeting summaries",
+   "shortdescription": "Jamie is an AI assistant that creates summaries of meetings in business-writing quality within secon...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/jamie.png?height=207"
+ },
+ {
+   "name": "Fireflies",
+   "link": "https://fireflies.ai/?ref=theresanaiforthat",
+   "oneliner": "Conversation analysis and notetaking for teams.",
+   "category": "Meeting summaries",
+   "shortdescription": "Fireflies.ai is an AI-powered conversation intelligence and notetaking tool that helps teams record,...",
+   "price": "Free + From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/fireflies.png?height=207"
+ },
+ {
+   "name": "DetangleAI",
+   "link": "https://detangle.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizing video, audio, and text.",
+   "category": "Summaries",
+   "shortdescription": "Detangle is an AI-based summarization tool that enables users to quickly and accurately summarize an...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/detangleai.png?height=207"
+ },
+ {
+   "name": "Deciphr AI",
+   "link": "https://www.deciphr.ai/?ref=theresanaiforthat",
+   "oneliner": "Automates podcast show notes to simplify production.",
+   "category": "Audio summaries",
+   "shortdescription": "Deciphr AI is an AI-powered tool that simplifies the podcast production process. It enables users to...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/deciphr-ai.png?height=207"
+ },
+ {
+   "name": "Cogram",
+   "link": "https://www.cogram.com/?ref=theresanaiforthat",
+   "oneliner": "Transcribes meetings, identifies action items.",
+   "category": "Meeting summaries",
+   "shortdescription": "Cogram is a powerful AI-driven tool designed to streamline virtual meetings and make the process of ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/cogram.png?height=207"
+ },
+ {
+   "name": "Thegist",
+   "link": "https://www.thegist.ai/?ref=theresanaiforthat",
+   "oneliner": "Slack conversation summarization.",
+   "category": "Slack summaries",
+   "shortdescription": "theGist AI is a powerful tool that helps users manage their work information overload by generating ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/thegist.png?height=207"
+ },
+ {
+   "name": "Sumly",
+   "link": "https://www.sumly.ai/?ref=theresanaiforthat",
+   "oneliner": "Free podcast summaries on a website for busy listeners.",
+   "category": "Podcast summaries",
+   "shortdescription": "SumlyAI is an AI-powered website that offers free summaries of podcasts, allowing busy podcast liste...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/sumly.png?height=207"
+ },
+ {
+   "name": "Solidpoint",
+   "link": "https://www.solidpoint.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarize large amounts of content quickly.",
+   "category": "Video summaries",
+   "shortdescription": "SolidPoint's Summarize tool is a powerful AI-powered tool designed to help users quickly understand ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/solidpoint.png?height=207"
+ },
+ {
+   "name": "Headline-ai",
+   "link": "https://headline-ai.com/?ref=theresanaiforthat",
+   "oneliner": "Streamlined web content summarization.",
+   "category": "Summaries",
+   "shortdescription": "Headline AI is a Chrome extension that uses advanced AI technology to quickly and accurately summari...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/headline-ai.png?height=207"
+ },
+ {
+   "name": "Gimme Summary AI",
+   "link": "https://gimmesummary.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizes webpage articles.",
+   "category": "Summaries",
+   "shortdescription": "Gimme Summary AI is a free Chrome extension that uses the ChatGPT AI to summarize articles from any ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/gimme-summary-ai.png?height=207"
+ },
+ {
+   "name": "Reflect AI",
+   "link": "https://reflect.app/?ai&ref=theresanaiforthat",
+   "oneliner": "Encrypted note-taking synced and tracked.",
+   "category": "Note summaries",
+   "shortdescription": "Reflect is a powerful note-taking app that helps users to store their thoughts, books, and meetings ...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/reflect-ai.png?height=207"
+ },
+ {
+   "name": "Tactiq",
+   "link": "https://tactiq.io/?utm_source=tactiq.io&utm_medium=ph-landing&utm_campaign=ph&ref=theresanaiforthat",
+   "oneliner": "Real-time conversation transcription and summary.",
+   "category": "Meeting summaries",
+   "shortdescription": "Tactiq is a Chrome extension designed to automatically transcribe conversations held in Google Meet,...",
+   "price": "From $8/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tactiq.png?height=207"
+ },
+ {
+   "name": "Vowel",
+   "link": "https://www.vowel.com/features/automated-meeting-summaries?ref=theresanaiforthat",
+   "oneliner": "Automated meeting summary generator.",
+   "category": "Meeting summaries",
+   "shortdescription": "Vowel AI is an automated meeting summaries tool that uses AI to save time and keep everyone on the s...",
+   "price": "Free + from $8.49/mo",
+   "imageurl": "https://media.theresanaiforthat.com/vowel.png?height=207"
+ },
+ {
+   "name": "SkimIt",
+   "link": "https://www.skimit.ai/?ref=theresanaiforthat",
+   "oneliner": "Text summarization for articles.",
+   "category": "Summaries",
+   "shortdescription": "SkimIt.ai is an AI-powered summarization tool that enables users to quickly get a summary of any art...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/skimit.png?height=207"
+ },
+ {
+   "name": "Noty",
+   "link": "https://noty.ai/?ref=theresanaiforthat",
+   "oneliner": "Real-time transcription for meeting notes.",
+   "category": "Meeting summaries",
+   "shortdescription": "Noty.ai is a meeting transcription software designed to help users stay engaged in conversations. It...",
+   "price": "Free + from $14.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/noty.png?height=207"
+ },
+ {
+   "name": "Summate",
+   "link": "https://summate.it/?ref=theresanaiforthat",
+   "oneliner": "NLP-summarized web articles.",
+   "category": "Summaries",
+   "shortdescription": "Summate.it is an on-demand web article summarization tool that uses OpenAI, a natural language proce...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/summate.png?height=207"
+ },
+ {
+   "name": "Scisummary",
+   "link": "https://scisummary.com/?ref=theresanaiforthat",
+   "oneliner": "Cutting-edge scientific articles summarization.",
+   "category": "Scientific article summaries",
+   "shortdescription": "SciSummary is a cutting-edge AI-driven summarization tool designed to make digesting scientific arti...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/scisummary.png?height=207"
+ },
+ {
+   "name": "MeetGeek",
+   "link": "https://meetgeek.ai/?ref=theresanaiforthat",
+   "oneliner": "Meeting assistant for efficient team discussions.",
+   "category": "Meeting summaries",
+   "shortdescription": "MeetGeek is an AI meeting assistant that helps teams maximize the value of their conversations. It a...",
+   "price": "Free + from $15/mo",
+   "imageurl": "https://media.theresanaiforthat.com/meetgeek.png?height=207"
+ },
+ {
+   "name": "Summary Box",
+   "link": "https://summarybox.com/?ref=theresanaiforthat",
+   "oneliner": "Online summarization of texts and articles.",
+   "category": "Summaries",
+   "shortdescription": "Summary Box is an artificial intelligence (AI) powered online tool that enables users to quickly and...",
+   "price": "From $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/summary-box.png?height=207"
+ },
+ {
+   "name": "Mindgrasp",
+   "link": "https://mindgrasp.ai/home?ref=theresanaiforthat",
+   "oneliner": "Document summarization and answering assistant.",
+   "category": "Summaries",
+   "shortdescription": "Mindgrasp is an AI-powered tool for generating notes and answers to questions about any document or ...",
+   "price": "From $6.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/mindgrasp.png?height=207"
+ },
+ {
+   "name": "Airgram",
+   "link": "https://www.airgram.io/?via=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Streamline meeting workflow and collaboration.",
+   "category": "Meeting summaries",
+   "shortdescription": "Airgram is an AI-powered meeting assistant that helps to streamline the meeting workflow. It provide...",
+   "price": "Free + from $8.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/airgram.png?height=207"
+ },
+ {
+   "name": "Video Summarization",
+   "link": "https://smart-ai-transformations.cloudinary.com/?ref=theresanaiforthat",
+   "oneliner": "Creates short video clips from engaging segments.",
+   "category": "Video summaries",
+   "shortdescription": "Cloudinary Labs' Video Summarization tool is an AI-powered automation solution that automatically cr...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/video-summarization.png?height=207"
+ },
+ {
+   "name": "YouTube Summarized",
+   "link": "https://youtubesummarized.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizes YouTube videos in note form.",
+   "category": "YouTube summaries",
+   "shortdescription": "YouTube Summarized is an AI-driven tool, designed to generate summaries of YouTube videos in note fo...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/youtube-summarized.png?height=207"
+ },
+ {
+   "name": "Crux",
+   "link": "https://www.getcrux.app/?ref=theresanaiforthat",
+   "oneliner": "Slack conversation summary extraction.",
+   "category": "Slack summaries",
+   "shortdescription": "Crux is an AI-powered tool designed to make it easy to quickly get the context of conversations on S...",
+   "price": "From $3.29/mo",
+   "imageurl": "https://media.theresanaiforthat.com/crux.png?height=207"
+ },
+ {
+   "name": "Laxis 2.0",
+   "link": "https://www.laxis.com/?ref=theresanaiforthat",
+   "oneliner": "Meeting assistant: transcribes, tags, manages insights.",
+   "category": "Meeting summaries",
+   "shortdescription": "Laxis is an artificial intelligence (AI) meeting assistant that helps businesses and professionals m...",
+   "price": "Free + from $8.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/laxis-2-0.png?height=207"
+ },
+ {
+   "name": "Arxiv Summary Generator",
+   "link": "https://chatgptai.me/?ref=theresanaiforthat",
+   "oneliner": "Generates Arxiv paper summaries.",
+   "category": "Arxiv summaries",
+   "shortdescription": "CHATGPT AI is an Arxiv Summary Generator that utilizes a AI/Python model for generating summaries fr...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/arxiv-summary-generator.png?height=207"
+ },
+ {
+   "name": "Article Summarizer",
+   "link": "https://summary.arguflow.gg/?ref=theresanaiforthat",
+   "oneliner": "Summarizes articles rapidly with advanced technology.",
+   "category": "Article summaries",
+   "shortdescription": "Article Summarizer is an AI-powered tool that enables users to quickly and accurately summarize arti...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/article-summarizer.png?height=207"
+ },
+ {
+   "name": "Web3 Summary",
+   "link": "https://www.web3summary.com/?ref=theresanaiforthat",
+   "oneliner": "Summarization of complex crypto projects.",
+   "category": "Crypto article summaries",
+   "shortdescription": "Web3 Summary is an AI-driven summarization tool designed to help users make sense of complex crypto ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/web3-summary.png?height=207"
+ },
+ {
+   "name": "Glasp",
+   "link": "https://glasp.co/youtube-summary?ref=theresanaiforthat",
+   "oneliner": "Fast video summaries for YouTube content.",
+   "category": "YouTube summaries",
+   "shortdescription": "Glasp is an AI-powered tool that enables users to quickly and effectively summarize YouTube videos. ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/glasp.png?height=207"
+ },
+ {
+   "name": "Scribe AI",
+   "link": "https://marketplace.visualstudio.com/items?itemName=AndrewZhang.scribeai&ref=theresanaiforthat",
+   "oneliner": "Generates summaries from code.",
+   "category": "ChatGPT for Visual Studio",
+   "shortdescription": "Scribe AI is an extension for Visual Studio Code that allows programmers to use ChatGPT or GPT right...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/scribe-ai.png?height=207"
+ },
+ {
+   "name": "ArxivGPT",
+   "link": "https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en&authuser=0&ref=theresanaiforthat",
+   "oneliner": "Chrome extension summarizing text documents/articles.",
+   "category": "Arxiv summaries",
+   "shortdescription": "ArxivGPT is a Google Chrome plug-in that helps users quickly understand the content of arXiv papers ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/arxivgpt.png?height=207"
+ },
+ {
+   "name": "Circleback",
+   "link": "https://www.circleback.ai/?ref=theresanaiforthat",
+   "oneliner": "Meeting summarization and email automation.",
+   "category": "Meeting summaries",
+   "shortdescription": "Circleback.ai is a powerful automated meeting notes tool that records and summarizes meetings and cr...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/circleback.png?height=207"
+ },
+ {
+   "name": "Meetsummary",
+   "link": "https://meetsummary.com/?ref=theresanaiforthat",
+   "oneliner": "Maximizes meeting productivity via summarization.",
+   "category": "Meeting summaries",
+   "shortdescription": "MeetSummary is an AI-powered meeting summarization tool designed to help teams maximize their produc...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/meetsummary.png?height=207"
+ },
+ {
+   "name": "tldrbot",
+   "link": "https://www.tldrbot.co/?ref=theresanaiforthat",
+   "oneliner": "Discord chat summarization.",
+   "category": "Discord summaries",
+   "shortdescription": "TLDR Bot is a Discord bot that provides quick and efficient summarization of chats in a Discord serv...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tldrbot.png?height=207"
+ },
+ {
+   "name": "Synthesis Youtube",
+   "link": "https://home.thesynthesis.app/?ref=theresanaiforthat",
+   "oneliner": "Web-based video segment search engine for podcasts.",
+   "category": "YouTube summaries",
+   "shortdescription": "Synthesis YouTube is a web-based tool created using create-react-app that helps learners quickly fin...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/synthesis-youtube.png?height=207"
+ },
+ {
+   "name": "Foxymeets",
+   "link": "https://foxymeets.earlybird.rocks/q?ref=theresanaiforthat",
+   "oneliner": "Delivered concise meeting summaries to your inbox.",
+   "category": "Meeting summaries",
+   "shortdescription": "FoxyMeets is an AI-powered meeting summary tool that allows users to stay present during meetings wi...",
+   "price": "From $1.25/hour",
+   "imageurl": "https://media.theresanaiforthat.com/foxymeets.png?height=207"
+ },
+ {
+   "name": "Tosummary",
+   "link": "https://tosummary.com/?ref=theresanaiforthat",
+   "oneliner": "Mobile text extractor.",
+   "category": "Summaries",
+   "shortdescription": "ToSummary is a convenient tool that makes it easy to extract text from any webpage, YouTube video, o...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tosummary.png?height=207"
+ },
+ {
+   "name": "Sassbook AI Summarizer",
+   "link": "https://sassbook.com/ai-summarizer?ref=theresanaiforthat",
+   "oneliner": "Advanced text summarization for content understanding.",
+   "category": "Summaries",
+   "shortdescription": "Sassbook AI Text Summarizer is a cutting-edge AI summarization tool that creates abstractive summari...",
+   "price": "Free + from $32.5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/sassbook-ai-summarizer.png?height=207"
+ },
+ {
+   "name": "Otter.ai",
+   "link": "https://otterai.sjv.io/c/4147834/1063514/13661?utm_term=1113693?ref=theresanaiforthat",
+   "oneliner": "Real-time conversation recording and analysis.",
+   "category": "Meeting summaries",
+   "shortdescription": "Otter.ai is an AI-powered tool that helps users record and transcribe meetings and conversations wit...",
+   "price": "Free + from $8.33/mo",
+   "imageurl": "https://media.theresanaiforthat.com/otter-ai.png?height=207"
+ },
+ {
+   "name": "Genei",
+   "link": "https://www.genei.io/?ref=theresanaiforthat",
+   "oneliner": "Extracts article information for research summaries.",
+   "category": "Summarizing & article writing",
+   "shortdescription": "Genei is an AI-powered research and summarization tool designed to help users improve productivity b...",
+   "price": "From $5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/genei.png?height=207"
+ },
+ {
+   "name": "Shortwave",
+   "link": "https://www.shortwave.com/?ref=theresanaiforthat",
+   "oneliner": "Intelligent email management and productivity.",
+   "category": "Email summaries",
+   "shortdescription": "Shortwave is an intelligent email client powered by AI, designed to help professionals streamline th...",
+   "price": "Free + from $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/shortwave.png?height=207"
+ },
+ {
+   "name": "Grain AI",
+   "link": "https://grain.com/ai?ref=theresanaiforthat",
+   "oneliner": "Summarizes customer meetings for quick insights.",
+   "category": "Meeting summaries",
+   "shortdescription": "Grain AI is a tool that provides automated summaries of customer meetings, enabling teams to quickly...",
+   "price": "From $18.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/grain-ai.png?height=207"
+ },
+ {
+   "name": "Nuz",
+   "link": "https://getnuz.co/?ref=theresanaiforthat",
+   "oneliner": "Video news summaries with balanced perspectives.",
+   "category": "News",
+   "shortdescription": "Nüz is a personalised video news platform developed by OneSub that provides users with insightful a...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/nuz.png?height=207"
+ },
+ {
+   "name": "Brave Search Summarizer",
+   "link": "https://brave.com/ai-summarizer/?ref=theresanaiforthat",
+   "oneliner": "Summarized web search results.",
+   "category": "Search summaries",
+   "shortdescription": "Brave Search's Summarizer is an AI tool that is integrated into Brave Search results pages to provid...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/brave-search-summarizer.png?height=207"
+ },
+ {
+   "name": "B7Labs",
+   "link": "https://b7labs.co/converse?ref=theresanaiforthat",
+   "oneliner": "Insufficient info for use case desc.",
+   "category": "Website summaries",
+   "shortdescription": "Based on the given text, it is not clear what Converse by B7Labs actually does. The text only provid...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/b7labs.png?height=207"
+ },
+ {
+   "name": "HeyScience",
+   "link": "https://www.heyscience.ai/?ref=theresanaiforthat",
+   "oneliner": "Analysis and summary of scientific research papers.",
+   "category": "Scientific article summaries",
+   "shortdescription": "HeyScience is an AI-powered personal assistant that can help researchers save time by analyzing scie...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/heyscience.png?height=207"
+ },
+ {
+   "name": "Timz.Flowers",
+   "link": "https://timz.flowers/?ref=theresanaiforthat",
+   "oneliner": "Productivity platform automating meetings.",
+   "category": "Meeting summaries",
+   "shortdescription": "TIMZ.FLOWERS is an all-in-one meeting platform that utilizes the power of AI, video conferencing, an...",
+   "price": "Free + from $15/mo",
+   "imageurl": "https://media.theresanaiforthat.com/timz-flowers.png?height=207"
+ },
+ {
+   "name": "Tailor by Threads",
+   "link": "https://threads.com/ai?ref=theresanaiforthat",
+   "oneliner": "Optimized team workflows and productivity management.",
+   "category": "Summaries",
+   "shortdescription": "Tailor by Threads is an AI tool that helps teams manage their workflows by optimizing their time and...",
+   "price": "Free + from $10/user/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tailor-by-threads.png?height=207"
+ },
+ {
+   "name": "SiteExplainer",
+   "link": "https://www.siteexplainer.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized website content for easy understanding.",
+   "category": "Website summaries",
+   "shortdescription": "SiteExplainer is an AI-powered web application designed to simplify and summarize the content of any...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/siteexplainer.png?height=207"
+ },
+ {
+   "name": "Sembly AI",
+   "link": "https://www.sembly.ai/?ref=theresanaiforthat",
+   "oneliner": "Auto-generated meeting summaries and follow-ups.",
+   "category": "Meeting summaries",
+   "shortdescription": "Sembly AI is an AI-powered team assistant tool that helps to record, transcribe and generate a smart...",
+   "price": "Free + fro $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/sembly-ai.png?height=207"
+ },
+ {
+   "name": "Pin",
+   "link": "https://try-pin.com/?ref=theresanaiforthat",
+   "oneliner": "Slack-based team project management with task summaries.",
+   "category": "Slack summaries",
+   "shortdescription": "Pin is an AI-powered platform designed to help teams using Slack manage their projects more efficien...",
+   "price": "From $99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/pin.png?height=207"
+ },
+ {
+   "name": "Concisely",
+   "link": "https://chrome.google.com/webstore/detail/concisely-read-any-email/kmjpimnkepldekdikeihglaiiggddhgl?hl=en&ref=theresanaiforthat",
+   "oneliner": "Email summarization for productivity.",
+   "category": "Email summaries",
+   "shortdescription": "Concisely: Read Any Email in a Sentence is a Chrome extension that uses AI technology to generate on...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/concisely.png?height=207"
+ },
+ {
+   "name": "ChatGPT for YouTube",
+   "link": "https://chatgpt4youtube.com/?ref=theresanaiforthat",
+   "oneliner": "Chrome extension for summarizing YouTube videos.",
+   "category": "YouTube summaries",
+   "shortdescription": "ChatGPT for Youtube is a Chrome extension designed to simplify the process of understanding YouTube ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/chatgpt-for-youtube.png?height=207"
+ },
+ {
+   "name": "Momentum",
+   "link": "https://www.momentum.io/ai-summaries?ref=theresanaiforthat",
+   "oneliner": "Automatically summarizes sales and customer calls.",
+   "category": "Customer call summaries",
+   "shortdescription": "Momentum's AI Summaries for Every Sales and Customer Call is a tool that automates the process of co...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/momentum.png?height=207"
+ },
+ {
+   "name": "WebMagic",
+   "link": "https://www.magicapps.ai/webmagic-ai?ref=theresanaiforthat",
+   "oneliner": "Summarize articles while preserving key content.",
+   "category": "Article summaries",
+   "shortdescription": "WebMagic AI is an innovative tool that uses advanced artificial intelligence technology to provide u...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/webmagic.png?height=207"
+ },
+ {
+   "name": "Kiwi Video",
+   "link": "https://kiwi.video/?ref=theresanaiforthat",
+   "oneliner": "Video learning with summary and quiz features.",
+   "category": "Video summaries",
+   "shortdescription": "Kiwi is an AI-powered tool that helps users learn from videos. It allows users to ask questions and ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/kiwi-video.png?height=207"
+ },
+ {
+   "name": "BLUF",
+   "link": "https://bluf.ai/?ref=theresanaiforthat",
+   "oneliner": "Extracted and comprehended web page information.",
+   "category": "Website summaries",
+   "shortdescription": "BLUF is an AI-powered tool that helps users save time by providing them with quick and concise infor...",
+   "price": "Free + from $4/mo",
+   "imageurl": "https://media.theresanaiforthat.com/bluf.png?height=207"
+ },
+ {
+   "name": "Website Summary AI",
+   "link": "https://www.websitesummaryai.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizing websites for better accessibility.",
+   "category": "Website summaries",
+   "shortdescription": "Website Summary AI is an AI tool that allows users to summarize any website in one click. The purpos...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/website-summary-ai.png?height=207"
+ },
+ {
+   "name": "SummarizeYT",
+   "link": "https://summarizeyt.com/?ref=theresanaiforthat",
+   "oneliner": "Efficient video summarization for YouTube content.",
+   "category": "YouTube summaries",
+   "shortdescription": "SummarizeYT is a Google Chrome extension tool that provides users with a more efficient and effectiv...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarizeyt.png?height=207"
+ },
+ {
+   "name": "Shortify",
+   "link": "https://shortifyapp.com/?ref=theresanaiforthat",
+   "oneliner": "Time-saving summarization for better comprehension.",
+   "category": "Summaries",
+   "shortdescription": "Shortify is an AI tool that summarizes articles, YouTube videos, blogs, and any other type of conten...",
+   "price": "Free + from $0.99",
+   "imageurl": "https://media.theresanaiforthat.com/shortify.png?height=207"
+ },
+ {
+   "name": "Youtube Transcript AI Summary",
+   "link": "https://chrome.google.com/webstore/detail/youtube-transcript-ai-sum/eciiehmejcjnbooihpiljfnklkopkfcj?ref=theresanaiforthat",
+   "oneliner": "YouTube transcript summaries, no manual analysis.",
+   "category": "YouTube summaries",
+   "shortdescription": "The Youtube Transcript AI Summary is a Chrome extension that provides an AI generated summary for Yo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/youtube-transcript-ai-summary.png?height=207"
+ },
+ {
+   "name": "Textify",
+   "link": "https://textify.ai/?ref=theresanaiforthat",
+   "oneliner": "Improved writing with better grammar and summaries.",
+   "category": "Writing",
+   "shortdescription": "Textify is an AI and Natural Language Processing (NLP) startup that offers a one-stop access to popu...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/textify.png?height=207"
+ },
+ {
+   "name": "Scrivvy",
+   "link": "https://scrivvy.ai/?ref=theresanaiforthat",
+   "oneliner": "Condenses lengthy videos for easier comprehension.",
+   "category": "YouTube summaries",
+   "shortdescription": "Scrivvy is an AI tool that helps users to summarize YouTube videos effectively, regardless of length...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/scrivvy.png?height=207"
+ },
+ {
+   "name": "Glarity",
+   "link": "https://glarity.app/?ref=theresanaiforthat",
+   "oneliner": "Search result summaries for multiple websites.",
+   "category": "Google & Youtube summaries",
+   "shortdescription": "Glarity is a free and open-source browser extension designed to improve the efficiency of searches o...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/glarity.png?height=207"
+ },
+ {
+   "name": "Upheal",
+   "link": "https://www.upheal.io/?ref=theresanaiforthat",
+   "oneliner": "Automated mental health progress notes with analytics.",
+   "category": "Meeting summaries",
+   "shortdescription": "Upheal is an AI-powered progress notes tool designed specifically for mental health professionals. I...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/upheal.png?height=207"
+ },
+ {
+   "name": "Google Bard",
+   "link": "https://bard.google.com/?ref=theresanaiforthat",
+   "oneliner": "Creative ideas and summaries generated.",
+   "category": "Conversations",
+   "shortdescription": "Bard is an experimental AI tool that aims to assist artists and creatives in their work. It offers c...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/google-bard.png?height=207"
+ },
+ {
+   "name": "You-tldr",
+   "link": "https://www.you-tldr.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized YouTube videos via automated summaries.",
+   "category": "YouTube summaries",
+   "shortdescription": "The tool called you-tldr is designed to provide users an effortless and fast way to get the summary ...",
+   "price": "From $9.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/you-tldr.png?height=207"
+ },
+ {
+   "name": "ChatGPT Super",
+   "link": "https://chrome.google.com/webstore/detail/chatgpt-super-supports-gp/nijlhkhkkhnhidoondiobjdgommomifm?hl=en&ref=theresanaiforthat",
+   "oneliner": "Enhanced browser extension for productivity online.",
+   "category": "Q&A & video summaries",
+   "shortdescription": "ChatGPT Super is a Chrome extension designed to improve users' online experience by providing a rang...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/chatgpt-super.png?height=207"
+ },
+ {
+   "name": "Swell AI",
+   "link": "https://swellai.com/?via=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Generated content for podcasts and videos.",
+   "category": "Podcast summaries",
+   "shortdescription": "Swell AI is a tool that automates the process of writing and creating content related to podcasts an...",
+   "price": "Free + from $29/mo",
+   "imageurl": "https://media.theresanaiforthat.com/swell-ai.png?height=207"
+ },
+ {
+   "name": "Sybill",
+   "link": "https://www.sybill.ai/?mwr=andrei-9912?ref=theresanaiforthat",
+   "oneliner": "Sales communication analysis and summary generation.",
+   "category": "Customer call summaries",
+   "shortdescription": "Sybill is an AI-powered tool that helps GTM (go-to-market) teams improve their sales communication a...",
+   "price": "From $49/mo",
+   "imageurl": "https://media.theresanaiforthat.com/sybill.png?height=207"
+ },
+ {
+   "name": "Multytude - for creators",
+   "link": "https://multytude.com/for-creators/?ref=theresanaiforthat",
+   "oneliner": "Generated and analyzed content for social media.",
+   "category": "Comment summaries",
+   "shortdescription": "Multytude for Creators is an AI tool that assists creators in generating content ideas, scrapbooking...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/multytude-for-creators.png?height=207"
+ },
+ {
+   "name": "Video Highlight",
+   "link": "https://videohighlight.com/?ref=theresanaiforthat",
+   "oneliner": "Extracting key points for efficient video note-taking.",
+   "category": "Video summaries",
+   "shortdescription": "Video Highlight is an AI-powered tool that allows users to summarize and take notes from videos quic...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/video-highlight.png?height=207"
+ },
+ {
+   "name": "Chat Summary for LiveChat",
+   "link": "https://www.livechat.com/marketplace/apps/chat-summary/?ref=theresanaiforthat",
+   "oneliner": "Summarized chat transcripts.",
+   "category": "Chat summaries",
+   "shortdescription": "The Chat Summary app is an AI-powered tool designed to simplify and accelerate your chat transcript ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/chat-summary-for-livechat.png?height=207"
+ },
+ {
+   "name": "Summarist",
+   "link": "https://summarist.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarize books efficiently to broaden knowledge.",
+   "category": "Book summaries",
+   "shortdescription": "Summarist.ai is an AI-powered book summary generator that provides users with a quick summary of any...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/summarist.png?height=207"
+ },
+ {
+   "name": "Krisp AI Meeting Assistant",
+   "link": "https://krisp.ai/ai-meeting-assistant/?ref=theresanaiforthat",
+   "oneliner": "Automated meeting summary & noise-free calls for pros.",
+   "category": "Meeting summaries",
+   "shortdescription": "Krisp is an AI tool that automatically removes background noises from incoming and outgoing calls, h...",
+   "price": "From $8/mo",
+   "imageurl": "https://media.theresanaiforthat.com/krisp-ai-meeting-assistant.png?height=207"
+ },
+ {
+   "name": "Current Report",
+   "link": "https://current.report/?ref=theresanaiforthat",
+   "oneliner": "Summarizes real-time news on diverse world events.",
+   "category": "News summaries",
+   "shortdescription": "The tool featured in this page is an AI-powered news aggregator that provides users with real-time u...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/current-report.png?height=207"
+ },
+ {
+   "name": "Concise",
+   "link": "https://www.concise.app/?ref=theresanaiforthat",
+   "oneliner": "Summarized news for different areas.",
+   "category": "Tech news summaries",
+   "shortdescription": "Concise AI is an AI-powered tool that provides a daily summary newsfeed on current topics in various...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/concise.png?height=207"
+ },
+ {
+   "name": "VideoMind",
+   "link": "https://videomind.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Summarizes lengthy videos for time-constrained viewers.",
+   "category": "YouTube summaries",
+   "shortdescription": "VideoMind is an AI tool that enables users to create succinct video summaries by automatically ident...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/videomind.png?height=207"
+ },
+ {
+   "name": "Brevity",
+   "link": "https://www.brevity.sh/?ref=theresanaiforthat",
+   "oneliner": "Summarized information output for easy consumption.",
+   "category": "Video & text summaries",
+   "shortdescription": "Brevity is a tool designed to help individuals cut through information overload by transforming long...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/brevity.png?height=207"
+ },
+ {
+   "name": "Review Rocket",
+   "link": "https://www.uselumin.co/review-rocket?ref=theresanaiforthat",
+   "oneliner": "Summarizes reviews for apps/companies.",
+   "category": "App review summaries",
+   "shortdescription": "Review Rocket, developed by Lumin, is an AI-powered app review summarizer tool that helps businesses...",
+   "price": "From $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/review-rocket.png?height=207"
+ },
+ {
+   "name": "Whisper Notes",
+   "link": "https://apps.apple.com/us/app/id6447090616?platform=iphone&ref=theresanaiforthat",
+   "oneliner": "Audio and video transcribed into text summaries.",
+   "category": "Speech to text",
+   "shortdescription": "Based on the provided text, Whisper Notes is an app that can be downloaded on iPhone, iPad, iPod tou...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/whisper-notes.png?height=207"
+ },
+ {
+   "name": "Any Summary",
+   "link": "https://www.anysummary.app/?ref=theresanaiforthat",
+   "oneliner": "Saved time by summarizing documents.",
+   "category": "Summaries",
+   "shortdescription": "AnySummary is an AI-powered tool that can summarize text, audio, and video files quickly and efficie...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/any-summary.png?height=207"
+ },
+ {
+   "name": "SummarizePaper",
+   "link": "https://summarizepaper.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizes scientific papers from arXiv, saving time.",
+   "category": "Arxiv summaries",
+   "shortdescription": "The AI-Powered arXiv Paper Summarization tool provided by SummarizePaper.com is a service that gener...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarizepaper.png?height=207"
+ },
+ {
+   "name": "TotemoTech",
+   "link": "https://totemotech.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized Japanese tech news in English.",
+   "category": "Japanese tech news summaries",
+   "shortdescription": "TotemoTech is an AI-powered tool that generates daily 2-minute English summaries of the most importa...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/totemotech.png?height=207"
+ },
+ {
+   "name": "Alphy",
+   "link": "https://alphy.app/?ref=theresanaiforthat",
+   "oneliner": "Summarizes media for easy navigation and questioning.",
+   "category": "Summaries",
+   "shortdescription": "Alphy is an artificial intelligence tool that aims to help users interact with audiovisual content e...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/alphy.png?height=207"
+ },
+ {
+   "name": "Booknotes",
+   "link": "https://getbooknotes.com/?ref=theresanaiforthat",
+   "oneliner": "Speeds up book learning through summaries.",
+   "category": "Book summaries",
+   "shortdescription": "Booknotes is an AI-powered tool that allows users to generate summaries, key ideas, quotes, and acti...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/booknotes.png?height=207"
+ },
+ {
+   "name": "Breef",
+   "link": "https://breef.in/?ref=theresanaiforthat",
+   "oneliner": "Summarize emails efficiently",
+   "category": "Email summaries",
+   "shortdescription": "Breef.in is an AI tool that summarizes incoming emails using natural language processing and sends t...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/breef.png?height=207"
+ },
+ {
+   "name": "Abridge",
+   "link": "https://www.abridge.com/?ref=theresanaiforthat",
+   "oneliner": "Produces live summaries from medical conversations.",
+   "category": "Health",
+   "shortdescription": "Abridge is a medical AI tool that structures and summarizes medical conversations for providers, pat...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/abridge.png?height=207"
+ },
+ {
+   "name": "Scribbler",
+   "link": "https://scribbler.so/?ref=theresanaiforthat",
+   "oneliner": "Podcast insights summarized and delivered instantly.",
+   "category": "Podcast summaries",
+   "shortdescription": "Scribbler is an AI tool that provides users with instant insights from any podcast. The tool allows ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/scribbler.png?height=207"
+ },
+ {
+   "name": "FloatingAI",
+   "link": "https://play.google.com/store/apps/details?id=me.hufozhu.floatai&hl=en_US&ref=theresanaiforthat",
+   "oneliner": "Personalized phone suggestions and chat summaries.",
+   "category": "ChatGPT for Android",
+   "shortdescription": "FloatingAI is an AI assistant available on Google Play that can provide personalized suggestions to ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/floatingai.png?height=207"
+ },
+ {
+   "name": "VNSplit",
+   "link": "https://vnsplit.me/?ref=theresanaiforthat",
+   "oneliner": "Condenses voice notes in chats.",
+   "category": "Voice notes summaries",
+   "shortdescription": "VNSplit is an AI tool that provides detailed summaries of voice notes across different messaging pla...",
+   "price": "From $2/mo",
+   "imageurl": "https://media.theresanaiforthat.com/vnsplit.png?height=207"
+ },
+ {
+   "name": "Rambler",
+   "link": "https://rambler-mvp0.web.app/#/?ref=theresanaiforthat",
+   "oneliner": "Transcribing meeting audio to notes.",
+   "category": "Meeting summaries",
+   "shortdescription": "The Audio Transcription tool is a recently developed project utilizing the Flutter platform. This to...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/rambler.png?height=207"
+ },
+ {
+   "name": "HackerNews Summarizer",
+   "link": "https://chrome.google.com/webstore/detail/hackernews-summarizer/akfjgjlefkecijfggjekklpfgolgnafl?ref=theresanaiforthat",
+   "oneliner": "Summarize Hacker News articles with Chrome extension.",
+   "category": "HackerNews summaries",
+   "shortdescription": "HackerNews Summarizer is a free Chrome extension that provides a summary of each article on Hacker N...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/hackernews-summarizer.png?height=207"
+ },
+ {
+   "name": "Bloks",
+   "link": "https://www.bloks.app/?ref=theresanaiforthat",
+   "oneliner": "Boosts productivity by organizing notes and reminders.",
+   "category": "Meeting summaries",
+   "shortdescription": "Bloks is an AI-powered productivity assistant that helps users boost their productivity by taking ov...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/bloks.png?height=207"
+ },
+ {
+   "name": "FastGPT",
+   "link": "https://labs.kagi.com/fastgpt?ref=theresanaiforthat",
+   "oneliner": "Fast general summaries search engine.",
+   "category": "Q&A",
+   "shortdescription": "FastGPT is an AI-powered tool developed by Kagi to answer a specific question: what is the fastest p...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/fastgpt.png?height=207"
+ },
+ {
+   "name": "Reflectr",
+   "link": "https://www.reflectr.ai/home?ref=theresanaiforthat",
+   "oneliner": "A reflection and growth notebook.",
+   "category": "Summaries",
+   "shortdescription": "Reflectr is an AI-powered notebook designed for reflection, growth, and productivity. Its main purpo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/reflectr.png?height=207"
+ },
+ {
+   "name": "Hackercast",
+   "link": "https://camrobjones.com/hackercast/?ref=theresanaiforthat",
+   "oneliner": "Summarized Hacker News content.",
+   "category": "Hacker News podcast summaries",
+   "shortdescription": "Hackercast is an AI-generated podcast summary of the popular tech news aggregator site, Hacker News....",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/hackercast.png?height=207"
+ },
+ {
+   "name": "BooksAI",
+   "link": "https://booksai.app/?ref=theresanaiforthat",
+   "oneliner": "Summarizes books from photos.",
+   "category": "Book summaries",
+   "shortdescription": "BooksAI is an AI-powered tool designed to generate book summaries from book photos using Vision AI a...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/booksai.png?height=207"
+ },
+ {
+   "name": "HearHear",
+   "link": "https://hearhear.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Summarizing meeting insights.",
+   "category": "Meeting summaries",
+   "shortdescription": "HearHear is an AI-powered tool that can help transform your daily meetings into actionable insights....",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/hearhear.png?height=207"
+ },
+ {
+   "name": "Abney",
+   "link": "https://www.abney.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated podcast assets.",
+   "category": "Podcast summaries",
+   "shortdescription": "Abney is a tool that uses artificial intelligence to generate written assets from podcasts. It autom...",
+   "price": "Free + from $39/mo",
+   "imageurl": "https://media.theresanaiforthat.com/abney.png?height=207"
+ },
+ {
+   "name": "RecapioGPT",
+   "link": "https://recapiogpt.com/?ref=theresanaiforthat",
+   "oneliner": "Generates article summaries.",
+   "category": "Article summaries",
+   "shortdescription": "RecapioGPT is an AI-based summary tool that allows you to summarize articles into a shorter form wit...",
+   "price": "Free + from $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/recapiogpt.png?height=207"
+ },
+ {
+   "name": "Recapext",
+   "link": "https://recapext.xyz/?ref=theresanaiforthat",
+   "oneliner": "Web content summarizer browser extension.",
+   "category": "Webpage summaries",
+   "shortdescription": "Recap is an open-source browser extension that allows users to easily summarize any portion of any w...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/recapext.png?height=207"
+ },
+ {
+   "name": "Parrot AI",
+   "link": "https://parrot.ai/?ref=theresanaiforthat",
+   "oneliner": "Store and process meeting summaries.",
+   "category": "Meetings",
+   "shortdescription": "Parrot AI is an AI tool that enables businesses to collect, transcribe, and securely store important...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/parrot-ai.png?height=207"
+ },
+ {
+   "name": "MeetraAI",
+   "link": "https://meetra.ai/?ref=theresanaiforthat",
+   "oneliner": "Platform for remote team cooperation.",
+   "category": "Meeting summaries",
+   "shortdescription": "Meetra AI is an AI-augmented platform designed for remote teams to enhance their collaboration and c...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/meetraai.png?height=207"
+ },
+ {
+   "name": "Linklessgpt",
+   "link": "https://linklessgpt.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized links with no clicking needed.",
+   "category": "Link summaries",
+   "shortdescription": "LinklessGPT is a Chrome extension that provides link summaries without the need to click on the link...",
+   "price": "From $9",
+   "imageurl": "https://media.theresanaiforthat.com/linklessgpt.png?height=207"
+ },
+ {
+   "name": "AI Reads",
+   "link": "https://aireads.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Summarized news articles delivered on diverse topics.",
+   "category": "News summaries",
+   "shortdescription": "AIReads is an AI-powered tool that offers users the ability to summarize and read the news anywhere,...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ai-reads.png?height=207"
+ },
+ {
+   "name": "Quill - News Digest",
+   "link": "https://apps.apple.com/us/app/quill-news-digest/id1669557131?ref=theresanaiforthat",
+   "oneliner": "Apple news summaries app.",
+   "category": "News",
+   "shortdescription": "Based on the given text, Quill - News Digest is an app available on the Apple App Store that allows ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/quill-news-digest.png?height=207"
+ },
+ {
+   "name": "Sophoz",
+   "link": "https://sophoz.app/?ref=theresanaiforthat",
+   "oneliner": "Simplified news summary generation.",
+   "category": "News summaries",
+   "shortdescription": "Sophoz is an online news tool that provides detailed and structured summaries of news articles using...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/sophoz.png?height=207"
+ },
+ {
+   "name": "Clarity.gs",
+   "link": "https://clarity.rahul.gs/?ref=theresanaiforthat",
+   "oneliner": "Comprehend complex topics with layered reading.",
+   "category": "Article summaries",
+   "shortdescription": "Clarity is an AI-powered application designed for layered and depth-first reading that uses summarie...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/clarity-gs.png?height=207"
+ },
+ {
+   "name": "Review Hero",
+   "link": "https://chrome.google.com/webstore/detail/review-hero-amazon-produc/oolcapmkeabkpnebkpdmdkfhokbjmien?ref=theresanaiforthat",
+   "oneliner": "Summarizes Amazon reviews for informed choices.",
+   "category": "Amazon review summaries",
+   "shortdescription": "Review Hero is an AI-powered Chrome extension that summarizes Amazon product reviews using ChatGPT. ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/review-hero.png?height=207"
+ },
+ {
+   "name": "GAJIX",
+   "link": "https://gajix.com/?via=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Summaries & Questions for Any Subject or Webpage.",
+   "category": "Learning",
+   "shortdescription": "GAJIX is an AI learning assistant tool that provides users with instant access to a wealth of inform...",
+   "price": "From $7.99",
+   "imageurl": "https://media.theresanaiforthat.com/gajix.png?height=207"
+ },
+ {
+   "name": "Tammy",
+   "link": "https://tammy.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizing YouTube videos.",
+   "category": "YouTube summaries",
+   "shortdescription": "Tammy AI is a tool that uses artificial intelligence to produce summaries of YouTube videos. With Ta...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tammy.png?height=207"
+ },
+ {
+   "name": "Summarizely",
+   "link": "https://www.summarizely.org/?ref=theresanaiforthat",
+   "oneliner": "Keeps teams updated on GitHub activities.",
+   "category": "GitHub summaries",
+   "shortdescription": "Summarizely is an AI tool designed to help teams stay updated on their teammates' GitHub activities....",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarizely.png?height=207"
+ },
+ {
+   "name": "Article Summary",
+   "link": "https://article-summary.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Summarizes multilingual articles, saves time.",
+   "category": "Article summaries",
+   "shortdescription": "Article Summary is a web-based AI tool designed to help users generate concise and quick summaries o...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/article-summary.png?height=207"
+ },
+ {
+   "name": "Chatgpt4shop",
+   "link": "https://chatgpt4shop.com/?ref=theresanaiforthat",
+   "oneliner": "Summarize feedback from e-commerce reviews.",
+   "category": "Customer review summaries",
+   "shortdescription": "ChatGPT for Shop is a browser extension that utilizes the capabilities of the language model ChatGPT...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/chatgpt4shop.png?height=207"
+ },
+ {
+   "name": "Summarise Me",
+   "link": "https://summarise-me.herokuapp.com/?ref=theresanaiforthat",
+   "oneliner": "Summarize web & PDF content succinctly.",
+   "category": "Summaries",
+   "shortdescription": "Summarise Me is a web and PDF summarization tool that utilizes GPT-3.5-turbo technology to produce s...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/summarise-me.png?height=207"
+ },
+ {
+   "name": "SummaryGPT",
+   "link": "https://t.me/summarygptenbot?ref=theresanaiforthat",
+   "oneliner": "Streamlined summary for efficient workflows.",
+   "category": "Summaries",
+   "shortdescription": "SummaryGPT EN is a Telegram chatbot designed to help users summarize key points of various types of ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarygpt.png?height=207"
+ },
+ {
+   "name": "AI Reads",
+   "link": "https://www.aireads.co/?ref=theresanaiforthat",
+   "oneliner": "Summarizes and vocalizes news.",
+   "category": "News summaries",
+   "shortdescription": "AIReads is an AI-powered news summarization and vocalization tool that provides users with quick and...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ai-reads.png?height=207"
+ },
+ {
+   "name": "Legalyze",
+   "link": "https://www.legalyze.ai/?ref=theresanaiforthat",
+   "oneliner": "Enhanced legal data analysis.",
+   "category": "Legal summaries",
+   "shortdescription": "Legalyze is an AI tool designed for law firms to improve their data analysis capabilities. It utiliz...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/legalyze.png?height=207"
+ },
+ {
+   "name": "Distillr",
+   "link": "https://distillr.app/?ref=theresanaiforthat",
+   "oneliner": "Distillr summarizes articles for quick overviews.",
+   "category": "Article summaries",
+   "shortdescription": "Distillr is an AI-powered tool that leverages the power of ChatGPT to generate concise article summa...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/distillr.png?height=207"
+ },
+ {
+   "name": "Podcast Disclosed",
+   "link": "https://podcastdisclosed.com/?ref=theresanaiforthat",
+   "oneliner": "Topic summaries for top podcasts.",
+   "category": "Podcast summaries",
+   "shortdescription": "Podcast Disclosed is a tool that provides summaries and notes of some of the world's top podcasts. U...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/podcast-disclosed.png?height=207"
+ },
+ {
+   "name": "Summarizethis",
+   "link": "https://summarizethis.io/?ref=theresanaiforthat",
+   "oneliner": "Content summarized quickly.",
+   "category": "Summaries",
+   "shortdescription": "Summarize This is an AI-powered tool that helps users summarize various types of content such as tex...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/summarizethis.png?height=207"
+ },
+ {
+   "name": "Audionotes",
+   "link": "https://audionotes.app/?ref=theresanaiforthat",
+   "oneliner": "Voice notes transcribed and summarized automatically.",
+   "category": "Voice notes summaries",
+   "shortdescription": "AudioNotes is an AI-powered tool designed for users who are looking for an effortless way to take vo...",
+   "price": "From $5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/audionotes.png?height=207"
+ },
+ {
+   "name": "Clarifyze",
+   "link": "https://clarifyze.ai/?ref=theresanaiforthat",
+   "oneliner": "App condenses text to combat info overload.",
+   "category": "Summaries",
+   "shortdescription": "Clarifyze.AI is a mobile AI text summarizer designed to help users make sense of information overloa...",
+   "price": "Free + from $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/clarifyze.png?height=207"
+ },
+ {
+   "name": "Tactiq",
+   "link": "https://tactiq.io/?ref=theresanaiforthat",
+   "oneliner": "Summarizing notes during remote meetings.",
+   "category": "Meeting summaries",
+   "shortdescription": "Tactiq is a Chrome extension that provides real-time transcription for Google Meet, Zoom, and MS Tea...",
+   "price": "From $8/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tactiq.png?height=207"
+ },
+ {
+   "name": "Briefly AI",
+   "link": "https://www.brieflyai.com/?ref=theresanaiforthat",
+   "oneliner": "Stay productive in meetings.",
+   "category": "Meeting summaries",
+   "shortdescription": "BrieflyAI is an AI tool that employs natural language processing to capture meeting notes, transcrip...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/briefly-ai.png?height=207"
+ },
+ {
+   "name": "Posylanki",
+   "link": "https://www.posylanki.live/?ref=theresanaiforthat",
+   "oneliner": "Manage web content, auto previews and concise summaries.",
+   "category": "Link management",
+   "shortdescription": "Posylanki is an artificial intelligence (AI) tool designed to help users manage their web content by...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/posylanki.png?height=207"
+ },
+ {
+   "name": "Inbox Narrator",
+   "link": "https://inboxnarrator.com/?ref=theresanaiforthat",
+   "oneliner": "Voice assistant email summaries delivered.",
+   "category": "Email summaries",
+   "shortdescription": "Inbox Narrator is an AI-powered email summarization tool that delivers daily summaries of new emails...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/inbox-narrator.png?height=207"
+ },
+ {
+   "name": "Podsift",
+   "link": "https://www.podsift.com/?ref=theresanaiforthat",
+   "oneliner": "Summarized podcast episodes for busy listeners.",
+   "category": "Podcast summaries",
+   "shortdescription": "Podsift is a tool that generates AI-generated summaries of podcast episodes. Users can sign up for f...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/podsift.png?height=207"
+ },
+ {
+   "name": "VidCatter",
+   "link": "https://vidcatter.io/?ref=theresanaiforthat",
+   "oneliner": "Media summaries via NLP & human input.",
+   "category": "Video summaries",
+   "shortdescription": "VidCatter IO is an AI-powered tool that creates original, easy-to-read bullet-point summaries of vid...",
+   "price": "From $3.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/vidcatter.png?height=207"
+ },
+ {
+   "name": "SlideNotes",
+   "link": "https://www.slidenotes.dev/?ref=theresanaiforthat",
+   "oneliner": "Converts slides to notes.",
+   "category": "Presentation summaries",
+   "shortdescription": "SlideNotes is a tool designed to automatically convert slide presentations into written notes. By si...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/slidenotes.png?height=207"
+ },
+ {
+   "name": "GistVid",
+   "link": "https://gistvid.com/?ref=theresanaiforthat",
+   "oneliner": "Quickly summarizes video content for easy learning.",
+   "category": "Video summaries",
+   "shortdescription": "GistVid is a browser extension that extracts the most important information from video content, incl...",
+   "price": "From $6.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/gistvid.png?height=207"
+ },
+ {
+   "name": "Dirtgpt",
+   "link": "https://www.dirtgpt.com/?ref=theresanaiforthat",
+   "oneliner": "Shared fun media entertainment platform.",
+   "category": "News summaries",
+   "shortdescription": "DirtGPT is a web-based application that provides users with the ability to browse a collection of AI...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/dirtgpt.png?height=207"
+ },
+ {
+   "name": "IntentSeek",
+   "link": "https://chrome.google.com/webstore/detail/intentseek/pcdpkmfbionbpgacjngfpeflcoajhbbo?ref=theresanaiforthat",
+   "oneliner": "Advanced text interaction for better browsing.",
+   "category": "Summaries",
+   "shortdescription": "IntentSeek is a Chrome extension designed to enhance the browsing experience of users by allowing th...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/intentseek.png?height=207"
+ },
+ {
+   "name": "Rows AI",
+   "link": "https://rows.com/ai?ref=theresanaiforthat",
+   "oneliner": "Automated spreadsheet analysis and summaries.",
+   "category": "Data analysis",
+   "shortdescription": "Rows AI is an all-in-one spreadsheet tool that aims to provide users with a powerful AI tool to anal...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/rows-ai.png?height=207"
+ },
+ {
+   "name": "Scribbler.so",
+   "link": "https://app.scribbler.so/?ref=theresanaiforthat",
+   "oneliner": "Summarize and listen to podcasts quickly.",
+   "category": "Podcast summaries",
+   "shortdescription": "Scribbler is an AI-powered tool that allows users to speed run their favorite podcasts. The tool off...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/scribbler-so.png?height=207"
+ },
+ {
+   "name": "AI Text Assistant",
+   "link": "http://ai-text-assistant.com/?ref=theresanaiforthat",
+   "oneliner": "Text summarization for productivity improvement.",
+   "category": "Summaries",
+   "shortdescription": "AI Text Assistant is an AI-powered tool that provides users with advanced text analysis and summariz...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ai-text-assistant.png?height=207"
+ },
+ {
+   "name": "YTSummary",
+   "link": "https://ytsummary.app/?ref=theresanaiforthat",
+   "oneliner": "Auto-generates YouTube video summaries.",
+   "category": "YouTube summaries",
+   "shortdescription": "YTSummary is an AI-powered tool designed to generate summaries of YouTube videos automatically. It s...",
+   "price": "Free + from $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/ytsummary.png?height=207"
+ },
+ {
+   "name": "Document Summarizer",
+   "link": "https://apps.apple.com/us/app/document-summarizer-ai/id6447693608?ref=theresanaiforthat",
+   "oneliner": "Summarizes large docs for efficient info retrieval.",
+   "category": "Summaries",
+   "shortdescription": "Document Summarizer AI is an iOS application available on the App Store that uses artificial intelli...",
+   "price": "Free + from $6.99/week",
+   "imageurl": "https://media.theresanaiforthat.com/document-summarizer.png?height=207"
+ },
+ {
+   "name": "Nuse",
+   "link": "https://nuse.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizes news, customizes breaking news alerts.",
+   "category": "News summaries",
+   "shortdescription": "Based on the given text, Nuse News is an AI tool designed to help users stay informed without being ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/nuse.png?height=207"
+ },
+ {
+   "name": "Techpresso",
+   "link": "https://www.dupple.com/techpresso?ref=theresanaiforthat",
+   "oneliner": "Tech news summary service.",
+   "category": "News summaries",
+   "shortdescription": "Techpresso is a daily newsletter service that summarises news from over 50 tech-related media source...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/techpresso.png?height=207"
+ },
+ {
+   "name": "Recast",
+   "link": "https://www.letsrecast.ai/?ref=theresanaiforthat",
+   "oneliner": "Listen to conversational article summaries.",
+   "category": "Audio summaries",
+   "shortdescription": "Recast is an AI-based tool that allows users to turn articles they want to read into audio summaries...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/recast.png?height=207"
+ },
+ {
+   "name": "Skipit",
+   "link": "https://skipit.ai/?ref=theresanaiforthat",
+   "oneliner": "Improved content productivity via summarization.",
+   "category": "Summaries",
+   "shortdescription": "Skipit.ai is an AI tool that helps users save time by summarizing content from various sources such ...",
+   "price": "Free + from $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/skipit.png?height=207"
+ },
+ {
+   "name": "EV Intersection",
+   "link": "https://evintersection.com/?ref=theresanaiforthat",
+   "oneliner": "Compare and select electric vehicles.",
+   "category": "EV car summaries",
+   "shortdescription": "EV Intersection is a website that offers an AI-powered tool to help you find the perfect electric ve...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ev-intersection.png?height=207"
+ },
+ {
+   "name": "Dropbox AI",
+   "link": "https://blog.dropbox.com/topics/product/introducing-AI-powered-tools?ref=theresanaiforthat",
+   "oneliner": "Search many platforms fast w/ universal search bar.",
+   "category": "Summaries",
+   "shortdescription": "Dropbox Dash is an AI-powered universal search tool that connects all of your tools, content, and ap...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/dropbox-ai.png?height=207"
+ },
+ {
+   "name": "Swyft",
+   "link": "https://www.swyftai.com/?ref=theresanaiforthat",
+   "oneliner": "Automated updates of CRM for Sales.",
+   "category": "Call summaries",
+   "shortdescription": "Swyft AI is an automated tool for updating CRM fields, specifically designed for Sales teams. The to...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/swyft.png?height=207"
+ },
+ {
+   "name": "SumUp",
+   "link": "https://sumup.page/?ref=theresanaiforthat",
+   "oneliner": "Summarizing and answering web articles.",
+   "category": "Summaries",
+   "shortdescription": "SumUp is an AI-powered tool that assists in summarizing web articles. It automatically generates sum...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/sumup.png?height=207"
+ },
+ {
+   "name": "Philoquent",
+   "link": "https://philoquent.ai/?ref=theresanaiforthat",
+   "oneliner": "Analyzed text enhances language proficiency.",
+   "category": "Summaries",
+   "shortdescription": "Based on the given text, Philoquent.ai is a tool that aims to enhance the fluency in the usage of wo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/philoquent.png?height=207"
+ },
+ {
+   "name": "Noota",
+   "link": "https://www.noota.io/?ref=theresanaiforthat",
+   "oneliner": "Boosted note-taking and meeting productivity.",
+   "category": "Summaries",
+   "shortdescription": "Noota is an AI-powered meeting assistant tool that offers automated note-taking and generates custom...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/noota.png?height=207"
+ },
+ {
+   "name": "Seonewshub",
+   "link": "https://seonewshub.com/?ref=theresanaiforthat",
+   "oneliner": "Multilingual hourly updates of aggregated SEO news.",
+   "category": "SEO news summaries",
+   "shortdescription": "SEO News Hub is a comprehensive online resource that provides updated and relevant news articles on ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/seonewshub.png?height=207"
+ },
+ {
+   "name": "SummarAI",
+   "link": "https://apps.apple.com/at/app/summarai-intelligent-briefs/id6449359502?ref=theresanaiforthat",
+   "oneliner": "Summarization not possible w/o info.",
+   "category": "Summaries",
+   "shortdescription": "Unfortunately, the text provided does not contain enough information to accurately describe the func...",
+   "price": "Free + from $4",
+   "imageurl": "https://media.theresanaiforthat.com/summarai.png?height=207"
+ },
+ {
+   "name": "Bullet Points",
+   "link": "https://bulletpoints.news/?ref=theresanaiforthat",
+   "oneliner": "Generated concise news briefs.",
+   "category": "News summaries",
+   "shortdescription": "Bullet Points is an AI-powered tool that generates concise and informative news briefs on various to...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/bullet-points.png?height=207"
+ },
+ {
+   "name": "Ambient Twine",
+   "link": "https://ambient.twine.us/login?ref=theresanaiforthat",
+   "oneliner": "Meeting Summary",
+   "category": "Meeting summaries",
+   "shortdescription": "twine is an AI-powered tool that provides summarized feeds of information from various sources such ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ambient-twine.png?height=207"
+ },
+ {
+   "name": "Clipnote",
+   "link": "https://clipnote.ai/?ref=theresanaiforthat",
+   "oneliner": "YouTube video summarization solution: Summarizes videos.",
+   "category": "YouTube summaries",
+   "shortdescription": "clipnote.ai is a tool that allows users to summarize YouTube videos quickly and efficiently. By usin...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/clipnote.png?height=207"
+ },
+ {
+   "name": "Airbnb Review Summarizer",
+   "link": "https://airbnbreviewsummarizer.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Airbnb review summarization.",
+   "category": "AirBnB review summaries",
+   "shortdescription": "The Airbnb Review Summarizer is a browser extension that aims to simplify and personalize the proces...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/airbnb-review-summarizer.png?height=207"
+ },
+ {
+   "name": "pdf2gpt",
+   "link": "https://pdf2gpt.com/?ref=theresanaiforthat",
+   "oneliner": "Easy summarization of large PDFs.",
+   "category": "Summaries",
+   "shortdescription": "pdf2gpt is an AI tool designed to automatically summarize large PDF documents using the Generative P...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/pdf2gpt.png?height=207"
+ },
+ {
+   "name": "Summarify",
+   "link": "https://summarify.app/?ref=theresanaiforthat",
+   "oneliner": "Summarize YouTube videos, find key moments.",
+   "category": "YouTube summaries",
+   "shortdescription": "Summarify AI for YouTube is an iOS app that utilizes advanced AI technology, specifically ChatGPT an...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarify.png?height=207"
+ },
+ {
+   "name": "TLDR AI",
+   "link": "https://apps.apple.com/us/app/tldr-ai/id6449050657?ref=theresanaiforthat",
+   "oneliner": "Summarizes articles and provides quick insights.",
+   "category": "Article summaries",
+   "shortdescription": "TLDR AI is an application available on the App Store for iPhone, iPad, and iPod touch. The app allow...",
+   "price": "$7.99 ",
+   "imageurl": "https://media.theresanaiforthat.com/tldr-ai.png?height=207"
+ },
+ {
+   "name": "Traw",
+   "link": "https://traw.ai/home?ref=theresanaiforthat",
+   "oneliner": "Summarize YouTube videos for business professionals.",
+   "category": "YouTube summaries",
+   "shortdescription": "Traw's YouTube Summary AI for Businesses is a tool that enables users to summarize YouTube videos qu...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/traw.png?height=207"
+ },
+ {
+   "name": "Gist AI",
+   "link": "https://chrome.google.com/webstore/detail/gist-ai/elmpkhkdonhdbkeaigkblbgckcihahoc?ref=theresanaiforthat",
+   "oneliner": "Time-saving article summarization for comprehension.",
+   "category": "Summaries",
+   "shortdescription": "Gist AI is a Chrome extension that uses ChatGPT, an AI-powered article summarizer, to extract key po...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/gist-ai.png?height=207"
+ },
+ {
+   "name": "SpeakNotes",
+   "link": "https://speaknotes.io/?ref=theresanaiforthat",
+   "oneliner": "Converts voice notes to summarized text efficiently.",
+   "category": "Voice notes summaries",
+   "shortdescription": "SpeakNotes is an AI-powered tool that efficiently transcribes and summarizes voice notes. It utilize...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/speaknotes.png?height=207"
+ },
+ {
+   "name": "Legalysis",
+   "link": "https://legalysis.co/?ref=theresanaiforthat",
+   "oneliner": "Summary generation for legal documents.",
+   "category": "Legal documents summaries",
+   "shortdescription": "Legalysis is an advanced legal document analysis tool that utilizes AI and LLM (Legal Language Model...",
+   "price": "Free + from $10",
+   "imageurl": "https://media.theresanaiforthat.com/legalysis.png?height=207"
+ },
+ {
+   "name": "Summarized.video",
+   "link": "https://chrome.google.com/webstore/detail/summarizedvideo-youtube-c/leddogaaaojffcifmnbdcmfoiamlkjnh?ref=theresanaiforthat",
+   "oneliner": "YouTube video summarization for chapters.",
+   "category": "YouTube summaries",
+   "shortdescription": "Summarized YouTube Chapters is a Chrome extension that utilizes artificial intelligence to summarize...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarized-video.png?height=207"
+ },
+ {
+   "name": "CalqTalk",
+   "link": "https://calqtalkplus.studio.site/?ref=theresanaiforthat",
+   "oneliner": "Meeting management & document retrieval enhanced.",
+   "category": "Meeting summaries",
+   "shortdescription": "CalqWorks is a tool that aims to revolutionize the way we work, providing a more comfortable and eff...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/calqtalk.png?height=207"
+ },
+ {
+   "name": "TLDWAI",
+   "link": "https://tldwai.com/?ref=theresanaiforthat",
+   "oneliner": "Video summarization for efficient info consumption.",
+   "category": "Video summaries",
+   "shortdescription": "TL;DW AI, also known as Too Long; Didn't Watch AI, is an AI tool that helps users summarize any vide...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tldwai.png?height=207"
+ },
+ {
+   "name": "Yournews",
+   "link": "https://yournews.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized news summarizing and aggregation",
+   "category": "News summaries",
+   "shortdescription": "yournews.ai is an AI-powered tool that provides a summary of the latest news from around the world. ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/yournews.png?height=207"
+ },
+ {
+   "name": "NewsAI.me",
+   "link": "https://www.newsai.me/?ref=theresanaiforthat",
+   "oneliner": "Customized news summaries",
+   "category": "News summaries",
+   "shortdescription": "NewsAI is an AI-powered tool that provides personalized news summaries to help users stay informed a...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/newsai-me.png?height=207"
+ },
+ {
+   "name": "Loopin",
+   "link": "https://www.loopinhq.com/?ref=theresanaiforthat",
+   "oneliner": "Boosting productivity in customer-facing team meetings.",
+   "category": "Meeting summaries",
+   "shortdescription": "Loopin HQ is an AI meeting assistant tool designed to streamline and enhance the productivity of mee...",
+   "price": "Free + from $6/mo",
+   "imageurl": "https://media.theresanaiforthat.com/loopin.png?height=207"
+ },
+ {
+   "name": "wuko.ai",
+   "link": "https://wuko.ai/?ref=theresanaiforthat",
+   "oneliner": "Email you insights",
+   "category": "Article summaries",
+   "shortdescription": "Hi, I am Kata, the creator of wuko.ai\nI was driven to create wuko.ai to address the following probl...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/wuko-ai.png?height=207"
+ },
+ {
+   "name": "Alium",
+   "link": "https://thealium.com/?ref=theresanaiforthat",
+   "oneliner": "Generate entertaining satirical news.",
+   "category": "News summaries",
+   "shortdescription": "The Alium is an AI-generated satirical news platform that provides humorous and entertaining content...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/alium.png?height=207"
+ },
+ {
+   "name": "BriefAI",
+   "link": "https://briefai.netlify.app/?ref=theresanaiforthat",
+   "oneliner": "Efficient article summarization achieved",
+   "category": "Article summaries",
+   "shortdescription": "Brief.Ai is an open-source article summarizer tool that aims to simplify reading by transforming len...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/briefai.png?height=207"
+ },
+ {
+   "name": "StoryWiz",
+   "link": "https://www.storywiz.io/?ref=theresanaiforthat",
+   "oneliner": "Improved online reading with engaging visual stories.",
+   "category": "Summaries",
+   "shortdescription": "Storywiz is an AI reading assistant powered by GPT-4. Its main purpose is to help users absorb key t...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/storywiz.png?height=207"
+ },
+ {
+   "name": "Gordon Post",
+   "link": "https://thegordonpost.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizes news and extracts key info.",
+   "category": "News summaries",
+   "shortdescription": "Gordon Post is an AI-powered tool that provides summarized news articles. It extracts key informatio...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/gordon-post.png?height=207"
+ },
+ {
+   "name": "Unsummary",
+   "link": "https://unsummary.com/?ref=theresanaiforthat",
+   "oneliner": "Summarize content, save time for writers and marketers.",
+   "category": "Summaries",
+   "shortdescription": "Unsummary is a web application that utilizes AI technology to generate summaries of various types of...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/unsummary.png?height=207"
+ },
+ {
+   "name": "VaultGPT",
+   "link": "https://vaultai.cmail20.com/t/y-e-pddpud-iupaykuh-p?ref=theresanaiforthat",
+   "oneliner": "Content analysis & summarization with security.",
+   "category": "Summaries",
+   "shortdescription": "Vault GPT is an AI-powered tool designed to assist users in various content-related workflows such a...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/vaultgpt.png?height=207"
+ },
+ {
+   "name": "Papertalk",
+   "link": "https://papertalk.io/?ref=theresanaiforthat",
+   "oneliner": "Condensed research papers with explanations",
+   "category": "Research papers summaries",
+   "shortdescription": "PaperTalk.io is an AI-driven platform designed to enhance research paper understanding. By utilizing...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/papertalk.png?height=207"
+ },
+ {
+   "name": "tl;dr AI Summarizer",
+   "link": "https://gettldr.app/?ref=theresanaiforthat",
+   "oneliner": "Efficiently summarizes articles for quick understanding.",
+   "category": "Article summaries",
+   "shortdescription": "tl;dr AI is an AI-powered tool that offers instant article summarization, allowing users to quickly ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tl-dr-ai-summarizer.png?height=207"
+ },
+ {
+   "name": "Goodmeetings",
+   "link": "https://goodmeetings.ai/?ref=theresanaiforthat",
+   "oneliner": "Automated meeting insights for sales teams.",
+   "category": "Meeting summaries",
+   "shortdescription": "Goodmeetings is an AI-powered Meeting Insights and Automation Platform designed for high-performance...",
+   "price": "From $50/mo",
+   "imageurl": "https://media.theresanaiforthat.com/goodmeetings.png?height=207"
+ },
+ {
+   "name": "MediaFlows",
+   "link": "https://www.home.mediaflows.cloudinary.com/ai-video-summarization?ref=theresanaiforthat",
+   "oneliner": "Video summarization for enhanced engagement.",
+   "category": "Video summaries",
+   "shortdescription": "Cloudinary is an AI-powered tool that helps users summarize videos automatically. By leveraging AI t...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/mediaflows.png?height=207"
+ },
+ {
+   "name": "SummarQ",
+   "link": "https://summarq.com/?ref=theresanaiforthat",
+   "oneliner": "Content summarization & Q&A for multiple formats.",
+   "category": "Video summaries",
+   "shortdescription": "SummarQ is an AI-powered tool that offers efficient time-saving features for video and text content....",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarq.png?height=207"
+ },
+ {
+   "name": "Rizemail",
+   "link": "https://www.rizemail.app/?ref=theresanaiforthat",
+   "oneliner": "Efficient email summarization service",
+   "category": "Email summaries",
+   "shortdescription": "Rizemail is a free email summarization service that utilizes artificial intelligence (AI) to summari...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/rizemail.png?height=207"
+ },
+ {
+   "name": "ChatGPT Summarizer",
+   "link": "https://chrome.google.com/webstore/detail/youtube-summary-with-chat/ghdjjmnkpgminongdkinjdcccmncijog?ref=theresanaiforthat",
+   "oneliner": "Summarizes YouTube videos for quick understanding.",
+   "category": "YouTube summaries",
+   "shortdescription": "The YouTube Summary with ChatGPT Chrome extension allows users to access video summaries while brows...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/chatgpt-summarizer.png?height=207"
+ },
+ {
+   "name": "YoutubeDigest",
+   "link": "https://www.youtubedigest.app/?ref=theresanaiforthat",
+   "oneliner": "YouTube video summarization & customization",
+   "category": "YouTube summaries",
+   "shortdescription": "YouTubeDigest is a browser extension that utilizes the ChatGPT AI to condense and summarize YouTube ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/youtubedigest.png?height=207"
+ },
+ {
+   "name": "Cortados",
+   "link": "https://www.cortados.co/?ref=theresanaiforthat",
+   "oneliner": "Summarize YouTube videos efficiently.",
+   "category": "YouTube summaries",
+   "shortdescription": "Cortados is a tool designed to provide users with insightful and concise summaries of YouTube videos...",
+   "price": "From €5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/cortados.png?height=207"
+ },
+ {
+   "name": "ClarityClips",
+   "link": "https://www.clarityclips.com/?ref=theresanaiforthat",
+   "oneliner": "YouTube video summarization made efficient.",
+   "category": "YouTube summaries",
+   "shortdescription": "ClarityClips is a web-based tool that offers users the ability to efficiently summarize YouTube vide...",
+   "price": "Free + from $15",
+   "imageurl": "https://media.theresanaiforthat.com/clarityclips.png?height=207"
+ },
+ {
+   "name": "SummifyYT",
+   "link": "https://chrome.google.com/webstore/detail/summifyyt-summarize-youtu/mcjgidambippeaajehcfimmephgholco?ref=theresanaiforthat",
+   "oneliner": "YouTube comment summaries",
+   "category": "YouTube comments summaries",
+   "shortdescription": "SummifyYT is a browser extension designed to summarize comments on YouTube videos. It offers a conve...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summifyyt.png?height=207"
+ },
+ {
+   "name": "PodcastGPT",
+   "link": "https://www.podcastgpt.ai/?ref=theresanaiforthat",
+   "oneliner": "Customized podcast suggestions and curation.",
+   "category": "Podcast summaries",
+   "shortdescription": "PodcastGPT is an AI-powered podcast agent that seamlessly integrates with existing podcast apps. Its...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/podcastgpt.png?height=207"
+ },
+ {
+   "name": "NoteMonkey",
+   "link": "https://www.notemonkey.ai/?ref=theresanaiforthat",
+   "oneliner": "Organized thoughts and ideas for solo entrepreneurs.",
+   "category": "Voice to text summaries",
+   "shortdescription": "NoteMonkey is an AI tool designed to assist solo entrepreneurs in capturing and organizing their tho...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/notemonkey.png?height=207"
+ },
+ {
+   "name": "AudioBites",
+   "link": "https://audiobitesai.com/?ref=theresanaiforthat",
+   "oneliner": "Customized audio news digested for ease.",
+   "category": "Audio news summaries",
+   "shortdescription": "AudioBites is an AI-powered audio news source that provides personalized audio content based on user...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/audiobites.png?height=207"
+ },
+ {
+   "name": "SummariseGPT",
+   "link": "https://chrome.google.com/webstore/detail/summarisegpt/jchedekddaaggcimdcnkiefahinlingc?ref=theresanaiforthat",
+   "oneliner": "Efficient browsing with page summaries and insights.",
+   "category": "Summaries",
+   "shortdescription": "SummariseGPT is a Chrome extension developed by Shadowfax Apps that aims to save users time and keep...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/summarisegpt.png?height=207"
+ },
+ {
+   "name": "Podchat",
+   "link": "https://www.podchat.io/?ref=theresanaiforthat",
+   "oneliner": "Podchat: podcast search with summaries and Q&A.",
+   "category": "Podcast summaries",
+   "shortdescription": "Podchat is an AI-powered tool that allows users to easily search and access podcast content. With Po...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/podchat.png?height=207"
+ },
+ {
+   "name": "Podpulse",
+   "link": "https://podpulse.ai/?ref=theresanaiforthat",
+   "oneliner": "PodPulse summarizes podcasts for efficient consumption.",
+   "category": "Podcast summaries",
+   "shortdescription": "PodPulse is an AI-powered tool that transforms podcasts into concise and captivating summaries, allo...",
+   "price": "From $8/mo",
+   "imageurl": "https://media.theresanaiforthat.com/podpulse.png?height=207"
+ },
+ {
+   "name": "Chapterize",
+   "link": "https://www.chapterize.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarized content and organized knowledge efficiently.",
+   "category": "Summaries",
+   "shortdescription": "Chapterize.ai is an AI-powered tool designed to help users keep up with the influx of information by...",
+   "price": "$19 ",
+   "imageurl": "https://media.theresanaiforthat.com/chapterize.png?height=207"
+ },
+ {
+   "name": "Paragrapho",
+   "link": "https://paragrapho.news/?ref=theresanaiforthat",
+   "oneliner": "News aggregation and summarization.",
+   "category": "News summaries",
+   "shortdescription": "Paragrapho is a convenient app designed to keep users informed and up-to-date by aggregating news ar...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/paragrapho.png?height=207"
+ },
+ {
+   "name": "Too Long",
+   "link": "https://toolongapp.com/?ref=theresanaiforthat",
+   "oneliner": "Extracting info via article summarization.",
+   "category": "Article summaries",
+   "shortdescription": "Too Long is a Chrome Extension that utilizes AI technology to summarize articles quickly and efficie...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/too-long.png?height=207"
+ },
+ {
+   "name": "Abstrafeed",
+   "link": "https://www.abstrafeed.com/?ref=theresanaiforthat",
+   "oneliner": "Efficient newsletter navigation and relevant content ID.",
+   "category": "Newsletter summaries",
+   "shortdescription": "Abstrafeed is an AI tool designed to help users efficiently navigate their newsletters and identify ...",
+   "price": "$5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/abstrafeed.png?height=207"
+ },
+ {
+   "name": "Gem: Tech & Finance News",
+   "link": "https://apps.apple.com/us/app/gem-tech-finance-news/id6449680446?ref=theresanaiforthat",
+   "oneliner": "Aggregates and delivers tech and finance news.",
+   "category": "Tech/Finance news summaries",
+   "shortdescription": "Gem: Tech & Finance News is an app available on the App Store that provides users with access to the...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/gem-tech-finance-news.png?height=207"
+ },
+ {
+   "name": "Tinyquiz",
+   "link": "https://tinyquiz.co/tools/article-summarizer?ref=theresanaiforthat",
+   "oneliner": "Summarizes articles & generates quizzes efficiently.",
+   "category": "Article summaries",
+   "shortdescription": "TinyQuiz offers a free Article Summarizer tool that enhances reading efficiency and comprehension by...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/tinyquiz.png?height=207"
+ },
+ {
+   "name": "TLDRAI",
+   "link": "https://tldrai.com/?ref=theresanaiforthat",
+   "oneliner": "Efficiently summarize text for busy people.",
+   "category": "Summaries",
+   "shortdescription": "TL;DR AI is a tool that enables users to summarize any text using artificial intelligence. It helps ...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tldrai.png?height=207"
+ },
+ {
+   "name": "Lunally",
+   "link": "https://www.lunally.ai/?ref=theresanaiforthat",
+   "oneliner": "Enhances web with answers & summaries.",
+   "category": "ChatGPT for browsers",
+   "shortdescription": "Lunally is a Chrome Extension that functions as a personal browsing companion, enhancing user experi...",
+   "price": "From $9/mo",
+   "imageurl": "https://media.theresanaiforthat.com/lunally.png?height=207"
+ },
+ {
+   "name": "Endorsed",
+   "link": "https://endorsed.ai/?ref=theresanaiforthat",
+   "oneliner": "Review AI-written summaries instead of resumes",
+   "category": "Resume analysis",
+   "shortdescription": "The AI Job Application Screener is a tool designed to facilitate the screening process for job appli...",
+   "price": "From $200/mo",
+   "imageurl": "https://media.theresanaiforthat.com/endorsed.png?height=207"
+ },
+ {
+   "name": "Unfated",
+   "link": "https://unfated.ai/?ref=theresanaiforthat",
+   "oneliner": "News summarized and aggregated efficiently.",
+   "category": "News summaries",
+   "shortdescription": "Based on the provided text, it is difficult to determine the exact functionality of the tool. The te...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/unfated.png?height=207"
+ },
+ {
+   "name": "VideoSage",
+   "link": "https://www.videosage.ai/?ref=theresanaiforthat",
+   "oneliner": "Improved video viewing with interactive conversations.",
+   "category": "Video summaries",
+   "shortdescription": "VideoSage is an AI-powered tool designed to enhance the experience of watching long videos. It offer...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/videosage.png?height=207"
+ },
+ {
+   "name": "StructAI",
+   "link": "https://www.struct.ai/?ref=theresanaiforthat",
+   "oneliner": "Improved teamwork and knowledge exchange via chat.",
+   "category": "Conversation summaries",
+   "shortdescription": "Struct Chat Platform is a knowledge-rich chat platform that enhances team communication and collabor...",
+   "price": "Free + from $37/mo",
+   "imageurl": "https://media.theresanaiforthat.com/structai.png?height=207"
+ },
+ {
+   "name": "Spacebar",
+   "link": "https://spacebar.fm/explore/TLDL/intro?ref=theresanaiforthat",
+   "oneliner": "Meeting notes summarized for collaboration",
+   "category": "Conversation summaries",
+   "shortdescription": "TLDL (Too Long Didn't Listen) is an AI tool that transforms spoken conversations into tangible insig...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/spacebar.png?height=207"
+ },
+ {
+   "name": "Vocol",
+   "link": "https://www.vocol.ai/?ref=theresanaiforthat",
+   "oneliner": "Meeting transcription for team communication.",
+   "category": "Meeting summaries",
+   "shortdescription": "Vocol.AI is a one-stop meeting collaboration software designed to supercharge your work efficiency b...",
+   "price": "From $16",
+   "imageurl": "https://media.theresanaiforthat.com/vocol.png?height=207"
+ },
+ {
+   "name": "HackYourNews",
+   "link": "https://hackyournews.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizes Hacker News stories briefly.",
+   "category": "HackerNews summaries",
+   "shortdescription": "HackYourNews is an AI tool that provides summaries of the top Hacker News stories. It focuses on del...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/hackyournews.png?height=207"
+ },
+ {
+   "name": "SnackzAI",
+   "link": "https://www.snackz.ai/?ref=theresanaiforthat",
+   "oneliner": "Revolutionizes reading with book summaries.",
+   "category": "Book summaries",
+   "shortdescription": "Snackz.ai is a fully AI-powered book summary app that aims to revolutionize the way people read and ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/snackzai.png?height=207"
+ },
+ {
+   "name": "GetSummary.tech",
+   "link": "https://getsummary.tech/?ref=theresanaiforthat",
+   "oneliner": "Summarized email content.",
+   "category": "Email summaries",
+   "shortdescription": "GetSummary.tech is an AI-powered tool that allows users to quickly generate email summaries, elimina...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/getsummary-tech.png?height=207"
+ },
+ {
+   "name": "Backtrack",
+   "link": "https://www.usebacktrack.com/?ref=theresanaiforthat",
+   "oneliner": "Record and recall meetings with audio and screen.",
+   "category": "Meeting summaries",
+   "shortdescription": "Backtrack is a Mac menu bar recorder that allows users to recall and save audio, screen recordings, ...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/backtrack.png?height=207"
+ },
+ {
+   "name": "Goelo",
+   "link": "https://www.goelo.com/?ref=theresanaiforthat",
+   "oneliner": "Meeting transcription and summary generation",
+   "category": "Meeting summaries",
+   "shortdescription": "Goelo Notetaker is an AI-powered tool that enables users to unlock the full value of their video mee...",
+   "price": "Free + from €39/mo",
+   "imageurl": "https://media.theresanaiforthat.com/goelo.png?height=207"
+ },
+ {
+   "name": "Equal Time",
+   "link": "https://equaltime.io/?ref=theresanaiforthat",
+   "oneliner": "Inclusive meetings with transcripts and time monitoring.",
+   "category": "Meeting summaries",
+   "shortdescription": "Equal Time is a virtual meeting assistant tool designed to facilitate effective and inclusive meetin...",
+   "price": "Free + from $20/mo",
+   "imageurl": "https://media.theresanaiforthat.com/equal-time.png?height=207"
+ },
+ {
+   "name": "NoteAI",
+   "link": "https://noteai.com/?ref=theresanaiforthat",
+   "oneliner": "Webpage and search result summarization made efficient.",
+   "category": "Website summaries",
+   "shortdescription": "NoteAI is an AI-powered tool that provides users with the ability to summarize any webpage or search...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/noteai.png?height=207"
+ },
+ {
+   "name": "VoiceSense",
+   "link": "https://storage.googleapis.com/voicesense/index.html?ref=theresanaiforthat",
+   "oneliner": "Summarizes articles into audio for easy consumption.",
+   "category": "Summaries",
+   "shortdescription": "VoiceSense is a web-based application that utilizes cutting-edge Natural Language Processing (NLP) t...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/voicesense.png?height=207"
+ },
+ {
+   "name": "Gem",
+   "link": "https://meetgem.ai/?ref=theresanaiforthat",
+   "oneliner": "News summary generator.",
+   "category": "News summaries",
+   "shortdescription": "Gem is an AI-powered tool developed to summarize top news stories that are of interest to the user. ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/gem.png?height=207"
+ },
+ {
+   "name": "Review Summarizer",
+   "link": "https://review-summarizer.com/?ref=theresanaiforthat",
+   "oneliner": "Product review summaries for purchases.",
+   "category": "Customer review summaries",
+   "shortdescription": "Review Summarizer is a tool that provides users with a concise summary of product reviews written by...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/review-summarizer.png?height=207"
+ },
+ {
+   "name": "MyNewsBuddy",
+   "link": "https://apps.apple.com/us/app/mynewsbuddy/id6446649370?ref=theresanaiforthat",
+   "oneliner": "News summaries per user.",
+   "category": "News",
+   "shortdescription": "MyNewsBuddy is a mobile application available on the App Store for iPhone, iPad, and iPod touch. The...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/mynewsbuddy.png?height=207"
+ },
+ {
+   "name": "Eva Assistant",
+   "link": "https://chrome.google.com/webstore/detail/eva/mjmncbejfhhccaealcggpeojcdbjmngo?ref=theresanaiforthat",
+   "oneliner": "Web browsing assistant and recommendation engine.",
+   "category": "Summaries",
+   "shortdescription": "Eva-AI Copilot Recommendation & Search Engine is a web-based tool that functions as a copilot for br...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/eva-assistant.png?height=207"
+ },
+ {
+   "name": "AlphaInquire",
+   "link": "https://www.alphainquire.com/?ref=theresanaiforthat",
+   "oneliner": "Custom research summaries",
+   "category": "Learning",
+   "shortdescription": "AlphaInquire.com is a personal AI-powered research assistant that helps users gather relevant inform...",
+   "price": "$9.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/alphainquire.png?height=207"
+ },
+ {
+   "name": "30 Second Academy",
+   "link": "https://www.30secondacademy.com/?ref=theresanaiforthat",
+   "oneliner": "Generated book and media summaries",
+   "category": "Book summaries",
+   "shortdescription": "30 Second Academy is an AI-powered tool that provides users with AI-generated summaries of books, po...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/assets/ai-placeholder.png?height=207?height=207"
+ },
+ {
+   "name": "Context Clue",
+   "link": "https://context-clue.com/?ref=theresanaiforthat",
+   "oneliner": "Fast document summarization, ensuring privacy.",
+   "category": "Summaries",
+   "shortdescription": "Context Clue is an AI-powered tool that aims to accelerate document research by summarizing multi-fo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/context-clue.png?height=207"
+ },
+ {
+   "name": "Meeting Summarizer",
+   "link": "https://meetingsummarizer.com/?ref=theresanaiforthat",
+   "oneliner": "Condensed meeting minutes from recorded audio or video.",
+   "category": "Meeting summaries",
+   "shortdescription": "The Meeting Summarizer is a secure tool designed to simplify the process of generating concise meeti...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/meeting-summarizer.png?height=207"
+ },
+ {
+   "name": "TMate",
+   "link": "https://www.tmate.ai/?ref=theresanaiforthat",
+   "oneliner": "Actionable insights from transformed meetings.",
+   "category": "Meeting summaries",
+   "shortdescription": "TMate is an AI tool that transforms meetings into actionable insights. It transcribes and captures k...",
+   "price": "From $19.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tmate.png?height=207"
+ },
+ {
+   "name": "Resoomer",
+   "link": "https://resoomer.com/en/?ref=theresanaiforthat",
+   "oneliner": "Text summarization and analysis for users.",
+   "category": "Summaries",
+   "shortdescription": "Resoomer is an online tool and software that specializes in text summarization and analysis. It allo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/resoomer.png?height=207"
+ },
+ {
+   "name": "Summate.io",
+   "link": "https://www.summate.io/?ref=theresanaiforthat",
+   "oneliner": "Newsletter summarization and management made efficient.",
+   "category": "Newsletter summaries",
+   "shortdescription": "summate.io is an AI tool designed to help users efficiently manage and summarize their newsletter su...",
+   "price": "Free + from $7.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/summate-io.png?height=207"
+ },
+ {
+   "name": "Summify",
+   "link": "https://summify.io/?ref=theresanaiforthat",
+   "oneliner": "YouTube video insight extraction & summarization.",
+   "category": "Video summaries",
+   "shortdescription": "It's a AI-powered tool that takes those long videos and turns them into quick, easy-to-read summarie...",
+   "price": "Free + from $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/summify.png?height=207"
+ },
+ {
+   "name": "DiffDuo",
+   "link": "https://diffduo.com/?ref=theresanaiforthat",
+   "oneliner": "Enhanced code change summaries for pull request reviews.",
+   "category": "Coding",
+   "shortdescription": "DiffDuo is an AI-powered tool that aims to enhance the way pull requests are viewed and reviewed. By...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/diffduo.png?height=207"
+ },
+ {
+   "name": "Zivy Listens",
+   "link": "https://zivylabs.com/?ref=theresanaiforthat",
+   "oneliner": "Converts written content into concise audio podcasts.",
+   "category": "Article summaries",
+   "shortdescription": "Zivy Listen is an AI tool that converts written articles into concise and engaging audio podcasts. D...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/zivy-listens.png?height=207"
+ },
+ {
+   "name": "US Government Contracts",
+   "link": "https://www.usgovcontracts.com/?ref=theresanaiforthat",
+   "oneliner": "Government contract bidding and search platform.",
+   "category": "Federal contracts summaries",
+   "shortdescription": "The US Government Contracts tool allows users to search and bid on government contracts in the Unite...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/us-government-contracts.png?height=207"
+ },
+ {
+   "name": "GistAI",
+   "link": "https://www.gistai.tech/?ref=theresanaiforthat",
+   "oneliner": "Efficient content summarization for consumption.",
+   "category": "Summaries",
+   "shortdescription": "Gist AI is a free Chrome extension that provides a convenient way to summarize various types of cont...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/gistai.png?height=207"
+ },
+ {
+   "name": "Tidby",
+   "link": "https://apps.apple.com/us/app/tidby-daily-news-summaries/id6449045753?ref=theresanaiforthat",
+   "oneliner": "Daily news summaries for quick updates.",
+   "category": "News summaries",
+   "shortdescription": "Tidby: Daily News Summaries is an application available on the App Store that provides users with da...",
+   "price": "Free + from $1.99",
+   "imageurl": "https://media.theresanaiforthat.com/tidby.png?height=207"
+ },
+ {
+   "name": "WebBrevity",
+   "link": "https://web-brevity-ai.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Efficiently summarize web articles for quick extraction.",
+   "category": "Website summaries",
+   "shortdescription": "WebBrevity.AI is an open-source web-based tool designed to provide users with concise summaries of l...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/webbrevity.png?height=207"
+ },
+ {
+   "name": "TldrGPT",
+   "link": "https://www.tldrgpt.net/?ref=theresanaiforthat",
+   "oneliner": "Web page summarization and archiving.",
+   "category": "Website summaries",
+   "shortdescription": "TL;DR GPTNet is an AI-powered tool designed to archive and generate summarized, readable versions of...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tldrgpt.png?height=207"
+ },
+ {
+   "name": "Taim",
+   "link": "https://www.taim.nomtek.com/?ref=theresanaiforthat",
+   "oneliner": "Digital content summarization for time-saving.",
+   "category": "YouTube summaries",
+   "shortdescription": "Taim is a mobile app designed to simplify the overwhelming amount of digital content available by us...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/taim.png?height=207"
+ },
+ {
+   "name": "BriefyAI",
+   "link": "https://briefy.ai/?ref=theresanaiforthat",
+   "oneliner": "Content summarization saves time & boosts productivity.",
+   "category": "Summaries",
+   "shortdescription": "Briefy is an AI-powered content summarizer tool that helps users save time by turning lengthy texts,...",
+   "price": "Free + $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/briefyai.png?height=207"
+ },
+ {
+   "name": "Podsnacks",
+   "link": "https://www.podsnacks.org/?ref=theresanaiforthat",
+   "oneliner": "Enhanced podcast discovery with transcription",
+   "category": "Podcast summaries",
+   "shortdescription": "Podsnacks is an AI-powered tool that aims to streamline and enhance your podcast listening experienc...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/podsnacks.png?height=207"
+ },
+ {
+   "name": "ShortCast",
+   "link": "https://shortcast.ai/?ref=theresanaiforthat",
+   "oneliner": "Summarizes lengthy audio and video content effectively.",
+   "category": "YouTube summaries",
+   "shortdescription": "Shortcast.AI is an AI tool that offers quick and efficient summarization of long YouTube videos and ...",
+   "price": "Free + from $12/mo",
+   "imageurl": "https://media.theresanaiforthat.com/shortcast.png?height=207"
+ },
+ {
+   "name": "Scholarcy",
+   "link": "https://www.scholarcy.com/?ref=theresanaiforthat",
+   "oneliner": "Summarizes and evaluates documents for easy digestion.",
+   "category": "Academic research",
+   "shortdescription": "Scholarcy is an online summarizing tool that provides a convenient way to quickly assess and evaluat...",
+   "price": "Free + From $7.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/scholarcy.png?height=207"
+ }
+]

@@ -1,0 +1,1559 @@
+[
+ {
+   "name": "Voicify",
+   "link": "https://www.voicify.ai/?ref=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Make AI music covers with your favorite artists",
+   "category": "Song covers",
+   "shortdesc": "Voicify is an AI-based music creation platform that allows users to generate custom songs featuring ...",
+   "price": "From $9.99",
+   "imageurl": "https://media.theresanaiforthat.com/voicify.png?height=207"
+ },
+ {
+   "name": "Ecrett Music",
+   "link": "https://ecrettmusic.com/?ref=theresanaiforthat",
+   "oneliner": "Customizable music composer with large pattern library.",
+   "category": "Music creation",
+   "shortdesc": "Ecrett Music is an AI-driven music composing software designed to help content creators quickly and ...",
+   "price": "From $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/ecrett-music.png?height=207"
+ },
+ {
+   "name": "MusicLM by Google",
+   "link": "https://www.kaggle.com/datasets/googleai/musiccaps?ref=theresanaiforthat",
+   "oneliner": "Music labeling dataset with aspects and moods.",
+   "category": "Text to music",
+   "shortdesc": "MusicCaps is a dataset of 5,521 music clips of 10 seconds each, labeled with an aspect list and a fr...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musiclm-by-google.png?height=207"
+ },
+ {
+   "name": "EpicMusicQuiz",
+   "link": "https://epicmusicquiz.com/?ref=theresanaiforthat",
+   "oneliner": "Music video quiz creation and playing.",
+   "category": "Music quizzes",
+   "shortdesc": "EpicMusicQuiz is a free, web-based tool that allows users to create their own custom music video qui...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/epicmusicquiz.png?height=207"
+ },
+ {
+   "name": "AI Song Generator Music Maker",
+   "link": "https://appintro.io/ai-song-generator-music-maker?ref=theresanaiforthat",
+   "oneliner": "Personalized high-quality soundtracks creation solution.",
+   "category": "Music creation",
+   "shortdesc": "The AI Song Generator is an AI-powered music composing tool that aims to create unique and personali...",
+   "price": "From $6.99/week",
+   "imageurl": "https://media.theresanaiforthat.com/ai-song-generator-music-maker.png?height=207"
+ },
+ {
+   "name": "Musicfy",
+   "link": "https://www.musicfy.lol/?ref=theresanaiforthat",
+   "oneliner": "Explore and create music covers.",
+   "category": "Song covers",
+   "shortdesc": "Musicfy is an AI-powered tool that allows users to create their own covers of their favorite songs i...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musicfy.png?height=207"
+ },
+ {
+   "name": "MusicStar.ai",
+   "link": "https://musicstar.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized music with automated genre and lyrics.",
+   "category": "Music",
+   "shortdesc": "MusicStar.AI is an AI music generator that can produce royalty-free music in various genres, includi...",
+   "price": "From $7.99",
+   "imageurl": "https://media.theresanaiforthat.com/musicstar-ai.png?height=207"
+ },
+ {
+   "name": "Texttomusic",
+   "link": "https://www.texttomusic.app/?ref=theresanaiforthat",
+   "oneliner": "Converts text to audio.",
+   "category": "Music",
+   "shortdesc": "Text to Music is an AI tool that allows users to generate audio by providing written prompts or desc...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/texttomusic.png?height=207"
+ },
+ {
+   "name": "MusicLM",
+   "link": "https://aitestkitchen.withgoogle.com/experiments/music-lm?ref=theresanaiforthat",
+   "oneliner": "Generates music for inspiration and feedback.",
+   "category": "Music creation",
+   "shortdesc": "AI Test Kitchen is a platform provided by Google to enable users to experience and provide feedback ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musiclm.png?height=207"
+ },
+ {
+   "name": "Extend music",
+   "link": "https://www.extendmusic.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated music extension.",
+   "category": "Music",
+   "shortdesc": "ExtendMusic.AI is an AI tool that allows music creators to enhance and extend their original composi...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/extend-music.png?height=207"
+ },
+ {
+   "name": "Utopia music",
+   "link": "https://enhance.utopiamusic.com/?ref=theresanaiforthat",
+   "oneliner": "Improves music metadata for discovery and search.",
+   "category": "Music metadata",
+   "shortdesc": "Utopia Enhance is a music AI tool offered by Utopia Music. It utilizes cutting-edge technology to un...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/utopia-music.png?height=207"
+ },
+ {
+   "name": "Musiclips",
+   "link": "https://apps.apple.com/us/app/musiclips-ai-music-finder/id1669132017?ref=theresanaiforthat",
+   "oneliner": "Personalized music discovery & recommendation solution.",
+   "category": "Music search",
+   "shortdesc": "Musiclips is an AI-powered music finder available on the App Store for iPhone, iPad, and iPod touch....",
+   "price": "Free + from $4.99/yr",
+   "imageurl": "https://media.theresanaiforthat.com/musiclips.png?height=207"
+ },
+ {
+   "name": "MusicGen",
+   "link": "https://huggingface.co/spaces/facebook/MusicGen?ref=theresanaiforthat",
+   "oneliner": "Generated music compositions.",
+   "category": "Music creation",
+   "shortdesc": "MusicGen is an ML app featured within the Hugging Face Space by Facebook. It is an innovative tool d...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musicgen.png?height=207"
+ },
+ {
+   "name": "AI Music Generator",
+   "link": "https://ai-music-generator.app/?ref=theresanaiforthat",
+   "oneliner": "Generates unique audio clips and music.",
+   "category": "Music creation",
+   "shortdesc": "The AI Music Generator (AMG) is a cutting-edge tool that leverages artificial intelligence to create...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ai-music-generator.png?height=207"
+ },
+ {
+   "name": "Your Music Taste Sucks",
+   "link": "https://www.yourmusictastesucks.com/?ref=theresanaiforthat",
+   "oneliner": "Music taste assessment and critique.",
+   "category": "Music taste criticism",
+   "shortdesc": "Your Music Taste Sucks is an AI tool developed by Pablo Hansen. It aims to provide users with an ass...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/your-music-taste-sucks.png?height=207"
+ },
+ {
+   "name": "MusicAI",
+   "link": "https://play.google.com/store/apps/details?id=com.bigmobilegames.musicai&ref=theresanaiforthat",
+   "oneliner": "Music composition with selection and playback.",
+   "category": "Music creation",
+   "shortdesc": "MusicAI is an AI-powered application available on Google Play that generates unique music tracks. Wi...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musicai.png?height=207"
+ },
+ {
+   "name": "iMyFone MusicAI",
+   "link": "https://filme.imyfone.com/ai-music-generator/?ref=theresanaiforthat",
+   "oneliner": "Enhancing and creating music for musicians and artists.",
+   "category": "Music creation",
+   "shortdesc": "MusicAI is an all-in-one AI music generator tool called iMyFone MusicAI. It provides a range of func...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/imyfone-musicai.png?height=207"
+ },
+ {
+   "name": "Free Music Demixer",
+   "link": "https://freemusicdemixer.com/?ref=theresanaiforthat",
+   "oneliner": "Music separation for audio remixing.",
+   "category": "Music demixing",
+   "shortdesc": "The free-music-demixer is an AI-based music demixer that allows users to separate different instrume...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/free-music-demixer.png?height=207"
+ },
+ {
+   "name": "Stockmusic",
+   "link": "https://www.stockmusic.app/?ref=theresanaiforthat",
+   "oneliner": "Customizable music generator for creative projects",
+   "category": "Music creation",
+   "shortdesc": "StockMusic is an AI-generated music tool that provides a wide range of royalty-free music for variou...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/stockmusic.png?height=207"
+ },
+ {
+   "name": "Splash",
+   "link": "https://www.splashmusic.com/?ref=theresanaiforthat",
+   "oneliner": "Advanced tech for music creation.",
+   "category": "Music creation",
+   "shortdesc": "Splash is an AI music platform aimed at bringing the joy of music making to everyone. This tool util...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/splash.png?height=207"
+ },
+ {
+   "name": "Boomy",
+   "link": "https://boomy.com/?ref=theresanaiforthat",
+   "oneliner": "Music creation platform for songs",
+   "category": "Music creation",
+   "shortdesc": "Boomy is an AI-powered tool that enables users to create original music quickly and easily, even if ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/boomy.png?height=207"
+ },
+ {
+   "name": "Staccato",
+   "link": "https://staccato.ai/?ref=theresanaiforthat",
+   "oneliner": "AI MIDI music and lyrics",
+   "category": "Music creation",
+   "shortdesc": "Staccato is an AI MIDI music & AI lyrics generator that helps musicians, DJs, rappers and lyricists ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/staccato.png?height=207"
+ },
+ {
+   "name": "Splash",
+   "link": "https://www.splashmusic.com/?ref=theresanaiforthat",
+   "oneliner": "Mobile music production w/ virtual festival & community.",
+   "category": "Music creation",
+   "shortdesc": "Splash is an AI platform designed to bring the joy of music making to everyone. Its AI-powered tools...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/splash.png?height=207"
+ },
+ {
+   "name": "Soundraw",
+   "link": "https://soundraw.io/?ref=theresanaiforthat",
+   "oneliner": "Music generation for custom projects.",
+   "category": "Music creation",
+   "shortdesc": "Soundraw is an AI music generator that helps creators to produce custom music for their projects. It...",
+   "price": "Free + From $16.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/soundraw.png?height=207"
+ },
+ {
+   "name": "Soundful",
+   "link": "https://soundful.com/?ref=theresanaiforthat",
+   "oneliner": "Unlimited music creation for monetization purposes.",
+   "category": "Music creation",
+   "shortdesc": "Soundful is an AI Music Generator platform that enables content creators and music artists to create...",
+   "price": "Free + From $7.42/mo",
+   "imageurl": "https://media.theresanaiforthat.com/soundful.png?height=207"
+ },
+ {
+   "name": "Songtell",
+   "link": "https://www.songtell.com/?ref=theresanaiforthat",
+   "oneliner": "Discovers song meanings for music fans.",
+   "category": "Song explanations",
+   "shortdesc": "Songtell is an AI-powered platform that helps users unlock the hidden depths of their favorite songs...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/songtell.png?height=207"
+ },
+ {
+   "name": "Songmastr",
+   "link": "https://www.songmastr.com/?ref=theresanaiforthat",
+   "oneliner": "Instant song mastering with a commercial standard.",
+   "category": "Music creation",
+   "shortdesc": "Songmastr is an AI-based automatic song mastering service that allows users to instantly master thei...",
+   "price": "From $4",
+   "imageurl": "https://media.theresanaiforthat.com/songmastr.png?height=207"
+ },
+ {
+   "name": "Riffusion",
+   "link": "https://www.riffusion.com/?ref=theresanaiforthat",
+   "oneliner": "Real-time music gen. & distribution algo.",
+   "category": "Music creation",
+   "shortdesc": "Riffusion is a tool designed to generate real-time music. It is especially suited to creating musica...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/riffusion.png?height=207"
+ },
+ {
+   "name": "Raplyrics",
+   "link": "https://raplyrics.eu/?ref=theresanaiforthat",
+   "oneliner": "Produce unique rap lyrics with rap history and tech.",
+   "category": "Music creation",
+   "shortdesc": "Raplyrics is an AI-driven tool for generating rap music punchlines. The tool uses artificial intelli...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/raplyrics.png?height=207"
+ },
+ {
+   "name": "neural frames",
+   "link": "https://www.neuralframes.com/?ref=theresanaiforthat",
+   "oneliner": "Generated video creation from text.",
+   "category": "Video generation",
+   "shortdesc": "Neural Frames is an AI-driven tool for creating video clips from text prompts. It uses a generative ...",
+   "price": "Free + from $19/mo",
+   "imageurl": "https://media.theresanaiforthat.com/neural-frames.png?height=207"
+ },
+ {
+   "name": "Natural Language Playlist",
+   "link": "https://www.naturallanguageplaylist.com/?ref=theresanaiforthat",
+   "oneliner": "Curated playlist from queries.",
+   "category": "Music playlists",
+   "shortdesc": "Natural Language Playlist is an AI-generated mixtape platform created by Abelardo Riojas, a Data Sci...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/natural-language-playlist.png?height=207"
+ },
+ {
+   "name": "Musenet",
+   "link": "https://openai.com/blog/musenet/?ref=theresanaiforthat",
+   "oneliner": "Music composition using neural networks.",
+   "category": "Music creation",
+   "shortdesc": "MuseNet is a deep neural network created by OpenAI that can generate 4-minute musical compositions w...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/musenet.png?height=207"
+ },
+ {
+   "name": "LALAL",
+   "link": "https://www.lalal.ai/?fp_ref=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "AV editing with separated vocal & instrumental tracks.",
+   "category": "Music editing",
+   "shortdesc": "LALAL.AI is an AI-powered vocal and instrumental tracks remover. It enables users to quickly and acc...",
+   "price": "Free + From $25",
+   "imageurl": "https://media.theresanaiforthat.com/lalal.png?height=207"
+ },
+ {
+   "name": "Kanye Tweet Generator",
+   "link": "https://www.kanyegenerator.com/?ref=theresanaiforthat",
+   "oneliner": "Tweets styled after a famous musician.",
+   "category": "Kanye tweets",
+   "shortdesc": "The Kanye Tweet Generator is an AI-powered tool created by Ryan Doyle. It allows users to generate t...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/kanye-tweet-generator.png?height=207"
+ },
+ {
+   "name": "Infinite Drum Machine",
+   "link": "https://experiments.withgoogle.com/ai/drum-machine/view/?ref=theresanaiforthat",
+   "oneliner": "Create unique beats from everyday sounds.",
+   "category": "Music creation",
+   "shortdesc": "The Infinite Drum Machine is an AI-powered tool created by Kyle McDonald, Manny Tan, Yotam Mann, and...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/infinite-drum-machine.png?height=207"
+ },
+ {
+   "name": "Hotpot",
+   "link": "https://hotpot.ai/?ref=theresanaiforthat",
+   "oneliner": "Platform for graphic and text design templates.",
+   "category": "Image generation",
+   "shortdesc": "Hotpot.ai is an AI-driven platform that provides tools and templates to help users create amazing gr...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/hotpot.png?height=207"
+ },
+ {
+   "name": "Emergent Drums",
+   "link": "https://audialab.com/?ref=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Unlimited royalty-free drum samples.",
+   "category": "Music creation",
+   "shortdesc": "Emergent Drums by Audialab is an AI-powered music plugin that generates unique drum samples from scr...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/emergent-drums.png?height=207"
+ },
+ {
+   "name": "Dadabots",
+   "link": "https://dadabots.com/?ref=theresanaiforthat",
+   "oneliner": "Livestreamed music generator with death metal themes.",
+   "category": "Music creation",
+   "shortdesc": "DadaBots is a machine learning platform that generates death metal music 24/7 via livestream. It use...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/dadabots.png?height=207"
+ },
+ {
+   "name": "Clip audio",
+   "link": "https://www.clip.audio/?ref=theresanaiforthat",
+   "oneliner": "Discover and generate audio clips on a platform.",
+   "category": "Music creation",
+   "shortdesc": "Clip.audio is an AI audio search engine that enables users to discover, generate, and remix audio wi...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/clip-audio.png?height=207"
+ },
+ {
+   "name": "Boomy",
+   "link": "https://boomy.com/?ref=theresanaiforthat",
+   "oneliner": "Music creation platform with simple editing.",
+   "category": "Music creation",
+   "shortdesc": "Boomy is an AI-powered music-making platform that allows users to create their own original songs wi...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/boomy.png?height=207"
+ },
+ {
+   "name": "Artistator",
+   "link": "https://artistator.com/?ref=theresanaiforthat",
+   "oneliner": "Specialized music artist name generation.",
+   "category": "Artist name generation",
+   "shortdesc": "Artistator is a specialized AI tool that generates artist names based on a user's favorite music gen...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/artistator.png?height=207"
+ },
+ {
+   "name": "Amadeus Code",
+   "link": "https://amadeuscode.com/?ref=theresanaiforthat",
+   "oneliner": "Songwriting help; user-friendly, free music library.",
+   "category": "Music creation",
+   "shortdesc": "Amadeus Code is an AI-powered songwriting assistant created by the company Amadeus Code Inc. It is a...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/amadeus-code.png?height=207"
+ },
+ {
+   "name": "Aiva",
+   "link": "https://aiva.ai/?ref=theresanaiforthat",
+   "oneliner": "Music creation",
+   "category": "Music creation",
+   "shortdesc": "AIVA is an Artificial Intelligence music composer that creates original and personalized music for p...",
+   "price": "Free + $11/mo",
+   "imageurl": "https://media.theresanaiforthat.com/assets/ai-placeholder.png?height=207?height=207"
+ },
+ {
+   "name": "AIArt",
+   "link": "https://aiart.dev/?ref=theresanaiforthat",
+   "oneliner": "Generates unique music videos from text prompts online.",
+   "category": "Video generation",
+   "shortdesc": "aiart.dev is a website dedicated to creating art with artificial intelligence. It offers a gallery o...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/aiart.png?height=207"
+ },
+ {
+   "name": "AI movie Club",
+   "link": "https://www.ai-movie.club/?ref=theresanaiforthat",
+   "oneliner": "Movies from auto scripts, text, images, and music.",
+   "category": "Movie generation",
+   "shortdesc": "AI-MOVIE CLUB is a social network that uses artificial intelligence (AI) to create movies. The platf...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/ai-movie-club.png?height=207"
+ },
+ {
+   "name": "AI Lyrics Generator",
+   "link": "https://theselyricsdonotexist.com/?ref=theresanaiforthat",
+   "oneliner": "Songwriting lyrics generation.",
+   "category": "Music lyrics",
+   "shortdesc": "These Lyrics Do Not Exist is an AI songwriting tool that generates completely original lyrics for va...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/ai-lyrics-generator.png?height=207"
+ },
+ {
+   "name": "PlaylistAI",
+   "link": "https://www.playlistai.app/?ref=theresanaiforthat",
+   "oneliner": "App that generates music playlists.",
+   "category": "Music playlists",
+   "shortdesc": "AI Playlist Maker: PlaylistAI is a free app that is designed to help users create playlists on Spoti...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/playlistai.png?height=207"
+ },
+ {
+   "name": "Orb Producer",
+   "link": "https://www.orbplugins.com/orb-producer-suite/?ref=theresanaiforthat",
+   "oneliner": "Create pro musical patterns/loops with plugin suite.",
+   "category": "Music creation",
+   "shortdesc": "Orb Producer 3 is an AI powered plugin suite designed to help music producers create professional qu...",
+   "price": "From $99",
+   "imageurl": "https://media.theresanaiforthat.com/orb-producer.png?height=207"
+ },
+ {
+   "name": "Moises App",
+   "link": "https://moises.ai/?ref=theresanaiforthat",
+   "oneliner": "Music practice: mastering, separation, remixing.",
+   "category": "Music creation",
+   "shortdesc": "Moises App is an AI-powered music practice tool designed to help musicians of any skill level perfec...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/moises-app.png?height=207"
+ },
+ {
+   "name": "Cyanite",
+   "link": "https://cyanite.ai/?ref=theresanaiforthat",
+   "oneliner": "Finds and tags music with smart engine.",
+   "category": "Music categorization",
+   "shortdesc": "Cyanite.ai is an AI-powered music search and tagging engine designed to help users unlock the value ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/cyanite.png?height=207"
+ },
+ {
+   "name": "Audo AI",
+   "link": "https://audo.ai/?ref=theresanaiforthat",
+   "oneliner": "Audio enhancement for content creators.",
+   "category": "Background noise removal",
+   "shortdesc": "Audo Studio is a one-click audio cleaning and enhancement tool designed for YouTubers, Podcasters, a...",
+   "price": "Free + From $12-mo",
+   "imageurl": "https://media.theresanaiforthat.com/audo-ai.png?height=207"
+ },
+ {
+   "name": "Synthesizer V",
+   "link": "https://dreamtonics.com/en/synthesizerv/?ref=theresanaiforthat",
+   "oneliner": "Revolutionary vocal synthesizer for music production.",
+   "category": "Music creation",
+   "shortdesc": "Synthesizer V is a revolutionary AI-powered synthesizer created by Dreamtonics. It enables users to ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/synthesizer-v.png?height=207"
+ },
+ {
+   "name": "Mubert",
+   "link": "https://mubert.com/?via=theresanaiforthat?ref=theresanaiforthat",
+   "oneliner": "Customizable music for creators & brands.",
+   "category": "Music creation",
+   "shortdesc": "Mubert is an innovative royalty-free music ecosystem for content creators, brands and developers, of...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/mubert.png?height=207"
+ },
+ {
+   "name": "AIbstract",
+   "link": "https://aibstract.fr/?ref=theresanaiforthat",
+   "oneliner": "Created unique and free royalty music.",
+   "category": "Music creation",
+   "shortdesc": "AIbstract is a software solution that utilizes Artificial Intelligence technologies to provide the s...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/aibstract.png?height=207"
+ },
+ {
+   "name": "drayk.it",
+   "link": "https://drayk.it/?ref=theresanaiforthat",
+   "oneliner": "Humorous Drake song creation for any subject.",
+   "category": "Music creation in Drake style",
+   "shortdesc": "Drayk.it is an AI-powered tool that enables users to generate parody Drake songs about anything they...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/drayk-it.png?height=207"
+ },
+ {
+   "name": "A.V. Mapping",
+   "link": "https://avmapping.co/?ref=theresanaiforthat",
+   "oneliner": "Film platform with music search, editing, and licensing.",
+   "category": "Music recommendations for creators",
+   "shortdesc": "A.V. Mapping is an AI-powered video and music mapping and licensing platform that dramatically accel...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/a-v-mapping.png?height=207"
+ },
+ {
+   "name": "Chordai",
+   "link": "https://www.chordai.net/?ref=theresanaiforthat",
+   "oneliner": "Identified music chords and beats library creation.",
+   "category": "Music creation",
+   "shortdesc": "Chord ai is an AI-powered app that helps you to identify the chords and beats of any song, and get t...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/chordai.png?height=207"
+ },
+ {
+   "name": "Weet",
+   "link": "https://weet.co/?ref=theresanaiforthat",
+   "oneliner": "Create background-free music tutorials quickly.",
+   "category": "Background noise removal",
+   "shortdesc": "Weet is an AI-powered video tutorial creation tool that makes it fast and easy to create professiona...",
+   "price": "Free + from $59/mo",
+   "imageurl": "https://media.theresanaiforthat.com/weet.png?height=207"
+ },
+ {
+   "name": "Beatoven",
+   "link": "https://www.beatoven.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized music for video production.",
+   "category": "Music creation",
+   "shortdesc": "Beatoven.ai is an AI music generation tool that uses advanced AI techniques to generate unique, mood...",
+   "price": "From $20/mo",
+   "imageurl": "https://media.theresanaiforthat.com/beatoven.png?height=207"
+ },
+ {
+   "name": "Maroofy",
+   "link": "https://maroofy.com/?ref=theresanaiforthat",
+   "oneliner": "Efficient music discovery and recommendation.",
+   "category": "Music recommendations",
+   "shortdesc": "Maroofy is an AI-powered music recommendation engine that assists users in discovering similar music...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/maroofy.png?height=207"
+ },
+ {
+   "name": "Supertone",
+   "link": "https://supertone.ai/?ref=theresanaiforthat",
+   "oneliner": "Revolutionizes content with voice cloning/synthesis.",
+   "category": "Music creation",
+   "shortdesc": "Supertone is an AI audio tech startup that specializes in expressive singing/speech synthesis, origi...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/supertone.png?height=207"
+ },
+ {
+   "name": "GetSound Ai",
+   "link": "https://www.getsound.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized soundscapes for hotels.",
+   "category": "Soundscapes",
+   "shortdesc": "GetSound Ai Soundscapes is an AI-powered tool that creates dynamic, personalized soundscapes for spa...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/getsound-ai.png?height=207"
+ },
+ {
+   "name": "DeepBeat",
+   "link": "https://deepbeat.org/?ref=theresanaiforthat",
+   "oneliner": "Generated music lyrics.",
+   "category": "Music lyrics",
+   "shortdesc": "DeepBeat is an AI program that generates rap lyrics using machine learning techniques. It combines l...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/deepbeat.png?height=207"
+ },
+ {
+   "name": "HookGen",
+   "link": "https://hookgen.com/?ref=theresanaiforthat",
+   "oneliner": "Music hook and melody generation.",
+   "category": "Music creation",
+   "shortdesc": "HookGen is a web app designed to help music producers and songwriters generate new music hooks and m...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/hookgen.png?height=207"
+ },
+ {
+   "name": "CassetteAI",
+   "link": "https://cassetteai.com/?ref=theresanaiforthat",
+   "oneliner": "Custom beats from analyzed patterns and trends.",
+   "category": "Music creation",
+   "shortdesc": "Cassette AI is an AI-powered music production platform that allows users to create intricate beats f...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/cassetteai.png?height=207"
+ },
+ {
+   "name": "RipX",
+   "link": "https://hitnmix.com/?ref=theresanaiforthat",
+   "oneliner": "RipX simplifies audio creation and editing for all.",
+   "category": "Music creation",
+   "shortdesc": "RipX is an AI-powered audio manipulation tool that enables users to create and manipulate audio with...",
+   "price": "From $90",
+   "imageurl": "https://media.theresanaiforthat.com/ripx.png?height=207"
+ },
+ {
+   "name": "Spotify DJ",
+   "link": "https://open.spotify.com/?ref=theresanaiforthat",
+   "oneliner": "Digital music mixing for events and parties.",
+   "category": "Spotify music recommendations",
+   "shortdesc": "Spotify is a digital music streaming service that allows users to access millions of songs, podcasts...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/spotify-dj.png?height=207"
+ },
+ {
+   "name": "Audioshake",
+   "link": "https://www.audioshake.ai/?ref=theresanaiforthat",
+   "oneliner": "Audio track separation and remixing.",
+   "category": "Music creation",
+   "shortdesc": "AudioShake is an AI tool designed to help musicians, labels, publishers, and other stakeholders unlo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/audioshake.png?height=207"
+ },
+ {
+   "name": "WOXO",
+   "link": "https://short.woxo.tech/?ref=theresanaiforthat",
+   "oneliner": "Text to vid with auto graphics, music & captions.",
+   "category": "Video generation",
+   "shortdesc": "WOXO is an AI-powered text to video generator that can help you quickly create stunning videos that ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/woxo.png?height=207"
+ },
+ {
+   "name": "Rotor Videos",
+   "link": "https://rotorvideos.com/?ref=theresanaiforthat",
+   "oneliner": "Made pro music videos sans editing or prod knowledge.",
+   "category": "Video generation",
+   "shortdesc": "Rotor Videos is an AI-powered tool designed to help musicians create professional-quality music vide...",
+   "price": "From $9",
+   "imageurl": "https://media.theresanaiforthat.com/rotor-videos.png?height=207"
+ },
+ {
+   "name": "Emvoice",
+   "link": "https://emvoiceapp.com/?ref=theresanaiforthat",
+   "oneliner": "Realistic vocals for generating music.",
+   "category": "Music creation",
+   "shortdesc": "Emvoice One is a next-generation vocal synthesizer plugin (VST/AU/AAX) designed to make realistic vo...",
+   "price": "From $69",
+   "imageurl": "https://media.theresanaiforthat.com/emvoice.png?height=207"
+ },
+ {
+   "name": "Cosonify",
+   "link": "https://cosonify.com/?ref=theresanaiforthat",
+   "oneliner": "Streamlined music creation workflow solution.",
+   "category": "Music creation",
+   "shortdesc": "Cosonify is a tool suite designed for songwriters and music producers to help them create, brainstor...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/cosonify.png?height=207"
+ },
+ {
+   "name": "BeatBot",
+   "link": "https://beatbot.fm/?ref=theresanaiforthat",
+   "oneliner": "A music creation interface with pre-made sounds.",
+   "category": "Music creation",
+   "shortdesc": "BeatBot is an AI-powered tool that makes music creation accessible to everyone, regardless of their ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/beatbot.png?height=207"
+ },
+ {
+   "name": "Vocalremover",
+   "link": "https://vocalremover.com/?ref=theresanaiforthat",
+   "oneliner": "Extracting instrumental tracks from music.",
+   "category": "Music editing",
+   "shortdesc": "Vocal Remover is an AI-powered tool designed to remove the vocal track from any music track, leaving...",
+   "price": "From $7.99",
+   "imageurl": "https://media.theresanaiforthat.com/vocalremover.png?height=207"
+ },
+ {
+   "name": "Aiva",
+   "link": "https://www.aiva.ai/?ref=theresanaiforthat",
+   "oneliner": "Music composition for diverse projects.",
+   "category": "Music creation",
+   "shortdesc": "AIVA is an AI-powered music composing tool that produces unique and personalized music for various p...",
+   "price": "Free + $11/mo",
+   "imageurl": "https://media.theresanaiforthat.com/aiva.png?height=207"
+ },
+ {
+   "name": "Prodia",
+   "link": "https://app.prodia.com/?ref=theresanaiforthat",
+   "oneliner": "Art and music creation using artificial intelligence.",
+   "category": "Image generation",
+   "shortdesc": "Prodia - AI Art and Music is an AI tool that allows users to create art using artificial intelligenc...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/prodia.png?height=207"
+ },
+ {
+   "name": "RappingAI",
+   "link": "https://rappingai.com/?ref=theresanaiforthat",
+   "oneliner": "Innovative rap battle simulation and creative aid.",
+   "category": "Rapping",
+   "shortdesc": "RappingAI is an AI tool that simulates rap battles between users and an AI-generated opponent. Users...",
+   "price": "From $3",
+   "imageurl": "https://media.theresanaiforthat.com/rappingai.png?height=207"
+ },
+ {
+   "name": "WarpSound",
+   "link": "https://www.warpsound.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated music for immersive experiences.",
+   "category": "Music creation",
+   "shortdesc": "WarpSound is a cutting-edge generative AI music platform that is diligently developing the sound of ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/warpsound.png?height=207"
+ },
+ {
+   "name": "Plazmapunk",
+   "link": "https://www.plazmapunk.com/app?ref=theresanaiforthat",
+   "oneliner": "Video generator with custom music and style options.",
+   "category": "Video generation",
+   "shortdesc": "Plazmapunk is an AI tool that enables users to generate their own AI video by providing a range of c...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/plazmapunk.png?height=207"
+ },
+ {
+   "name": "Audiostrip",
+   "link": "https://www.audiostrip.co.uk/?ref=theresanaiforthat",
+   "oneliner": "An online audio editor for isolating vocals from songs.",
+   "category": "Music editing",
+   "shortdesc": "AudioStrip is an online tool that uses AI and deep learning techniques to isolate or remove vocals f...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/audiostrip.png?height=207"
+ },
+ {
+   "name": "Gnod",
+   "link": "https://www.gnod.com/?ref=theresanaiforthat",
+   "oneliner": "Discover and explore content.",
+   "category": "Music recommendations",
+   "shortdesc": "Gnod is an AI-based tool that aims to help users discover new content in various fields such as musi...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/gnod.png?height=207"
+ },
+ {
+   "name": "AnthemScore by Lunaverus",
+   "link": "https://lunaverus.com/?ref=theresanaiforthat",
+   "oneliner": "Music transcription and editing.",
+   "category": "Music transcription",
+   "shortdesc": "AnthemScore is a software tool for automatic music transcription that converts audio files like MP3 ...",
+   "price": "From $29",
+   "imageurl": "https://media.theresanaiforthat.com/anthemscore-by-lunaverus.png?height=207"
+ },
+ {
+   "name": "Wavtool",
+   "link": "https://wavtool.com/?ref=theresanaiforthat",
+   "oneliner": "Edited audio files.",
+   "category": "Music creation",
+   "shortdesc": "WavTool is an AI-based tool that provides users with a platform for music production entirely in the...",
+   "price": "Free + from $20/mo",
+   "imageurl": "https://media.theresanaiforthat.com/wavtool.png?height=207"
+ },
+ {
+   "name": "Lyricallabs",
+   "link": "https://lyricallabs.io/?ref=theresanaiforthat",
+   "oneliner": "Summarizes long docs into key points for easy reading.",
+   "category": "Music lyrics",
+   "shortdesc": "Lyrical Labs is an AI-powered songwriting tool designed to help users overcome writer's block and co...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/lyricallabs.png?height=207"
+ },
+ {
+   "name": "Jukebox",
+   "link": "https://openai.com/research/jukebox?ref=theresanaiforthat",
+   "oneliner": "Generated music and singing in diverse genres.",
+   "category": "Music creation",
+   "shortdesc": "Jukebox is an open-source neural network tool that generates music and rudimentary singing as raw au...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/jukebox.png?height=207"
+ },
+ {
+   "name": "Setlist Predictor",
+   "link": "https://setlistpredictor.com/?ref=theresanaiforthat",
+   "oneliner": "Forecasts concert setlists for fans.",
+   "category": "Concert setlists",
+   "shortdesc": "Setlist Predictor is an AI tool that helps music fans prepare for their favorite artist's concerts. ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/setlist-predictor.png?height=207"
+ },
+ {
+   "name": "Playlistnameai",
+   "link": "https://www.playlistnameai.com/?ref=theresanaiforthat",
+   "oneliner": "Generated mood-based music playlists names.",
+   "category": "Playlist names",
+   "shortdesc": "PlaylistName AI is an AI-powered playlist name generator that assists in creating music playlist nam...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/playlistnameai.png?height=207"
+ },
+ {
+   "name": "Playlist Genius",
+   "link": "https://www.playlistgeniusai.com/?ref=theresanaiforthat",
+   "oneliner": "Automated playlist generation for diverse situations.",
+   "category": "Music playlists",
+   "shortdesc": "Playlist Genius is an AI tool designed to assist users in creating their own playlist for a variety ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/playlist-genius.png?height=207"
+ },
+ {
+   "name": "Mix Check Studio",
+   "link": "https://mixcheck.studio/?ref=theresanaiforthat",
+   "oneliner": "Analyzed audio feedback for music mixing.",
+   "category": "Music editing",
+   "shortdesc": "Mix Check Studio is a free online web application that leverages AI technology to analyze your mixed...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/mix-check-studio.png?height=207"
+ },
+ {
+   "name": "Chat Jams",
+   "link": "https://www.chatjams.ai/?ref=theresanaiforthat",
+   "oneliner": "Customized playlists based on musical preferences.",
+   "category": "Spotify playlists",
+   "shortdesc": "Chat Jams is an AI-powered tool designed to create custom Spotify playlists for users based on their...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/chat-jams.png?height=207"
+ },
+ {
+   "name": "Edge Dance",
+   "link": "https://edge-dance.github.io/?ref=theresanaiforthat",
+   "oneliner": "Create dance routines from music.",
+   "category": "Music choreographies",
+   "shortdesc": "EDGE: Editable Dance Generation from Music is an AI tool that generates high-quality choreographies ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/edge-dance.png?height=207"
+ },
+ {
+   "name": "Loudly",
+   "link": "https://www.loudly.com/music/ai-music-generator?ref=theresanaiforthat",
+   "oneliner": "Generated music for media.",
+   "category": "Music creation",
+   "shortdesc": "The AI Music Generator offered by Loudly is a tool that allows users to create original music using ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/loudly.png?height=207"
+ },
+ {
+   "name": "Databass",
+   "link": "https://www.databass.ai/?ref=theresanaiforthat",
+   "oneliner": "Collaborative audio creation platform.",
+   "category": "Music creation",
+   "shortdesc": "Databass is an AI tool designed to revolutionize the audio landscape by empowering creators to unlea...",
+   "price": "From $11.24/mo",
+   "imageurl": "https://media.theresanaiforthat.com/databass.png?height=207"
+ },
+ {
+   "name": "Beatsbrew",
+   "link": "https://beatsbrew.com/?ref=theresanaiforthat",
+   "oneliner": "Generated music samples without effort.",
+   "category": "Music samples",
+   "shortdesc": "Beatsbrew is an innovative AI-powered tool that allows users to generate high-quality audio samples ...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/beatsbrew.png?height=207"
+ },
+ {
+   "name": "Unholy",
+   "link": "https://unholyai.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Detecting unholy music lyrics.",
+   "category": "Music unholyness detection",
+   "shortdesc": "Unholy.ai is an AI tool designed to analyze music and identify any \"unholiness\" in the lyrics. The t...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/unholy.png?height=207"
+ },
+ {
+   "name": "Artistinterview",
+   "link": "https://artistinterview.ai/?ref=theresanaiforthat",
+   "oneliner": "Generates Q&A for musicians using their lyrics.",
+   "category": "Artist interviews",
+   "shortdesc": "Artist Interview.ai is an AI-powered tool that generates realistic interview answers from your chose...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/artistinterview.png?height=207"
+ },
+ {
+   "name": "AI Jingle Generator",
+   "link": "https://jinglemaker.callmefred.com/?ref=theresanaiforthat",
+   "oneliner": "Instantly generating jingles for media.",
+   "category": "Jingles",
+   "shortdesc": "The AI Jingle Generator is a tool that generates jingles instantly, powered by AI, for a fee of $5 p...",
+   "price": "$5/jingle",
+   "imageurl": "https://media.theresanaiforthat.com/ai-jingle-generator.png?height=207"
+ },
+ {
+   "name": "Drumloop",
+   "link": "https://drumloopai.com/?ref=theresanaiforthat",
+   "oneliner": "Created drum loops for music production.",
+   "category": "Drum loops",
+   "shortdesc": "Drumloop AI is an AI-powered tool that generates original drum loops using a neural audio network. T...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/drumloop.png?height=207"
+ },
+ {
+   "name": "Emusion",
+   "link": "https://freshly.ai/emusion/?ref=theresanaiforthat",
+   "oneliner": "Analyzes and recommends music.",
+   "category": "Music recommendations",
+   "shortdesc": "Emusion is an AI music analysis and discovery tool developed by Freshly.ai. The tool allows users to...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/emusion.png?height=207"
+ },
+ {
+   "name": "Playlistable",
+   "link": "https://playlistable.io/?ref=theresanaiforthat",
+   "oneliner": "Generated music playlists.",
+   "category": "Music playlists",
+   "shortdesc": "Playlistable is an AI playlist generator tool that helps users discover new music and create unique ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/playlistable.png?height=207"
+ },
+ {
+   "name": "MAIVE",
+   "link": "https://apps.apple.com/app/maive-music-ai-video-exporter/id1660559385?ref=theresanaiforthat",
+   "oneliner": "Custom music videos w/ visuals & matching tones.",
+   "category": "Video generation",
+   "shortdesc": "MAIVE: Music AI Video Exporter is an application designed for iOS devices that allows users to creat...",
+   "price": "Free + from $2.99",
+   "imageurl": "https://media.theresanaiforthat.com/maive.png?height=207"
+ },
+ {
+   "name": "EVITA",
+   "link": "https://www.evita.ai/?ref=theresanaiforthat",
+   "oneliner": "Coached vocals for musicians and singers.",
+   "category": "Music",
+   "shortdesc": "EVITA is a vocal coaching tool powered by Artificial Intelligence (AI). It offers a range of feature...",
+   "price": "Free + from $16/mo",
+   "imageurl": "https://media.theresanaiforthat.com/evita.png?height=207"
+ },
+ {
+   "name": "VirtuozyAI",
+   "link": "https://www.virtuozy.pro/?ref=theresanaiforthat",
+   "oneliner": "Assisted music produced and distributed.",
+   "category": "Music creation",
+   "shortdesc": "Virtuozy Pro is an AI-based music assistant that enables users to create high-quality music with eas...",
+   "price": "From $9.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/virtuozyai.png?height=207"
+ },
+ {
+   "name": "MixerBox Chat AI",
+   "link": "https://apps.apple.com/us/app/id1584951634?ref=theresanaiforthat",
+   "oneliner": "Social music chatbot.",
+   "category": "ChatGPT",
+   "shortdesc": "The MixerBox Chat AI Browser app can be downloaded onto an iPhone, iPad, or iPod touch from the App ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/mixerbox-chat-ai.png?height=207"
+ },
+ {
+   "name": "SongR",
+   "link": "https://app.songr.ai/?ref=theresanaiforthat",
+   "oneliner": "Create music from lyrics or prompts.",
+   "category": "Music creation",
+   "shortdesc": "SongR seems to be an AI tool that enables users to create songs in different genres by providing pro...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/songr.png?height=207"
+ },
+ {
+   "name": "LuDe",
+   "link": "https://beta.lude.page/?ref=theresanaiforthat",
+   "oneliner": "Generated short videos using user audio/text input.",
+   "category": "Lyrical videos",
+   "shortdesc": "LuDe (BETA) is an AI powered video creator tool that requires the user to provide either an audio fi...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/lude.png?height=207"
+ },
+ {
+   "name": "Strofe",
+   "link": "https://www.strofe.com/get-started?ref=theresanaiforthat",
+   "oneliner": "Compose music for content creation.",
+   "category": "Music creation",
+   "shortdesc": "Strofe is an AI-generated music tool that provides an easy way for users to create music that suits ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/strofe.png?height=207"
+ },
+ {
+   "name": "Tracksy",
+   "link": "https://tracksy.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated music creation.",
+   "category": "Music creation",
+   "shortdesc": "Tracksy is a generative AI system designed to help music creators bring their ideas to life by enabl...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/tracksy.png?height=207"
+ },
+ {
+   "name": "Moodify",
+   "link": "https://moodify.toasted.ai/?ref=theresanaiforthat",
+   "oneliner": "Discover music by mood for Spotify based on tracks.",
+   "category": "Music recommendations",
+   "shortdesc": "Moodify is an AI-powered music discovery tool that helps users find new music based on the mood of t...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/moodify.png?height=207"
+ },
+ {
+   "name": "Auto Ye AI",
+   "link": "https://autoyeai.com/?ref=theresanaiforthat",
+   "oneliner": "Generate Kanye-style lyrics.",
+   "category": "Kanye West lyrics",
+   "shortdesc": "AutoYe AI is a web application that uses artificial intelligence to generate lyrics in the style of ...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/auto-ye-ai.png?height=207"
+ },
+ {
+   "name": "Melody Studio",
+   "link": "https://melodystudio.net/?ref=theresanaiforthat",
+   "oneliner": "Generates melodies for music creators.",
+   "category": "Music creation",
+   "shortdesc": "MelodyStudio is an AI-powered melody generator tool that enables you to create vocal melodies with e...",
+   "price": "From $4.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/melody-studio.png?height=207"
+ },
+ {
+   "name": "Lyric Studio",
+   "link": "https://lyricstudio.net/?ref=theresanaiforthat",
+   "oneliner": "Suggests songwriting based on topics and style.",
+   "category": "Music lyrics",
+   "shortdesc": "LyricStudio is an AI-powered songwriting tool that suggests unique lyric ideas based on the user's t...",
+   "price": "From $2.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/lyric-studio.png?height=207"
+ },
+ {
+   "name": "JukeGPT",
+   "link": "https://www.jukegpt.com/?ref=theresanaiforthat",
+   "oneliner": "Helps compose music and generate lyrics.",
+   "category": "Music creation",
+   "shortdesc": "JukeGPT is a generative AI tool designed for musicians to assist in creating melodies, lyrics, and c...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/jukegpt.png?height=207"
+ },
+ {
+   "name": "Muzify",
+   "link": "https://muzify.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized book-inspired playlists.",
+   "category": "Books to music playlists",
+   "shortdesc": "Muzify is an AI-based tool that generates personalized music playlists based on the books you read. ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/muzify.png?height=207"
+ },
+ {
+   "name": "Chord Variations",
+   "link": "https://chord-alt.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Generates music chord progressions.",
+   "category": "Chord Variations",
+   "shortdesc": "Chord Variations is an AI tool that aims to help musicians generate a new chord progression by addin...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/chord-variations.png?height=207"
+ },
+ {
+   "name": "Songwraiter",
+   "link": "https://songwraiter.com/?ref=theresanaiforthat",
+   "oneliner": "Personalized lyric generation",
+   "category": "Music lyrics",
+   "shortdesc": "SongwrAiter is an AI-powered tool designed to assist users in generating personalized lyrics for son...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/songwraiter.png?height=207"
+ },
+ {
+   "name": "Voice Swap",
+   "link": "https://www.voice-swap.ai/?ref=theresanaiforthat",
+   "oneliner": "Vocal mimicking for music demos.",
+   "category": "Music demos",
+   "shortdesc": "VoiceSwap is an AI tool created by DJ FRESH and NICO PELLERIN. It aims to assist producers, artists,...",
+   "price": "From $9.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/voice-swap.png?height=207"
+ },
+ {
+   "name": "Moodplaylist",
+   "link": "https://moodplaylist.com/?ref=theresanaiforthat",
+   "oneliner": "Personalized playlists from moods and activities.",
+   "category": "Music playlists",
+   "shortdesc": "MOODPlaylist is a free online music streaming service that offers personalized playlists based on yo...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/moodplaylist.png?height=207"
+ },
+ {
+   "name": "TuneFlow",
+   "link": "https://tuneflow.com/?ref=theresanaiforthat",
+   "oneliner": "Music creation platform with voice cloning, lyric & melo",
+   "category": "Music creation",
+   "shortdesc": "TuneFlow is an intelligent music making platform powered by AI. It is designed to simplify and enhan...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/tuneflow.png?height=207"
+ },
+ {
+   "name": "Fadr",
+   "link": "https://fadr.com/?ref=theresanaiforthat",
+   "oneliner": "DJ music creation and remixing platform.",
+   "category": "Music creation",
+   "shortdesc": "Fadr is a web platform called AI Music Maker that offers a variety of AI music tools. Users can acce...",
+   "price": "Free + from $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/fadr.png?height=207"
+ },
+ {
+   "name": "Kits AI",
+   "link": "https://www.kits.ai/?ref=theresanaiforthat",
+   "oneliner": "Collaborative voice platform for musicians.",
+   "category": "Music voices",
+   "shortdesc": "Kits AI is an AI voice platform designed specifically for musicians. With Kits.AI, users have the ab...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/kits-ai.png?height=207"
+ },
+ {
+   "name": "SplitSong",
+   "link": "https://www.splitsong.com/?ref=theresanaiforthat",
+   "oneliner": "Isolate music tracks for production and remixing.",
+   "category": "Music splitting",
+   "shortdesc": "SplitSong.com is an AI-powered tool that allows users to split their songs into instrument tracks. C...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/splitsong.png?height=207"
+ },
+ {
+   "name": "Songdonkey",
+   "link": "https://songdonkey.ai/?ref=theresanaiforthat",
+   "oneliner": "Extract audio for music editing and remixing.",
+   "category": "Music splitting",
+   "shortdesc": "SongDonkey is an AI-powered online audio splitting tool that allows users to separate vocals, drums,...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/songdonkey.png?height=207"
+ },
+ {
+   "name": "Vocali.se",
+   "link": "https://vocali.se/en?ref=theresanaiforthat",
+   "oneliner": "Vocal & music separation for karaoke or remixing",
+   "category": "Music splitting",
+   "shortdesc": "Vocali.se is a one-step service that allows users to separate vocals and music from any song or audi...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/vocali-se.png?height=207"
+ },
+ {
+   "name": "Melody.ml",
+   "link": "https://melody.ml/?ref=theresanaiforthat",
+   "oneliner": "Audio track separation for music remixing.",
+   "category": "Music splitting",
+   "shortdesc": "Melody ML is an AI tool that utilizes machine learning to easily separate audio tracks. With this to...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/melody-ml.png?height=207"
+ },
+ {
+   "name": "SongStarter",
+   "link": "https://www.bandlab.com/songstarter?ref=theresanaiforthat",
+   "oneliner": "Sparked creative music exploration with generated ideas.",
+   "category": "Music creation",
+   "shortdesc": "BandLab SongStarter is an AI-powered idea generator designed to help musicians create new music. It ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/songstarter.png?height=207"
+ },
+ {
+   "name": "LANDR",
+   "link": "https://join.landr.com/referral/landr-studio/?ref=theresanaiforthat",
+   "oneliner": "Music suite with plugins, collaboration, & more.",
+   "category": "Music masters",
+   "shortdesc": "LANDR Studio is a comprehensive music production suite that offers a range of tools and features to ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/landr.png?height=207"
+ },
+ {
+   "name": "Auphonic",
+   "link": "https://auphonic.com/?ref=theresanaiforthat",
+   "oneliner": "Improve audio with automated post-production features.",
+   "category": "Music editing",
+   "shortdesc": "Auphonic is an automatic audio post-production web service that offers a range of features to enhanc...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/auphonic.png?height=207"
+ },
+ {
+   "name": "Cryo-Mix",
+   "link": "https://cryo-mix.com/?ref=theresanaiforthat",
+   "oneliner": "Automates vocal track enhancement and mastering.",
+   "category": "Music mastering",
+   "shortdesc": "Cryo Mix is an online AI mixing and mastering tool designed to enhance the quality of vocal tracks. ...",
+   "price": "From $29/mo",
+   "imageurl": "https://media.theresanaiforthat.com/cryo-mix.png?height=207"
+ },
+ {
+   "name": "Samplab",
+   "link": "https://samplab.com/text-to-sample?ref=theresanaiforthat",
+   "oneliner": "Generated unique audio samples from text.",
+   "category": "Music samples",
+   "shortdesc": "TextToSample is a free tool developed by Samplab that utilizes generative AI to convert text into au...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/samplab.png?height=207"
+ },
+ {
+   "name": "eMastered",
+   "link": "https://emastered.com/?ref=theresanaiforthat",
+   "oneliner": "Fast, affordable audio mastering for musicians.",
+   "category": "Music mastering",
+   "shortdesc": "eMastered is an online audio mastering tool developed by Grammy-winning engineers and powered by AI....",
+   "price": "From $19/mo",
+   "imageurl": "https://media.theresanaiforthat.com/emastered.png?height=207"
+ },
+ {
+   "name": "AI Studio",
+   "link": "https://www.hooksounds.com/studio/?ref=theresanaiforthat",
+   "oneliner": "Generate custom music for videos.",
+   "category": "Music creation",
+   "shortdesc": "AI Studio is a tool developed by HookSounds that allows users to generate custom music tracks for th...",
+   "price": "From $14.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/ai-studio.png?height=207"
+ },
+ {
+   "name": "Waveformer",
+   "link": "https://waveformer.replicate.dev/?ref=theresanaiforthat",
+   "oneliner": "Music composition for musicians and composers.",
+   "category": "Music creation",
+   "shortdesc": "Waveformer is an AI tool that can generate music from text input. It utilizes MusicGen, a machine le...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/waveformer.png?height=207"
+ },
+ {
+   "name": "UndertonesAI",
+   "link": "https://www.undertones.ai/?ref=theresanaiforthat",
+   "oneliner": "Effortlessly isolate music tracks from files.",
+   "category": "Music",
+   "shortdesc": "UndertonesAI is an AI tool designed to simplify the process of isolating individual tracks from musi...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/undertonesai.png?height=207"
+ },
+ {
+   "name": "Whatthebeat",
+   "link": "https://whatthebeat.com/?ref=theresanaiforthat",
+   "oneliner": "Song interpretations for a rich music experience.",
+   "category": "Music meaning",
+   "shortdesc": "WhatTheBeat is a website that leverages artificial intelligence (AI) to provide users with AI-genera...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/whatthebeat.png?height=207"
+ },
+ {
+   "name": "Rap Song Generator",
+   "link": "https://apps.apple.com/us/app/ai-rap-song-generator/id6448916248?ref=theresanaiforthat",
+   "oneliner": "Unique rap songs created",
+   "category": "Rap music",
+   "shortdesc": "The AI Rap Song Generator is an app available on the App Store for iPhone, iPad, and iPod touch that...",
+   "price": "Free + from $4.99",
+   "imageurl": "https://media.theresanaiforthat.com/rap-song-generator.png?height=207"
+ },
+ {
+   "name": "SongBot AI",
+   "link": "https://songbot.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated music and video production.",
+   "category": "Music",
+   "shortdesc": "SongBot.ai is an innovative text-to-vocals app that utilizes AI technology to generate impressive ly...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/songbot-ai.png?height=207"
+ },
+ {
+   "name": "TextFX",
+   "link": "https://textfx.withgoogle.com/?ref=theresanaiforthat",
+   "oneliner": "Enhanced writing and generated unique ideas.",
+   "category": "Content generation",
+   "shortdesc": "TextFX is a collection of AI-powered tools specifically catered to rappers, writers, and wordsmiths....",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/textfx.png?height=207"
+ },
+ {
+   "name": "LyricLab",
+   "link": "https://lyriclab.my.canva.site/?ref=theresanaiforthat",
+   "oneliner": "Effortless lyric generation for songwriters.",
+   "category": "Music",
+   "shortdesc": "LyricLab is an AI-powered tool that serves as a creative companion for songwriters. It tackles write...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/lyriclab.png?height=207"
+ },
+ {
+   "name": "Beatopia",
+   "link": "https://www.beatopia.com/ai-lyrics-generator?ref=theresanaiforthat",
+   "oneliner": "Lyric generation and genre exploration for songwriting.",
+   "category": "Music lyrics",
+   "shortdesc": "The AI Song Lyrics Generator is a tool designed to assist songwriters in generating creative and ori...",
+   "price": "From $15/mo",
+   "imageurl": "https://media.theresanaiforthat.com/beatopia.png?height=207"
+ },
+ {
+   "name": "SpaceGen",
+   "link": "https://spatialgeneration-app.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Generate and manipulate music audio.",
+   "category": "Music creation",
+   "shortdesc": "...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/spacegen.png?height=207"
+ },
+ {
+   "name": "Splitmysong",
+   "link": "https://www.splitmysong.com/?ref=theresanaiforthat",
+   "oneliner": "Music mixing & audio separation for production.",
+   "category": "Music splitting",
+   "shortdesc": "SplitMySong.com is an AI-based tool that allows users to split songs into vocals and instruments. Wi...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/splitmysong.png?height=207"
+ },
+ {
+   "name": "Jamorphosia",
+   "link": "https://www.jamorphosia.com/en/?ref=theresanaiforthat",
+   "oneliner": "Music track isolation and editing",
+   "category": "Music splitting",
+   "shortdesc": "Jamorphosia is an AI tool that uses artificial intelligence and a backtrack algorithm to split audio...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/jamorphosia.png?height=207"
+ },
+ {
+   "name": "Splitter.ai",
+   "link": "https://splitter.ai/?ref=theresanaiforthat",
+   "oneliner": "Audio separation for music production/editing.",
+   "category": "Music splitting",
+   "shortdesc": "Splitter.ai is an AI audio processing tool developed by a Swedish research company. It utilizes adva...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/splitter-ai.png?height=207"
+ },
+ {
+   "name": "Neurobit",
+   "link": "https://zen.neurobit.com/?ref=theresanaiforthat",
+   "oneliner": "Personalized sleep music enhances sleep quality.",
+   "category": "Sleep music",
+   "shortdesc": "Neurobit Zen is an AI-powered sleep music app designed to provide users with a personalized and cura...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/neurobit.png?height=207"
+ },
+ {
+   "name": "Melobytes",
+   "link": "https://melobytes.com/en/?ref=theresanaiforthat",
+   "oneliner": "Collaborative platform inspiring music, art, and more.",
+   "category": "Music",
+   "shortdesc": "Melobytes.com is an online platform that offers a wide range of AI-powered creative tools for art, m...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/melobytes.png?height=207"
+ },
+ {
+   "name": "Maastr",
+   "link": "https://maastr.io/?ref=theresanaiforthat",
+   "oneliner": "Enhanced online audio mastering platform.",
+   "category": "Music mastering",
+   "shortdesc": "Maastr is an intelligent online audio mastering platform that aims to revolutionize the audio master...",
+   "price": "From $10/mo",
+   "imageurl": "https://media.theresanaiforthat.com/maastr.png?height=207"
+ },
+ {
+   "name": "DreamikAI",
+   "link": "https://www.dreamikai.com/?ref=theresanaiforthat",
+   "oneliner": "Creates marketing videos",
+   "category": "Video generation",
+   "shortdesc": "Dreamik AI is a tool that leverages generative AI technology to transform text into professional vid...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/dreamikai.png?height=207"
+ },
+ {
+   "name": "TwoShot",
+   "link": "https://twoshot.ai/?ref=theresanaiforthat",
+   "oneliner": "Transforms music creation",
+   "category": "Music sampling",
+   "shortdesc": "TwoShot is an AI tool that revolutionizes music sampling. It offers an extensive collection of over ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/twoshot.png?height=207"
+ },
+ {
+   "name": "TuneBlades",
+   "link": "https://www.tuneblades.com/?ref=theresanaiforthat",
+   "oneliner": "Resized and remixed songs with smart audio editing.",
+   "category": "Music editing",
+   "shortdesc": "TuneBlades is smart audio editing software that allows users to automatically resize, remix, and adj...",
+   "price": "From $5.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/tuneblades.png?height=207"
+ },
+ {
+   "name": "FYI",
+   "link": "https://fyi.fyi/?ref=theresanaiforthat",
+   "oneliner": "Collaborative content generation for creatives.",
+   "category": "Content generation",
+   "shortdesc": "FYI is a collaborative communication messaging platform designed specifically for the creative commu...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/fyi.png?height=207"
+ },
+ {
+   "name": "FineShare Singify",
+   "link": "https://singify.fineshare.com/?ref=theresanaiforthat",
+   "oneliner": "Create AI music covers with artists",
+   "category": "Song covers",
+   "shortdesc": "FineShare Singify is a free online AI Song Cover Generator. It helps users to make song covers in a ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/fineshare-singify.png?height=207"
+ },
+ {
+   "name": "Audiogen",
+   "link": "https://www.audiogen.co/?ref=theresanaiforthat",
+   "oneliner": "Instantly generate high-quality audio sounds.",
+   "category": "Music",
+   "shortdesc": "Audiogen is an AI-powered tool that facilitates audio creation by generating a wide range of high-qu...",
+   "price": "Free + from $5/mo",
+   "imageurl": "https://media.theresanaiforthat.com/audiogen.png?height=207"
+ },
+ {
+   "name": "Audioatlas",
+   "link": "https://www.audioatlas.com/?ref=theresanaiforthat",
+   "oneliner": "Music search engine for personalized licensing.",
+   "category": "Music search engine",
+   "shortdesc": "Audioatlas is an AI-powered music search engine that enables users to find and license the perfect m...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/audioatlas.png?height=207"
+ },
+ {
+   "name": "Taranify",
+   "link": "https://taranify.app/?ref=theresanaiforthat",
+   "oneliner": "Music recommendations based on user preferences.",
+   "category": "Spotify music recommendations",
+   "shortdesc": "Taranify is an innovative AI-driven tool called Playlist AI that helps users discover Spotify playli...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/taranify.png?height=207"
+ },
+ {
+   "name": "AI Spy",
+   "link": "https://aispy.netlify.app/?ref=theresanaiforthat",
+   "oneliner": "Identifying human or generated music compositions.",
+   "category": "AI audio detection",
+   "shortdesc": "AI Spy is a tool designed to identify whether a particular piece of music has been created by a huma...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/ai-spy.png?height=207"
+ },
+ {
+   "name": "AI4FREE",
+   "link": "https://ai4free.ai/?ref=theresanaiforthat",
+   "oneliner": "Text/image/video/music creation & optimization platform",
+   "category": "Content generation",
+   "shortdesc": "AI4Free is a platform that offers a variety of AI tools, including text and art generators, all avai...",
+   "price": "Free",
+   "imageurl": "https://media.theresanaiforthat.com/ai4free.png?height=207"
+ },
+ {
+   "name": "Suno",
+   "link": "https://www.suno.ai/?ref=theresanaiforthat",
+   "oneliner": "Generated realistic music and speech.",
+   "category": "Music creation",
+   "shortdesc": "Suno is an AI tool developed by a research-driven company that focuses on empowering creatives in th...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/suno.png?height=207"
+ },
+ {
+   "name": "Stable Audio",
+   "link": "https://www.stableaudio.com/?ref=theresanaiforthat",
+   "oneliner": "Generate music & sounds for commercial use",
+   "category": "Music creation",
+   "shortdesc": "Stable Audio is a generative AI tool designed for creating original music and sound effects. It is s...",
+   "price": "Free + from $11.99/mo",
+   "imageurl": "https://media.theresanaiforthat.com/stable-audio.png?height=207"
+ },
+ {
+   "name": "Songburst",
+   "link": "https://www.songburst.ai/?ref=theresanaiforthat",
+   "oneliner": "Music generation for content creators and musicians.",
+   "category": "Music creation",
+   "shortdesc": "Songburst is an AI music generator that allows users to turn their words into music. It is a versati...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/songburst.png?height=207"
+ },
+ {
+   "name": "SEEVE",
+   "link": "https://seeveai.vercel.app/?ref=theresanaiforthat",
+   "oneliner": "Image, video, music creation, coding, writing assistant.",
+   "category": "Content generation",
+   "shortdesc": "...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/seeve.png?height=207"
+ },
+ {
+   "name": "Controlla Voice",
+   "link": "https://voice.controlla.xyz/?ref=theresanaiforthat",
+   "oneliner": "Voice Transformed Singers.",
+   "category": "Singing",
+   "shortdesc": "Controlla Voice is an AI tool that allows users to train their own AI singing voice. By uploading as...",
+   "price": "From $10",
+   "imageurl": "https://media.theresanaiforthat.com/controlla-voice.png?height=207"
+ },
+ {
+   "name": "InfinAIty",
+   "link": "https://infinaity.net/?ref=theresanaiforthat",
+   "oneliner": "Content and image creation for diverse needs.",
+   "category": "Content generation",
+   "shortdesc": "InfinAIty is a free AI writing tool that utilizes advanced GPT AI technology in over 35 languages. I...",
+   "price": "From $9.97/mo",
+   "imageurl": "https://media.theresanaiforthat.com/infinaity.png?height=207"
+ },
+ {
+   "name": "SoundVerse",
+   "link": "https://www.soundverse.ai/?ref=theresanaiforthat",
+   "oneliner": "Personalized music generation, simplifying creation.",
+   "category": "Music creation",
+   "shortdesc": "SoundVerse is an AI copilot tool designed to assist musicians in audio and music creation. It is an ...",
+   "price": "Free + from $12.49/mo",
+   "imageurl": "https://media.theresanaiforthat.com/soundverse.png?height=207"
+ },
+ {
+   "name": "Imfeeling",
+   "link": "https://www.imfeeling.xyz/?ref=theresanaiforthat",
+   "oneliner": "Emotion-driven music suggestions.",
+   "category": "Music recommendations",
+   "shortdesc": "ImFeeling is a tool designed to provide personalized music recommendations based on the user's curre...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/imfeeling.png?height=207"
+ },
+ {
+   "name": "Beatcanvas",
+   "link": "https://www.beatcanvas.ai/?ref=theresanaiforthat",
+   "oneliner": "Spotify Canvas Video creation for artists.",
+   "category": "Spotify canvases",
+   "shortdesc": "The Spotify Canvas Maker from Beatcanvas.ai is an AI-powered tool that allows artists to create atte...",
+   "price": "From $19",
+   "imageurl": "https://media.theresanaiforthat.com/beatcanvas.png?height=207"
+ },
+ {
+   "name": "Aimi",
+   "link": "https://www.aimi.fm/create?ref=theresanaiforthat",
+   "oneliner": "Generative music creation platform for musicians.",
+   "category": "Music creation",
+   "shortdesc": "Aimi.fm is a tool that enables users to create generative music by combining their own musical creat...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/aimi.png?height=207"
+ },
+ {
+   "name": "Visionstory",
+   "link": "https://www.visionstory.ai/dancing?ref=theresanaiforthat",
+   "oneliner": "Generated personalized dance videos.",
+   "category": "Dancing characters",
+   "shortdesc": "VisionStory is an AI tool that allows users to generate customized dance videos using a variety of m...",
+   "price": "From $1.99",
+   "imageurl": "https://media.theresanaiforthat.com/visionstory.png?height=207"
+ },
+ {
+   "name": "Denoiser by TapeIt",
+   "link": "https://tape.it/denoiser?ref=theresanaiforthat",
+   "oneliner": "Reduced background noise in audio recordings",
+   "category": "Music denoising",
+   "shortdesc": "The denoiser tool by tape it is an iOS app designed to improve the audio quality of recordings by re...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/denoiser-by-tapeit.png?height=207"
+ },
+ {
+   "name": "Blastora",
+   "link": "https://blastora.com/?ref=theresanaiforthat",
+   "oneliner": "Audio for music, video, and games",
+   "category": "Music creation",
+   "shortdesc": "Blastora.com is an AI tool that utilizes generative AI for audio. It allows users to create new soun...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/blastora.png?height=207"
+ },
+ {
+   "name": "Cleffy",
+   "link": "https://www.cleffy.io/?ref=theresanaiforthat",
+   "oneliner": "Transcribed audio to chord and lead sheets instantly.",
+   "category": "Sheet music",
+   "shortdesc": "Cleffy is an AI tool designed to transcribe chord and lead sheets from audio sources such as YouTube...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/cleffy.png?height=207"
+ },
+ {
+   "name": "Sounds Studio",
+   "link": "https://sounds.studio/?ref=theresanaiforthat",
+   "oneliner": "Streamlined audio editing for pros and enthusiasts",
+   "category": "Music creation",
+   "shortdesc": "Sounds.Studio is an AI tool designed for audio editing and production. This online platform enables ...",
+   "price": "No pricing",
+   "imageurl": "https://media.theresanaiforthat.com/sounds-studio.png?height=207"
+ },
+ {
+   "name": "Muzaic.studio",
+   "link": "https://muzaic.studio/?ref=theresanaiforthat",
+   "oneliner": "Created video soundtracks.",
+   "category": "Video soundtracks",
+   "shortdesc": "Muzaic Studio is an AI-based tool that provides users with an effortless and hassle-free way to comp...",
+   "price": "From $6.59/mo",
+   "imageurl": "https://media.theresanaiforthat.com/muzaic-studio.png?height=207"
+ }
+]

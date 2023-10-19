@@ -51,7 +51,7 @@ const CTA = () => {
                 </div>
             </div>
             <h5 class="text-xl text-gray-600 font-bold mx-auto sm:text-3xl text-center mt-20">
-    we've worked with 5+ innovative startups, here's proof of  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> service for you</span>
+    we've worked with 10+ innovative startups, here's proof of  <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> service for you</span>
         
 </h5>
 

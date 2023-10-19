@@ -63,7 +63,7 @@ const Navbar = () => {
                     <Link href={item.href} className="block" scroll={false}>
                       {item.name}
                       {item.notifications && (
-                                    <div className="absolute inline-flex items-center text-underline-dotted justify-center w-9 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-6 -right-4 dark:border-gray-100">
+                                    <div className="absolute inline-flex items-center justify-center w-9 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-6 -right-4 dark:border-gray-100">
                                         {item.notifications}
                                     </div>
                                 )}                
