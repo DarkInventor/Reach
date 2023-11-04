@@ -50,13 +50,13 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="og:image"
-          content="https://metatags.io/images/meta-tags.png"
+          content="/reach.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://www.reachactory.online/"
+          content="/reach.png"
         />
         <meta
           property="twitter:title"
@@ -68,7 +68,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="twitter:image"
-          content="https://metatags.io/images/meta-tags.png"
+          content="/reach.png"
         />
       </Head>
       <Component {...pageProps} />
