@@ -16,6 +16,10 @@ const Pricing = () => {
           const advancedPlanUrl = 'https://buy.stripe.com/6oEcPVbUoca95k4cMN';
           window.location.href = advancedPlanUrl;
         }
+        else if (planName === "Custom Vanilla Plan") {
+            const customPlanUrl = 'https://buy.stripe.com/3csaHN5w0a21aEo7sI';
+            window.location.href = customPlanUrl;
+          }
       };
 
     const plans = [
@@ -64,16 +68,15 @@ const Pricing = () => {
         },
         
         {
-            name: "Recurring plan",
-            desc: "Coming soon ..",
-            // price: 92,
+            name: "Custom Vanilla Plan",
+            desc: "All Advance plan features + Option to add 20 free directories of your choice",
+            price: 250,
             isMostPop: false,
             features: [
-                "Coming soon ..",
-                // "1000 keywords to track",
-                // "35,000 results per report",
-                // "Keyword, domain and backlink ",
-                // "Google Data Studio Integration",
+                "Add Your 20 Free Directories of your choice",
+                "100+ cherry-picked directories to post your tool",                
+                "Increasing reach by 100+ users / day",
+                "Off-page SEO Boost",
                 // "Content Marketing Platform",
             ],
         },
