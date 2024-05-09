@@ -232,9 +232,8 @@
        
         <section className="py">
        
-            <h1 className="mb-5 text-center font-mono text-2xl font-bold underline text-4xl underline-offset-9 decoration-dotted decoration-blue-800">
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> 3000+ </span> ai tools by
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9867F0] to-[#ED4E50]"> indie hackers</span>
+            <h1 className="text-center  text-4xl  mb-8 mt-2">
+            <span className="bg-clip-text text-transparent bg-gradient-to-r text-black"> List of </span> AI Tools 
             </h1>
             <div className="flex justify-end max-w-screen-lg mx-auto px-9 mb-2">
           
@@ -244,7 +243,7 @@
       <Link
         href="/ContactForm"
         target="_blank"
-        className="group relative justify-center gap-2 w-full transition-all duration-300 ease-out hover:ring-2 hover:ring-primary hover:ring-offset-2 rounded-md"
+        className="group relative justify-center gap-2 w-full transition-all duration-300 ease-out hover:ring-2 hover:ring-primary hover:ring-offset-2 rounded-md mb-5"
       >
         <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
 
@@ -259,7 +258,7 @@
         
         
         </div>
-        <AIdirectory />
+        {/* <AIdirectory /> */}
             <div className="mx-auto grid max-w-screen-lg justify-center px-4 sm:grid-cols-2 sm:gap-4 sm:px-8 md:grid-cols-3">
             {articles.map((article, index) => (
                 <article
