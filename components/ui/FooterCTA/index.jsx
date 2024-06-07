@@ -20,8 +20,8 @@ const FooterCTA = () => {
         <DarkWrapper>
             <div className="custom-screen  gap-x-12 justify-center md:flex">
                 <div className="max-w-xl">
-                    <h2 className="text-white text-6xl font-semibold sm:text-6xl">
-                        want to talk before placing the order?
+                    <h2 className=" text-6xl text-blue-200 font-semibold sm:text-6xl">
+                        Want to connect ?
                     </h2>
                     {/* <p className="ml-6 mt-5 text-gray-300">
                     Join us and witness your Product shine in the global landscape

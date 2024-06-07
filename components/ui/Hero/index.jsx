@@ -85,8 +85,8 @@ const Hero = () => {
 
       <div className="mt-0 mb-10">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="flex justify-between items-center text-center">
-            <h2 className="text-2xl font-bold text-gray-800">
+          <div className="flex justify-between items-center text-center px-4 sm:px-0">
+                <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
               Featured Products
             </h2>
             <Button
@@ -97,7 +97,7 @@ const Hero = () => {
             </Button>
           </div>
 
-          <div className="relative flex gap-4 mt-4">
+          <div className="relative flex gap-4 mt-4 sm:px-0 px-4">
             {/* Example Product */}
             <a
               href="https://wemate.ai/"
