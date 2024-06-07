@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Reachactory
 
-## Getting Started
+Welcome to **Reachactory**, the ultimate service for sharing AI Tools and SaaS products! Our platform connects your innovative solutions with over 100 directories, significantly boosting your reach by over 100 unique users per day. Feature your AI tools now to get the visibility they deserve.
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Reachactory is designed to help AI developers and SaaS providers expand their audience effortlessly. By submitting your tool, you can be featured on our main page and top the lists in the AI tools category. Don't miss out on the opportunity to showcase your product to a wider audience and drive more engagement.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- **Wide Reach**: Share your AI tools with over 100 directories.
+- **Increased Visibility**: Gain 100+ unique users daily.
+- **Prime Placement**: Get featured on the main page and top positions in the AI tools category.
+- **Easy Submission**: Submit your tool quickly and easily.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## How to Submit Your Tool
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. **Feature Your Tool on Reachactory Online**: Visit [Reachactory AI Tools Submission](https://www.reachactory.online/aitools) and click on "Submit My Tool". Fill out the form with the required information.
+2. **Get Your Tool Featured on Top 100+ Directories**: Visit [Reachactory](https://www.reachactory.online/), choose the plan and features you want, make the payment, and submit the required information to get started.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Benefits of Featuring Your Tool
 
-## Learn More
+- **Enhanced Exposure**: Your tool will be featured prominently, attracting more users.
+- **Top Listings**: Appear at the top of our AI tools directory.
+- **Community Engagement**: Engage with a growing community of AI enthusiasts and developers.
 
-To learn more about Next.js, take a look at the following resources:
+## Get Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Ready to take your AI tool to the next level? [Submit your tool now](https://www.reachactory.online/aitools) and join a community of innovators.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
+For any questions or support, feel free to reach out to us at [ktmehta25@gmail.com](mailto:ktmehta25@gmail.com) or [reachactory@gmail.com](mailto:reachactory@gmail.com).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for choosing Reachactory to share your AI tools and SaaS products. We look forward to helping you reach new heights!
+
+---
+
+**[Reachactory](https://www.reachactory.online)** - Expanding your reach, one tool at a time.
