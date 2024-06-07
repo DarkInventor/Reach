@@ -5,6 +5,7 @@ import NavLink from "../NavLink";
 // import { useRouter } from 'next/navigation';
 import { useRouter } from "next/router";
 import aitools from "../../../pages/aitools";
+import ShimmerButton from "../../magicui/shimmer-button";
 
 const Navbar = () => {
   const router = useRouter();
@@ -76,13 +77,13 @@ const Navbar = () => {
               {/* <Link href="/login" className="block hover:text-gray-900">
                                 Sign in
                             </Link> */}
-              <NavLink
-                href="#pricing"
-                className="block hover:text-gray-900 font-medium text-sm text-white bg-gray-800 hover:bg-gray-600 focus:bg-gray-900 ring-offset-2 ring-gray-800 focus:ring-2"
-                //   onClick={handleGetStartedClick}
-              >
-                Let's Order :)
-              </NavLink>
+               <NavLink
+    href="#pricing"
+    className="block font-medium text-sm text-white bg-[#2463EB] hover:bg-[#1E56D0] focus:bg-[#163E9A] ring-offset-2 ring-gray-800 focus:ring-2 transition-colors duration-300 ease-in-out"
+    //   onClick={handleGetStartedClick}
+  >
+    Let's Order :)
+</NavLink>
 
               {/* <NavLink href="/pricing" className="flex items-center justify-center gap-x-1 text-sm text-white font-medium bg-gray-800 hover:bg-gray-600 active:bg-gray-900 md:inline-flex">
                                 Get started

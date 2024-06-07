@@ -5,3 +5,15 @@
 .custom-screen {
     @apply max-w-screen-xl mx-auto px-4 md:px-8;
 }
+
+
+@keyframes shimmer {
+    0% { background-position: -468px 0; }
+    100% { background-position: 468px 0; }
+  }
+  
+  .shimmer-effect {
+    animation: shimmer 1.5s infinite linear;
+    background: linear-gradient(to right, #007bff 8%, #ffffff 18%, #007bff 33%);
+    background-size: 1000px 100%;
+  }

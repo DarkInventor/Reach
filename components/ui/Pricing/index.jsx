@@ -64,6 +64,7 @@ const Pricing = () => {
                 "100+ cherry-picked directories to post your tool",
                 "Increasing reach by 100+ users / day",
                 "Off-page SEO Boost",
+                "Get featured on the Main-Page",
             ],
         },
         
@@ -77,7 +78,7 @@ const Pricing = () => {
                 "100+ cherry-picked directories to post your tool",                
                 "Increasing reach by 100+ users / day",
                 "Off-page SEO Boost",
-                // "Content Marketing Platform",
+                "Get featured on the Main-Page",
             ],
         },
     ];

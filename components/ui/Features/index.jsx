@@ -42,7 +42,7 @@ const Features = () => {
             <div className="custom-screen text-gray-300 justify-between gap-24 lg:flex">
                 <div className="max-w-xl">
                     <h2 className="text-white text-10xl font-semibold sm:text-4xl">
-                        We Supercharge Your Reach with : 
+                        We Supercharge Your Reach Using 
                     </h2>
                     {/* <p className="mt-3">
                         split is a new, revolutionary way to generate website traffic. We offer a variety of packages to suit your needs.
